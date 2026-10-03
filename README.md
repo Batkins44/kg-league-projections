@@ -41,13 +41,15 @@ Then:
   waiver calls.
 - `proj_games_rest` = expected remaining games = (84 - team games played) x availability, where
   availability blends the preseason games projection with actual games played vs team games.
+  Players the preseason file flagged as injured stashes (Bedard, Jarvis, Faber, etc.) keep the games
+  the preseason still owes them until they play; the absence was already priced in.
 - `proj_fp_rest` = `fp_per_game` x `proj_games_rest`. This is the number for trade value.
 - `rank_10t` / `vor_10t` = value over replacement in a 10-team league with this roster
   (2C, 2LW, 2RW, 4D, 1 Util, 2G), on rest-of-season points. 8- and 12-team ranks are there too.
 
 Players who have NHL games but no preseason projection (rookies, call-ups, guys the preseason file
-skipped) get a replacement-level prior for their position and `in_prior = N`. Treat their early
-numbers with care.
+skipped) get a bottom-of-roster prior for their position, a prior that fades twice as fast, and
+`in_prior = N`. Treat their early numbers with care.
 
 ## Scoring
 

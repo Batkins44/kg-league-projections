@@ -119,10 +119,26 @@ class WithFixtures(unittest.TestCase):
         self.assertEqual(p["pos"], "RW")
         self.assertIn("no preseason projection", p["note"])
         self.assertGreater(p["fp_per_game"], 2.0)
+        self.assertLess(p["fp_per_game"], 4.0)
         g = by_name(self.players, "Dylan Garand")
         self.assertEqual(g["in_prior"], "N")
         self.assertTrue(g["is_g"])
         self.assertEqual(self.result["n_new"], 2)
+
+    def test_ir_stash_keeps_prior_games(self):
+        # Bedard: preseason 55.3 GP (shoulder), CHI has played 2, he has 0. The prior already priced the
+        # absence in, so he keeps the games it still owes him instead of shrinking further.
+        b = by_name(self.players, "Connor Bedard")
+        self.assertAlmostEqual(b["proj_games_rest"], 55.3 / 82 * 82, places=6)
+        # an unflagged healthy player who has missed games does shrink
+        m = by_name(self.players, "Nathan MacKinnon")       # COL played 1, he isn't in the fixture
+        self.assertLess(m["proj_games_rest"], 72.2 / 84 * 83)
+
+    def test_new_player_prior_is_below_replacement(self):
+        d = build.default_priors(PRIOR, CFG)
+        self.assertLess(build.fp(d["F"], CFG["skater"]), 3.6)
+        self.assertLess(build.fp(d["D"], CFG["skater"]), 2.8)
+        self.assertGreater(build.fp(d["F"], CFG["skater"]), 2.5)
 
     def test_unplayed_prior_player_flagged(self):
         b = by_name(self.players, "Connor Bedard")

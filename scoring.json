@@ -16,10 +16,11 @@
   },
 
   "default_prior": {
-    "skater_rank_window_10t": [100, 220],
-    "goalie_rank_window_10t": [150, 400],
-    "availability": {"F": 0.80, "D": 0.82},
-    "goalie_start_share": 0.30
+    "skater_rank_window_10t": [300, 9999],
+    "goalie_rank_window_10t": [200, 9999],
+    "availability": {"F": 0.70, "D": 0.70},
+    "goalie_start_share": 0.25,
+    "k_scale": 0.5
   },
 
   "last14_days": 14

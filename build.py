@@ -105,6 +105,7 @@ def load_prior(path: Path) -> list[dict]:
                 "is_g": is_g,
                 "proj_gp": gp,
                 "rank_10t_pre": int(fnum(r.get("rank_10t"), 9999)),
+                "ir_flag": (r.get("ir_stash_8t") or "").strip().upper() == "Y",
                 "totals": totals,
                 "rates": {s: (v / gp if gp else 0.0) for s, v in totals.items()},
             })
@@ -253,6 +254,7 @@ def build(cfg: dict, prior: list[dict], raw: dict) -> dict:
     defaults = default_priors(prior, cfg)
     d_avail = cfg["default_prior"]["availability"]
     d_share = cfg["default_prior"]["goalie_start_share"]
+    k_scale = cfg["default_prior"].get("k_scale", 1.0)
 
     team_gp = {s["team"]: s["gp"] for s in raw["standings"] if s.get("team")}
     tgp_vals = sorted(team_gp.values()) or [0]
@@ -268,12 +270,29 @@ def build(cfg: dict, prior: list[dict], raw: dict) -> dict:
     unmatched_prior: list[str] = []
     match_how: dict[str, int] = defaultdict(int)
 
+    def expected_share(prior_total: float, played: float, t_gp: int, remaining: int, k: float,
+                       flagged: bool, default_rate: float, in_prior: bool) -> float:
+        """Share of the team's remaining games a player is expected to play (or start, for goalies).
+
+        The preseason number already priced in known injuries, so a flagged stash who hasn't
+        played yet keeps the games the prior still owes him. Everyone else: the prior's rate,
+        capped by what it still owes, blended with games played vs team games so far.
+        """
+        if not in_prior:
+            return blend(default_rate, k, played, t_gp)
+        owed = max(0.0, prior_total - played)
+        prior_rest = min(1.0, owed / remaining) if remaining else 0.0
+        if flagged and played == 0:
+            return prior_rest
+        return blend(min(prior_total / G, prior_rest), k, played, t_gp)
+
     def make_row(p, act, in_prior, how):
         is_g = p["is_g"]
         team = act["team"] if act else p["team"]
         t_gp = tgp(team)
         remaining = max(0, G - t_gp)
         gp = act["gp"] if act else 0
+        kscale = 1.0 if in_prior else k_scale
         row = {
             "player": p["player"], "team": team, "pos": p["pos"], "elig": p["elig"], "is_g": is_g,
             "gp": gp, "team_gp": t_gp, "in_prior": "Y" if in_prior else "N", "match": how,
@@ -288,9 +307,9 @@ def build(cfg: dict, prior: list[dict], raw: dict) -> dict:
             notes.append(f"missed {t_gp - gp} of {t_gp} team games")
 
         if is_g:
-            rates = {s: blend(p["rates"][s], kgo[s], act[s] if act else 0.0, gp) for s in GO_STATS}
-            prior_share = p["proj_gp"] / G if in_prior else d_share
-            share = blend(prior_share, k_share, act["starts"] if act else 0, t_gp)
+            rates = {s: blend(p["rates"][s], kgo[s] * kscale, act[s] if act else 0.0, gp) for s in GO_STATS}
+            share = expected_share(p["proj_gp"], act["starts"] if act else 0, t_gp, remaining, k_share,
+                                   p.get("ir_flag", False), d_share, in_prior)
             row.update({
                 "fp_per_game": fp(rates, wgo),
                 "fp_prior_pg": fp(p["rates"], wgo),
@@ -303,9 +322,9 @@ def build(cfg: dict, prior: list[dict], raw: dict) -> dict:
                 "sv_pct": (act["sv"] / act["sa"]) if act and act["sa"] else None,
             })
         else:
-            rates = {s: blend(p["rates"][s], ksk[s], act[s] if act else 0.0, gp) for s in SK_STATS}
-            prior_avail = p["proj_gp"] / G if in_prior else d_avail[pos_bucket(p["elig"])]
-            avail = blend(prior_avail, k_avail, gp, t_gp)
+            rates = {s: blend(p["rates"][s], ksk[s] * kscale, act[s] if act else 0.0, gp) for s in SK_STATS}
+            avail = expected_share(p["proj_gp"], gp, t_gp, remaining, k_avail, p.get("ir_flag", False),
+                                   d_avail[pos_bucket(p["elig"])], in_prior)
             if act and not act["has_rt"]:
                 notes.append("no hit/block data this run")
             row.update({
@@ -337,7 +356,8 @@ def build(cfg: dict, prior: list[dict], raw: dict) -> dict:
             elig = {pos}
             bucket = "G" if is_g else pos_bucket(elig)
             p = {"player": a["name"], "team": a["team"], "pos": pos, "elig": elig, "is_g": is_g,
-                 "proj_gp": 0.0, "rank_10t_pre": 9999, "totals": {}, "rates": dict(defaults[bucket])}
+                 "proj_gp": 0.0, "rank_10t_pre": 9999, "ir_flag": False, "totals": {},
+                 "rates": dict(defaults[bucket])}
             players.append(make_row(p, a, False, "new"))
 
     for n in (8, 10, 12):
