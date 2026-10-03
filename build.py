@@ -190,35 +190,46 @@ def l14_fp(raw: dict, cfg: dict) -> dict[int, float]:
 
 # ----------------------------------------------------------------------------- matching
 class Matcher:
+    """Pair a preseason row with an NHL stats row by name, with position and team as tie-breakers
+    (the NHL has two Elias Petterssons on one team and two Sebastian Ahos)."""
+
     def __init__(self, actuals: dict[int, dict]):
-        self.by_norm: dict[str, dict] = {}
+        self.by_norm: dict[str, list] = defaultdict(list)
         self.by_last_team: dict[tuple, list] = defaultdict(list)
         self.by_last: dict[str, list] = defaultdict(list)
         self.used: set[int] = set()
         for a in actuals.values():
             n = norm(a["name"])
             a["_norm"] = n
-            self.by_norm[n] = a
+            a["_bucket"] = pos_bucket({a["pos_nhl"]})
+            self.by_norm[n].append(a)
             last = n.split()[-1] if n else ""
             self.by_last_team[(last, a["team"])].append(a)
             self.by_last[last].append(a)
 
-    def match(self, name: str, team: str):
+    def _pick(self, pool: list, bucket: str, team: str):
+        pool = [a for a in pool if a["_bucket"] == bucket and a["id"] not in self.used]
+        if len(pool) > 1:
+            same_team = [a for a in pool if a["team"] == team]
+            pool = same_team or pool
+        return pool[0] if len(pool) == 1 else None
+
+    def match(self, name: str, team: str, elig: set[str]):
         n = norm(name)
-        cand = self.by_norm.get(n)
-        how = "exact"
-        if cand is None and ALIASES.get(n) in self.by_norm:
-            cand, how = self.by_norm[ALIASES[n]], "alias"
+        bucket = pos_bucket(elig)
+        cand, how = self._pick(self.by_norm.get(n, []), bucket, team), "exact"
+        if cand is None and n in ALIASES:
+            cand, how = self._pick(self.by_norm.get(ALIASES[n], []), bucket, team), "alias"
         if cand is None:
             parts = n.split()
             last, first_i = (parts[-1], parts[0][:1]) if parts else ("", "")
             for pool, h in ((self.by_last_team.get((last, team), []), "last+team"),
                             (self.by_last.get(last, []), "last")):
-                pool = [a for a in pool if a["_norm"].startswith(first_i)]
-                if len(pool) == 1:
-                    cand, how = pool[0], h
+                cand = self._pick([a for a in pool if a["_norm"].startswith(first_i)], bucket, team)
+                if cand is not None:
+                    how = h
                     break
-        if cand is None or cand["id"] in self.used:
+        if cand is None:
             return None, "unmatched"
         self.used.add(cand["id"])
         return cand, how
@@ -341,7 +352,7 @@ def build(cfg: dict, prior: list[dict], raw: dict) -> dict:
         return row
 
     for p in prior:
-        act, how = (mgo if p["is_g"] else msk).match(p["player"], p["team"])
+        act, how = (mgo if p["is_g"] else msk).match(p["player"], p["team"], p["elig"])
         match_how[how] += 1
         if act is None:
             unmatched_prior.append(p["player"])

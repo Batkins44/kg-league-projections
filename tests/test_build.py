@@ -110,6 +110,17 @@ class WithFixtures(unittest.TestCase):
         self.assertEqual(by_name(self.players, "Luke Hughes")["totals"]["blk"], 2)
         self.assertEqual(by_name(self.players, "Quinn Hughes")["team"], "MIN")
 
+    def test_duplicate_names_resolve_by_position(self):
+        c = by_name(self.players, "Elias Pettersson")          # the preseason row is the center
+        self.assertEqual(c["pos"], "C")
+        self.assertEqual(c["totals"]["g"], 2)
+        dman = [p for p in self.players if p["player"] == "Elias Pettersson" and p["in_prior"] == "N"]
+        self.assertEqual(len(dman), 1)
+        self.assertEqual(dman[0]["pos"], "D")
+        aho = by_name(self.players, "Sebastian Aho")             # preseason row is the Carolina center
+        self.assertEqual(aho["match"], "unmatched")              # CAR's Aho isn't in the fixture; NYI's D must not be taken
+        self.assertEqual(self.result["n_new"], 4)
+
     def test_traded_player_gets_current_team(self):
         self.assertEqual(by_name(self.players, "Kirill Marchenko")["team"], "TOR")
 
@@ -123,7 +134,7 @@ class WithFixtures(unittest.TestCase):
         g = by_name(self.players, "Dylan Garand")
         self.assertEqual(g["in_prior"], "N")
         self.assertTrue(g["is_g"])
-        self.assertEqual(self.result["n_new"], 2)
+        self.assertEqual(self.result["n_new"], 4)
 
     def test_ir_stash_keeps_prior_games(self):
         # Bedard: preseason 55.3 GP (shoulder), CHI has played 2, he has 0. The prior already priced the
@@ -176,7 +187,7 @@ class EndToEnd(unittest.TestCase):
                 self.assertTrue((out / name).exists(), name)
             with open(out / "projections.csv", encoding="utf-8", newline="") as f:
                 rows = list(csv.DictReader(f))
-            self.assertEqual(len(rows), len(PRIOR) + 2)
+            self.assertEqual(len(rows), len(PRIOR) + 4)
             self.assertEqual(rows[0]["rank_10t"], "1")
             self.assertEqual(set(build.OUT_COLS), set(rows[0].keys()))
             ham = next(r for r in rows if r["player"] == "Dougie Hamilton")
@@ -186,7 +197,7 @@ class EndToEnd(unittest.TestCase):
             self.assertIn("Top 30 skaters", summary)
             self.assertIn("Cole Perfetti", summary)
             meta = json.loads((out / "last_run.json").read_text())
-            self.assertEqual(meta["new_players"], 2)
+            self.assertEqual(meta["new_players"], 4)
 
     def test_cli_refuses_empty_raw_without_flag(self):
         with tempfile.TemporaryDirectory() as td:
