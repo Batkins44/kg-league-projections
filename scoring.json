@@ -1,0 +1,26 @@
+{
+  "league": "KG's league (KKFUPFL scoring), Yahoo league 145812",
+  "season": "20262027",
+  "games_per_team": 84,
+  "league_teams": 10,
+  "roster_slots": {"C": 2, "LW": 2, "RW": 2, "D": 4, "UTIL": 1, "G": 2},
+
+  "skater": {"g": 4.5, "a": 3.0, "shp": 2.0, "sog": 0.5, "hit": 0.25, "blk": 0.5},
+  "goalie": {"w": 3.0, "ga": -1.0, "sv": 0.3, "so": 3.0},
+
+  "prior_strength_games": {
+    "skater": {"g": 40, "a": 35, "shp": 40, "sog": 15, "hit": 10, "blk": 12},
+    "skater_availability": 20,
+    "goalie": {"w": 25, "ga": 15, "sv": 8, "so": 40},
+    "goalie_start_share": 15
+  },
+
+  "default_prior": {
+    "skater_rank_window_10t": [100, 220],
+    "goalie_rank_window_10t": [150, 400],
+    "availability": {"F": 0.80, "D": 0.82},
+    "goalie_start_share": 0.30
+  },
+
+  "last14_days": 14
+}
