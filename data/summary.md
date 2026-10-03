@@ -1,6 +1,6 @@
 # Projections summary
 
-Built Sat Oct 03, 2026 01:47 PM Central (data fetched 2026-10-03T18:47:00+00:00 UTC). Team games played: 0 to 3 of 84. Goalie GA scored at -1.
+Built Sat Oct 03, 2026 01:49 PM Central (data fetched 2026-10-03T18:49:22+00:00 UTC). Team games played: 0 to 3 of 84. Goalie GA scored at -1.
 Players: 659 (305 without a preseason projection). Prior matches: {'exact': 295, 'unmatched': 58, 'alias': 1}.
 
 ## Top 30 skaters, blended points per game
@@ -64,12 +64,12 @@ Players: 659 (305 without a preseason projection). Prior matches: {'exact': 295,
 | Mika Zibanejad | NYR | C,RW | 3 | 4.77 | 4.77 | +0.01 | 96 |
 | Marcus Pettersson | NYR | D | 3 | 2.40 | 2.39 | +0.01 | 277 |
 | Eeli Tolvanen | NYR | RW | 3 | 3.72 | 3.72 | +0.00 | 258 |
-| Vladislav Gavrikov | NYR | D | 3 | 2.80 | 2.80 | -0.00 | 192 |
-| Braden Schneider | NYR | D | 3 | 2.86 | 2.87 | -0.00 | 184 |
+| Vladislav Gavrikov | NYR | D | 3 | 2.80 | 2.80 | -0.00 | 193 |
+| Braden Schneider | NYR | D | 3 | 2.86 | 2.87 | -0.00 | 185 |
 | Sean Durzi | NYR | D | 3 | 2.92 | 2.99 | -0.07 | 286 |
-| Will Cuylle | NYR | LW | 3 | 4.09 | 4.17 | -0.08 | 158 |
+| Will Cuylle | NYR | LW | 3 | 4.09 | 4.17 | -0.08 | 159 |
 | Adam Fox | NYR | D | 3 | 4.34 | 4.51 | -0.17 | 59 |
-| J.T. Miller | NYR | C,LW,RW | 3 | 4.33 | 4.56 | -0.22 | 168 |
+| J.T. Miller | NYR | C,LW,RW | 3 | 4.33 | 4.56 | -0.22 | 169 |
 | Alexis Lafrenière | NYR | LW,RW | 3 | 3.72 | 3.98 | -0.25 | 223 |
 
 ## Fallers vs preseason (min 3 GP)
@@ -77,12 +77,12 @@ Players: 659 (305 without a preseason projection). Prior matches: {'exact': 295,
 | Player | Team | Pos | GP | FP/G now | Pre | Change | Rk10 |
 |---|---|---|---|---|---|---|---|
 | Alexis Lafrenière | NYR | LW,RW | 3 | 3.72 | 3.98 | -0.25 | 223 |
-| J.T. Miller | NYR | C,LW,RW | 3 | 4.33 | 4.56 | -0.22 | 168 |
+| J.T. Miller | NYR | C,LW,RW | 3 | 4.33 | 4.56 | -0.22 | 169 |
 | Adam Fox | NYR | D | 3 | 4.34 | 4.51 | -0.17 | 59 |
-| Will Cuylle | NYR | LW | 3 | 4.09 | 4.17 | -0.08 | 158 |
+| Will Cuylle | NYR | LW | 3 | 4.09 | 4.17 | -0.08 | 159 |
 | Sean Durzi | NYR | D | 3 | 2.92 | 2.99 | -0.07 | 286 |
-| Braden Schneider | NYR | D | 3 | 2.86 | 2.87 | -0.00 | 184 |
-| Vladislav Gavrikov | NYR | D | 3 | 2.80 | 2.80 | -0.00 | 192 |
+| Braden Schneider | NYR | D | 3 | 2.86 | 2.87 | -0.00 | 185 |
+| Vladislav Gavrikov | NYR | D | 3 | 2.80 | 2.80 | -0.00 | 193 |
 | Eeli Tolvanen | NYR | RW | 3 | 3.72 | 3.72 | +0.00 | 258 |
 | Marcus Pettersson | NYR | D | 3 | 2.40 | 2.39 | +0.01 | 277 |
 | Mika Zibanejad | NYR | C,RW | 3 | 4.77 | 4.77 | +0.01 | 96 |
