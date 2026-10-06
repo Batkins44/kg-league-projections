@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-10-05T19:09:12+00:00",
- "fetched_at_utc": "2026-10-05T19:09:08+00:00",
- "players": 692,
- "new_players": 338,
+ "built_at_utc": "2026-10-06T16:36:38+00:00",
+ "fetched_at_utc": "2026-10-06T16:36:34+00:00",
+ "players": 703,
+ "new_players": 349,
  "unmatched_prior": [
   "Connor Bedard",
   "Seth Jarvis",
@@ -16,7 +16,6 @@
   "Rasmus Sandin",
   "Connor Hellebuyck",
   "Kevin Fiala",
-  "Sergei Murashov",
   "Frederik Andersen",
   "Thatcher Demko",
   "Mathew Barzal",
@@ -40,11 +39,11 @@
   "Nikita Klepov"
  ],
  "match_how": {
-  "exact": 319,
-  "unmatched": 34,
+  "exact": 320,
+  "unmatched": 33,
   "alias": 1
  },
- "team_gp_min": 1,
+ "team_gp_min": 2,
  "team_gp_max": 4,
  "goalie_ga_points": -1.0
 }
