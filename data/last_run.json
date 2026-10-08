@@ -1,14 +1,13 @@
 {
- "built_at_utc": "2026-10-07T17:21:21+00:00",
- "fetched_at_utc": "2026-10-07T17:21:17+00:00",
- "players": 711,
- "new_players": 357,
+ "built_at_utc": "2026-10-08T17:17:59+00:00",
+ "fetched_at_utc": "2026-10-08T17:17:54+00:00",
+ "players": 715,
+ "new_players": 361,
  "unmatched_prior": [
   "Connor Bedard",
   "Seth Jarvis",
   "Brock Faber",
   "Charlie McAvoy",
-  "Bryan Rust",
   "Scott Wedgewood",
   "Troy Terry",
   "Ivan Provorov",
@@ -33,12 +32,11 @@
   "Alex Lyon",
   "Samuel Montembeault",
   "Dennis Hildeby",
-  "Daniil Tarasov",
-  "Nikita Klepov"
+  "Daniil Tarasov"
  ],
  "match_how": {
-  "exact": 322,
-  "unmatched": 31,
+  "exact": 324,
+  "unmatched": 29,
   "alias": 1
  },
  "team_gp_min": 2,
