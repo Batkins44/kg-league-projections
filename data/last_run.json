@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-10-10T15:47:41+00:00",
- "fetched_at_utc": "2026-10-10T15:47:36+00:00",
- "players": 731,
- "new_players": 377,
+ "built_at_utc": "2026-10-11T16:12:11+00:00",
+ "fetched_at_utc": "2026-10-11T16:12:07+00:00",
+ "players": 744,
+ "new_players": 390,
  "unmatched_prior": [
   "Connor Bedard",
   "Seth Jarvis",
@@ -21,7 +21,6 @@
   "Filip Gustavsson",
   "Ryan Nugent-Hopkins",
   "Justus Annunen",
-  "Kaiden Guhle",
   "Dante Fabbro",
   "Artem Zub",
   "Marek Alscher",
@@ -30,11 +29,11 @@
   "Samuel Montembeault"
  ],
  "match_how": {
-  "exact": 329,
-  "unmatched": 24,
+  "exact": 330,
+  "unmatched": 23,
   "alias": 1
  },
- "team_gp_min": 3,
+ "team_gp_min": 4,
  "team_gp_max": 6,
  "goalie_ga_points": -1.0
 }
