@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-10-11T16:12:11+00:00",
- "fetched_at_utc": "2026-10-11T16:12:07+00:00",
- "players": 744,
- "new_players": 390,
+ "built_at_utc": "2026-10-12T19:42:37+00:00",
+ "fetched_at_utc": "2026-10-12T19:42:30+00:00",
+ "players": 747,
+ "new_players": 393,
  "unmatched_prior": [
   "Connor Bedard",
   "Seth Jarvis",
@@ -34,6 +34,6 @@
   "alias": 1
  },
  "team_gp_min": 4,
- "team_gp_max": 6,
+ "team_gp_max": 7,
  "goalie_ga_points": -1.0
 }
