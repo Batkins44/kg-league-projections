@@ -1,5 +1,5 @@
 player,team,gp,starts,w,sv,ga,so,sv_pct,fp,fp_pg
-Adin Hill,VGK,3,3,3,64,7,0,0.901,21.20,7.07
+Adin Hill,VGK,3,3,3,65,7,0,0.903,21.50,7.17
 Akira Schmid,FLA,3,2,1,70,10,0,0.875,14.00,4.67
 Alex Nedeljkovic,SJS,1,1,1,24,2,0,0.923,8.20,8.20
 Andrei Vasilevskiy,TBL,5,5,3,93,12,0,0.886,24.90,4.98
@@ -11,8 +11,8 @@ Brandon Bussi,CAR,4,4,2,81,12,0,0.871,18.30,4.58
 Calvin Pickard,MIN,1,1,0,20,5,0,0.800,1.00,1.00
 Cam Talbot,CBJ,2,2,1,37,8,0,0.822,6.10,3.05
 Carter Hart,VGK,5,5,3,115,12,0,0.906,31.50,6.30
-Casey DeSmith,DAL,1,1,0,24,2,0,0.923,5.20,5.20
-Charlie Lindgren,WSH,1,1,0,27,2,0,0.931,6.10,6.10
+Casey DeSmith,DAL,2,2,1,49,4,0,0.925,13.70,6.85
+Charlie Lindgren,WSH,2,2,1,53,6,0,0.898,12.90,6.45
 Clay Stevenson,WPG,2,2,1,41,6,0,0.872,9.30,4.65
 Colten Ellis,BUF,3,3,1,51,8,0,0.864,10.30,3.43
 Dan Vladar,PHI,4,4,0,119,17,0,0.875,18.70,4.67
@@ -25,15 +25,15 @@ Dustin Wolf,CGY,4,4,1,94,18,0,0.839,13.20,3.30
 Dylan Garand,NYR,4,3,3,77,4,1,0.951,31.10,7.77
 Igor Shesterkin,NYR,5,5,3,101,8,0,0.927,31.30,6.26
 Ilya Sorokin,NYI,5,5,3,128,9,1,0.934,41.40,8.28
-Jacob Fowler,MTL,3,3,2,59,6,1,0.908,20.70,6.90
+Jacob Fowler,MTL,3,3,2,58,6,1,0.906,20.40,6.80
 Jacob Markstrom,FLA,5,5,2,85,9,1,0.904,25.50,5.10
 Jake Allen,NJD,4,4,3,92,12,0,0.885,24.60,6.15
 Jake Oettinger,DAL,5,5,2,101,6,2,0.944,36.30,7.26
-Jakub Dobes,MTL,3,3,1,77,13,0,0.856,13.10,4.37
+Jakub Dobes,MTL,4,4,1,95,18,0,0.841,13.50,3.38
 Jeremy Swayman,BOS,6,6,5,159,12,1,0.930,53.70,8.95
 Jesper Wallstedt,MIN,6,6,4,152,11,0,0.933,46.60,7.77
 Jet Greaves,CBJ,4,3,1,76,11,0,0.874,14.80,3.70
-Joel Hofer,STL,4,4,2,81,7,1,0.920,26.30,6.58
+Joel Hofer,STL,4,4,2,82,7,1,0.921,26.60,6.65
 Joey Daccord,SEA,4,4,3,105,10,0,0.913,30.50,7.62
 John Gibson,DET,5,5,1,107,17,0,0.863,18.10,3.62
 Jordan Binnington,STL,2,2,1,50,9,0,0.847,9.00,4.50
@@ -52,7 +52,7 @@ Nico Daws,NJD,2,2,0,42,9,0,0.824,3.60,1.80
 Philipp Grubauer,SEA,4,3,2,90,8,0,0.918,25.00,6.25
 Pyotr Kochetkov,CAR,4,4,4,72,7,0,0.911,26.60,6.65
 Samuel Ersson,OTT,3,2,0,58,12,0,0.829,5.40,1.80
-Scott Wedgewood,COL,1,1,1,26,3,0,0.897,7.80,7.80
+Scott Wedgewood,COL,2,2,1,46,5,0,0.902,11.80,5.90
 Sebastian Cossa,UTA,2,2,1,23,4,0,0.852,5.90,2.95
 Semyon Varlamov,NYI,1,1,0,19,3,0,0.864,2.70,2.70
 Sergei Bobrovsky,TOR,4,4,1,117,12,0,0.907,26.10,6.53
