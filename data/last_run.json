@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-10-19T16:52:37+00:00",
- "fetched_at_utc": "2026-10-19T16:52:33+00:00",
- "players": 776,
- "new_players": 422,
+ "built_at_utc": "2026-10-20T14:51:51+00:00",
+ "fetched_at_utc": "2026-10-20T14:51:48+00:00",
+ "players": 783,
+ "new_players": 429,
  "unmatched_prior": [
   "Seth Jarvis",
   "Brock Faber",
@@ -31,6 +31,6 @@
   "alias": 1
  },
  "team_gp_min": 6,
- "team_gp_max": 10,
+ "team_gp_max": 11,
  "goalie_ga_points": -1.0
 }
