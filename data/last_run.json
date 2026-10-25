@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-10-24T13:54:15+00:00",
- "fetched_at_utc": "2026-10-24T13:54:11+00:00",
- "players": 802,
- "new_players": 448,
+ "built_at_utc": "2026-10-25T14:12:48+00:00",
+ "fetched_at_utc": "2026-10-25T14:11:40+00:00",
+ "players": 807,
+ "new_players": 453,
  "unmatched_prior": [
   "Brock Faber",
   "Troy Terry",
@@ -23,11 +23,12 @@
   "Samuel Montembeault"
  ],
  "match_how": {
-  "exact": 336,
+  "exact": 335,
   "unmatched": 17,
-  "alias": 1
+  "alias": 1,
+  "last+team": 1
  },
- "team_gp_min": 8,
- "team_gp_max": 12,
+ "team_gp_min": 9,
+ "team_gp_max": 13,
  "goalie_ga_points": -1.0
 }
