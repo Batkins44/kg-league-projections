@@ -34,6 +34,7 @@ API = "https://fantasysports.yahooapis.com/fantasy/v2"
 TOKEN_URL = "https://api.login.yahoo.com/oauth2/get_token"
 UA = "kg-league-projections/1.0 (+https://github.com/Batkins44/kg-league-projections)"
 MIN_GOALIE_APPEARANCES = 3
+DEFAULT_WEEKLY_ADDS = 5
 
 
 def access_token(client_id: str, secret: str, refresh: str) -> str:
@@ -76,11 +77,25 @@ def merge(node) -> dict:
     return out
 
 
-def items(coll: dict, key: str) -> list:
-    """The entries of a Yahoo collection, e.g. items(players, 'player')."""
+def items(coll, key: str) -> list:
+    """The entries of a Yahoo collection, e.g. items(players, 'player').
+
+    Most collections come as {"0": {...}, "1": {...}, "count": N}, but some
+    (player_stats.stats) come as a plain list of {"stat": {...}}; take both.
+    """
+    if isinstance(coll, list):
+        return [c[key] for c in coll if isinstance(c, dict) and key in c]
     if not isinstance(coll, dict):
         return []
     return [coll[k][key] for k in sorted((k for k in coll if k.isdigit()), key=int)]
+
+
+def num(v) -> float:
+    """A Yahoo stat value as a number; '-' and blanks (no game) are 0."""
+    try:
+        return float(v)
+    except (TypeError, ValueError):
+        return 0.0
 
 
 def parse_player(raw) -> dict:
@@ -114,21 +129,27 @@ def roster(team_key: str, day: date, token: str, with_stats: bool = False) -> li
 
 
 def goalie_appearances(team_key: str, start: date, through: date, sv_id: str, ga_id: str, token: str) -> dict:
-    """Goalies in a G slot who faced a shot, per day, Monday through yesterday."""
-    days, total, d = [], 0, start
+    """Goalies in a G slot who faced a shot, per day, Monday through yesterday.
+
+    stats_missing lists days where Yahoo sent a G-slot goalie with no stats at
+    all; on those days the count can't be trusted.
+    """
+    days, total, missing, d = [], 0, [], start
     while d <= through:
         names = []
         for p in roster(team_key, d, token, with_stats=True):
             if p["slot"] != "G":
                 continue
-            sv = float(p["stats"].get(sv_id) or 0)
-            ga = float(p["stats"].get(ga_id) or 0)
-            if sv + ga > 0:
+            if not p["stats"]:
+                if d.isoformat() not in missing:
+                    missing.append(d.isoformat())
+                continue
+            if num(p["stats"].get(sv_id)) + num(p["stats"].get(ga_id)) > 0:
                 names.append(p["name"])
         total += len(names)
         days.append({"date": d.isoformat(), "goalies": names})
         d += timedelta(days=1)
-    return {"count": total, "minimum": MIN_GOALIE_APPEARANCES, "by_day": days}
+    return {"count": total, "minimum": MIN_GOALIE_APPEARANCES, "by_day": days, "stats_missing": missing}
 
 
 def matchup(league_key: str, week: int, token: str) -> dict:
@@ -147,9 +168,18 @@ def matchup(league_key: str, week: int, token: str) -> dict:
     return {}
 
 
-def stat_ids(league_key: str, token: str) -> dict:
-    settings = merge(get(f"league/{league_key}/settings", token)["league"])["settings"]
-    cats = merge(settings).get("stat_categories", {}).get("stats", [])
+def league_settings(league_key: str, token: str) -> dict:
+    return merge(merge(get(f"league/{league_key}/settings", token)["league"])["settings"])
+
+
+def weekly_add_limit(settings: dict) -> int:
+    """The league's weekly add cap; 5 per the Yahoo settings page (Oct 6) if the API omits it."""
+    v = settings.get("max_weekly_adds")
+    return int(v) if str(v or "").isdigit() and int(v) > 0 else DEFAULT_WEEKLY_ADDS
+
+
+def stat_ids(settings: dict) -> dict:
+    cats = settings.get("stat_categories", {}).get("stats", [])
     out = {}
     for c in cats:
         s = c.get("stat", {})
@@ -174,7 +204,8 @@ def main() -> int:
     team = merge(get(f"team/{team_key}", token)["team"])
     league = merge(get(f"league/{league_key}", token)["league"])
     week = int(league.get("current_week") or team.get("roster_adds", {}).get("coverage_value") or 0)
-    ids = stat_ids(league_key, token)
+    settings = league_settings(league_key, token)
+    ids = stat_ids(settings)
 
     now = datetime.now(TZ)
     today = now.date()
@@ -183,7 +214,7 @@ def main() -> int:
         "fetched_at_central": now.isoformat(timespec="minutes"),
         "league_key": league_key,
         "team": {"name": team.get("name"), "waiver_priority": team.get("waiver_priority"),
-                 "adds_this_week": (team.get("roster_adds") or {}).get("value"), "adds_max": 4},
+                 "adds_this_week": (team.get("roster_adds") or {}).get("value"), "adds_max": weekly_add_limit(settings)},
         "week": week,
         "matchup": {},
         "lineup": {},
@@ -209,6 +240,10 @@ def main() -> int:
         snap["goalie_appearances"] = goalie_appearances(team_key, start, today - timedelta(days=1),
                                                         sv_id, ga_id, token)
         snap["goalie_appearances"]["note"] = "Monday through yesterday; today's games aren't counted yet"
+        if snap["goalie_appearances"]["stats_missing"]:
+            snap["errors"].append("goalie appearances: Yahoo sent no stats for a G-slot goalie on "
+                                  + ", ".join(snap["goalie_appearances"]["stats_missing"])
+                                  + "; the count may be low")
     except Exception as e:  # noqa: BLE001
         snap["errors"].append(f"goalie appearances: {e}")
 
