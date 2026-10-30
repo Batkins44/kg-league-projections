@@ -1,0 +1,533 @@
+{
+ "fetched_at_utc": "2026-10-30T23:56:04+00:00",
+ "fetched_at_central": "2026-10-30T18:56-05:00",
+ "league_key": "477.l.145812",
+ "team": {
+  "name": "Ben's Slutty Team",
+  "waiver_priority": 6,
+  "adds_this_week": "2",
+  "adds_max": 4
+ },
+ "week": 5,
+ "matchup": {
+  "week_start": "2026-10-26",
+  "week_end": "2026-11-01",
+  "status": "midevent",
+  "me": {
+   "name": "Ben's Slutty Team",
+   "points": "160.00",
+   "projected": "268.26"
+  },
+  "opponent": {
+   "name": "Grand Marshall",
+   "points": "134.45",
+   "projected": "218.10"
+  }
+ },
+ "lineup": {
+  "2026-10-30": [
+   {
+    "name": "Bo Horvat",
+    "player_key": "477.p.5988",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "C",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Mason McTavish",
+    "player_key": "477.p.8879",
+    "nhl_team": "STL",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "C",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "slot": "LW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Cole Perfetti",
+    "player_key": "477.p.8650",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "LW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "RW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "slot": "RW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jake Sanderson",
+    "player_key": "477.p.8645",
+    "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Matthew Schaefer",
+    "player_key": "477.p.33423",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Zach Werenski",
+    "player_key": "477.p.6750",
+    "nhl_team": "CBJ",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Thomas Chabot",
+    "player_key": "477.p.6760",
+    "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "Util",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util",
+     "IR+"
+    ],
+    "slot": "BN",
+    "status": "DTD",
+    "injury_note": "Undisclosed"
+   },
+   {
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Pyotr Kochetkov",
+    "player_key": "477.p.8314",
+    "nhl_team": "CAR",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jakub Dobes",
+    "player_key": "477.p.30862",
+    "nhl_team": "MTL",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   }
+  ],
+  "2026-10-31": [
+   {
+    "name": "Bo Horvat",
+    "player_key": "477.p.5988",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "C",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Mason McTavish",
+    "player_key": "477.p.8879",
+    "nhl_team": "STL",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "C",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "LW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "LW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "RW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "slot": "RW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jake Sanderson",
+    "player_key": "477.p.8645",
+    "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Matthew Schaefer",
+    "player_key": "477.p.33423",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Zach Werenski",
+    "player_key": "477.p.6750",
+    "nhl_team": "CBJ",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Thomas Chabot",
+    "player_key": "477.p.6760",
+    "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "slot": "D",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util"
+    ],
+    "slot": "Util",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Cole Perfetti",
+    "player_key": "477.p.8650",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util",
+     "IR+"
+    ],
+    "slot": "BN",
+    "status": "DTD",
+    "injury_note": "Undisclosed"
+   },
+   {
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Pyotr Kochetkov",
+    "player_key": "477.p.8314",
+    "nhl_team": "CAR",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jakub Dobes",
+    "player_key": "477.p.30862",
+    "nhl_team": "MTL",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   }
+  ]
+ },
+ "goalie_appearances": {
+  "count": 0,
+  "minimum": 3,
+  "by_day": [
+   {
+    "date": "2026-10-26",
+    "goalies": []
+   },
+   {
+    "date": "2026-10-27",
+    "goalies": []
+   },
+   {
+    "date": "2026-10-28",
+    "goalies": []
+   },
+   {
+    "date": "2026-10-29",
+    "goalies": []
+   }
+  ],
+  "note": "Monday through yesterday; today's games aren't counted yet"
+ },
+ "errors": []
+}
