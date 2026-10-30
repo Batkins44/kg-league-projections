@@ -11,7 +11,7 @@ Adam Jiricek,STL,D,13,1,1,0,19,10,13,26.00,2.00
 Adam Klapka,CGY,RW,12,2,2,0,17,46,7,38.50,3.21
 Adam Larsson,SEA,D,13,0,2,0,12,21,28,31.25,2.40
 Adam Lowry,WPG,C,13,2,3,1,11,24,8,35.50,2.73
-Adam Pelech,NYI,D,13,1,2,0,17,13,24,34.25,2.63
+Adam Pelech,NYI,D,13,1,2,0,17,13,23,33.75,2.60
 Adam Wilsby,NSH,D,13,0,5,1,15,5,15,33.25,2.56
 Adrian Kempe,LAK,RW,12,3,5,0,41,18,3,55.00,4.58
 Albert Johansson,DET,D,11,0,1,0,14,3,12,16.75,1.52
@@ -60,7 +60,7 @@ Arseny Gritsyuk,NJD,RW,13,6,4,0,27,12,7,59.00,4.54
 Arshdeep Bains,VAN,LW,13,2,2,0,8,8,7,24.50,1.88
 Artem Duda,UTA,D,1,0,0,0,4,0,1,2.50,2.50
 Artem Zub,OTT,D,7,0,2,0,6,5,10,15.25,2.18
-Artemi Panarin,LAK,LW,12,8,5,0,39,5,2,72.75,6.06
+Artemi Panarin,LAK,LW,12,8,5,0,39,5,1,72.25,6.02
 Arttu Hyry,DAL,RW,13,3,0,1,22,25,6,35.75,2.75
 Artturi Lehkonen,COL,LW,13,10,5,0,24,12,12,81.00,6.23
 Artyom Levshunov,CHI,D,13,1,2,0,18,25,9,30.25,2.33
@@ -74,7 +74,7 @@ Beck Malenstyn,BUF,LW,13,0,2,0,7,50,11,27.50,2.12
 Beckett Sennecke,ANA,RW,13,8,4,0,31,16,6,70.50,5.42
 Ben Chiarot,DET,D,13,0,1,0,9,15,19,20.75,1.60
 Ben Jones,CGY,C,2,0,0,0,0,5,3,2.75,1.38
-Ben Kindel,PIT,C,10,3,3,0,26,4,4,38.50,3.85
+Ben Kindel,PIT,C,10,3,3,0,25,4,4,38.00,3.80
 Ben Meyers,SEA,C,11,1,5,0,11,18,10,34.50,3.14
 Berkly Catton,SEA,C,13,4,6,0,24,5,4,51.25,3.94
 Blake Coleman,MIN,LW,15,4,1,0,34,28,11,50.50,3.37
@@ -135,7 +135,7 @@ Chris Kreider,MTL,LW,13,1,4,0,11,19,7,30.25,2.33
 Chris Tanev,TOR,D,6,0,1,0,1,1,14,10.75,1.79
 Christian Dvorak,PHI,C,15,2,3,0,19,16,8,35.50,2.37
 Claude Giroux,OTT,RW,14,2,6,0,18,18,4,42.50,3.04
-Clayton Keller,UTA,RW,14,4,12,0,31,6,10,76.00,5.43
+Clayton Keller,UTA,RW,14,4,12,0,32,6,10,76.50,5.46
 Cody Ceci,LAK,D,7,0,1,1,6,2,7,12.00,1.71
 Cody Glass,NJD,C,13,1,1,1,19,15,8,26.75,2.06
 Cole Beaudoin,NYR,C,4,0,0,0,1,6,3,3.50,0.88
@@ -201,7 +201,7 @@ Drew Helleson,ANA,D,6,0,0,0,7,10,12,12.00,2.00
 Drew O'Connor,VAN,LW,15,2,2,1,18,21,11,36.75,2.45
 Dylan Coghlan,VGK,D,7,0,1,0,11,6,7,13.50,1.93
 Dylan Cozens,OTT,C,14,3,5,0,30,39,6,56.25,4.02
-Dylan DeMelo,WPG,D,13,1,2,0,10,19,13,26.75,2.06
+Dylan DeMelo,WPG,D,13,1,2,0,9,19,13,26.25,2.02
 Dylan Guenther,UTA,RW,14,5,5,0,39,12,6,63.00,4.50
 Dylan Holloway,STL,LW,13,3,8,0,28,25,8,61.75,4.75
 Dylan Hryckowian,DAL,RW,2,0,0,0,1,1,0,0.75,0.38
@@ -307,7 +307,7 @@ Jake McCabe,TOR,D,15,0,2,0,17,16,31,34.00,2.27
 Jake Neighbours,STL,LW,13,4,3,0,24,44,8,54.00,4.15
 Jake Sanderson,OTT,D,6,1,5,0,13,6,9,32.00,5.33
 Jake Walman,EDM,D,9,0,1,0,10,0,14,15.00,1.67
-Jakob Chychrun,WSH,D,12,1,8,0,37,5,20,58.25,4.85
+Jakob Chychrun,WSH,D,12,1,8,0,37,5,21,58.75,4.90
 Jalen Chatfield,CAR,D,15,1,3,0,21,7,19,35.25,2.35
 James Hagens,BOS,C,14,5,5,0,27,7,16,60.75,4.34
 Jamie Benn,DAL,LW,13,2,2,0,17,16,2,28.50,2.19
@@ -334,7 +334,7 @@ Jimmy Snuggerud,STL,RW,13,7,2,0,29,8,4,56.00,4.31
 Jiri Kulich,BUF,C,8,1,2,0,9,7,3,18.25,2.28
 Joel Armia,LAK,RW,12,2,2,1,18,23,11,37.25,3.10
 Joel Edmundson,LAK,D,12,1,1,0,14,9,18,25.75,2.15
-Joel Eriksson Ek,MIN,C,15,5,7,0,50,20,5,76.00,5.07
+Joel Eriksson Ek,MIN,C,15,5,7,0,51,20,5,76.50,5.10
 Joel Farabee,CGY,LW,12,3,8,1,29,6,8,59.50,4.96
 Joel Hanley,CGY,D,1,0,0,0,0,1,3,1.75,1.75
 Joel Kiviranta,DAL,LW,9,1,1,0,12,17,3,19.25,2.14
@@ -387,13 +387,13 @@ Kevin Bahl,CGY,D,12,1,1,0,10,14,14,23.00,1.92
 Kevin Korchinski,CHI,D,4,0,1,0,3,1,2,5.75,1.44
 Kevin Stenlund,UTA,C,14,1,4,1,12,15,12,34.25,2.45
 Kiefer Sherwood,SJS,LW,14,2,5,1,27,77,6,61.75,4.41
-Kirby Dach,MTL,C,13,0,3,0,8,18,6,20.50,1.58
+Kirby Dach,MTL,C,13,0,3,0,9,18,6,21.00,1.62
 Kirill Kaprizov,MIN,LW,15,14,10,0,51,9,5,123.25,8.22
 Kirill Marchenko,TOR,RW,14,6,8,0,35,20,5,76.00,5.43
 Konsta Helenius,BUF,C,11,1,2,0,12,11,4,21.25,1.93
 Kris Letang,PIT,D,13,0,6,0,25,16,12,40.50,3.12
 Kyle Capobianco,DAL,D,5,0,0,0,3,2,3,3.50,0.70
-Kyle Connor,WPG,LW,13,10,4,0,55,2,6,88.00,6.77
+Kyle Connor,WPG,LW,13,10,4,0,56,2,6,88.50,6.81
 Kyle MacLean,NYI,C,4,0,0,0,1,15,0,4.25,1.06
 Kyle Palmieri,NYI,C,13,3,1,0,25,7,8,34.75,2.67
 Lane Hutson,MTL,D,13,3,8,0,24,1,17,58.25,4.48
@@ -452,7 +452,7 @@ Matt Rempe,NYR,C,2,0,0,0,1,11,0,3.25,1.62
 Matt Roy,WSH,D,6,0,1,0,5,19,9,14.75,2.46
 Matthew Kessel,NYI,D,7,0,1,0,8,5,2,9.25,1.32
 Matthew Knies,CBJ,LW,11,2,3,0,19,17,2,32.75,2.98
-Matthew Poitras,BOS,C,11,4,3,0,15,9,4,38.75,3.52
+Matthew Poitras,BOS,C,11,4,3,0,14,9,4,38.25,3.48
 Matthew Schaefer,NYI,D,13,4,10,0,50,7,12,80.75,6.21
 Matthew Seminoff,DAL,RW,3,0,0,0,4,3,2,3.75,1.25
 Matthew Tkachuk,FLA,LW,13,4,16,0,27,22,2,86.00,6.62
@@ -468,7 +468,7 @@ Max Jones,EDM,LW,6,0,0,0,5,14,3,7.50,1.25
 Max Sasson,VAN,C,15,3,2,0,15,8,12,35.00,2.33
 Maxim Shabanov,MIN,RW,14,4,5,0,17,8,8,47.50,3.39
 Michael Amadio,OTT,RW,14,3,3,1,15,18,6,39.50,2.82
-Michael Brandsegg-Nygård,DET,RW,13,2,6,0,28,57,2,56.25,4.33
+Michael Brandsegg-Nygård,DET,RW,13,2,6,0,28,57,3,56.75,4.37
 Michael Bunting,PHI,LW,8,0,1,0,10,6,1,10.00,1.25
 Michael Carcone,UTA,LW,5,1,1,0,17,11,0,18.75,3.75
 Michael Kesselring,SJS,D,14,0,3,0,15,10,11,24.50,1.75
@@ -579,7 +579,7 @@ Roger McQueen,ANA,C,8,1,0,0,10,10,4,14.00,1.75
 Roman Josi,NSH,D,13,1,14,1,35,6,20,77.50,5.96
 Roman Kantserov,CHI,RW,13,5,1,0,23,15,2,41.75,3.21
 Roope Hintz,DAL,C,13,5,5,0,26,19,8,59.25,4.56
-Ross Colton,NSH,C,13,2,2,0,18,36,10,38.00,2.92
+Ross Colton,NSH,C,13,2,2,0,19,36,10,38.50,2.96
 Ross Johnston,STL,LW,6,0,1,0,3,27,4,13.25,2.21
 Rutger McGroarty,PIT,RW,2,0,0,0,3,0,1,2.00,1.00
 Ryan Donato,CHI,C,13,2,1,0,15,8,4,23.50,1.81
@@ -724,7 +724,7 @@ Zach Hyman,EDM,LW,6,1,0,0,12,5,0,11.75,1.96
 Zach Metsa,BUF,D,11,0,2,0,5,1,13,15.25,1.39
 Zach Werenski,CBJ,D,11,0,9,0,30,6,27,57.00,5.18
 Zach Whitecloud,CGY,D,12,0,0,0,13,17,21,21.25,1.77
-Zachary Bolduc,MTL,RW,13,5,2,0,22,20,4,46.50,3.58
+Zachary Bolduc,MTL,RW,13,5,2,0,21,20,4,46.00,3.54
 Zachary L'Heureux,COL,LW,3,0,1,0,6,10,1,9.00,3.00
 Zack MacEwen,TOR,RW,9,1,2,0,9,21,2,21.25,2.36
 Zack Ostapchuk,SJS,C,13,1,0,1,12,31,10,25.25,1.94

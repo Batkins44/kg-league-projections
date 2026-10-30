@@ -1,6 +1,6 @@
 # Projections summary
 
-Built Fri Oct 30, 2026 11:36 AM Central (data fetched 2026-10-30T16:36:28+00:00 UTC). Team games played: 11 to 15 of 84. Goalie GA scored at -1.
+Built Fri Oct 30, 2026 06:54 PM Central (data fetched 2026-10-30T23:54:20+00:00 UTC). Team games played: 11 to 15 of 84. Goalie GA scored at -1.
 Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338, 'unmatched': 15, 'alias': 1}.
 
 ## Top 30 skaters, blended points per game
@@ -19,7 +19,7 @@ Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338,
 | Brady Tkachuk | FLA | C,LW | 13 | 6.46 | 6.38 | 6.92 | 6.30 | 388 | 18 |
 | Brandon Hagel | TBL | LW,RW | 12 | 6.45 | 5.73 | 7.90 | 6.40 | 411 | 11 |
 | Jack Hughes | NJD | C,LW | 13 | 6.45 | 6.70 | 5.77 | 4.58 | 379 | 21 |
-| Kyle Connor | WPG | LW | 13 | 6.30 | 6.05 | 6.77 | 3.67 | 406 | 13 |
+| Kyle Connor | WPG | LW | 13 | 6.32 | 6.05 | 6.81 | 3.75 | 408 | 13 |
 | Matt Boldy | MIN | LW,RW | 15 | 6.22 | 6.16 | 5.98 | 4.93 | 386 | 19 |
 | Evan Bouchard | EDM | D | 13 | 6.22 | 5.53 | 8.13 | 5.00 | 401 | 3 |
 | Tage Thompson | BUF | C,RW | 13 | 6.16 | 5.76 | 7.00 | 7.20 | 392 | 17 |
@@ -42,12 +42,12 @@ Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338,
 
 | Player | Team | Pos | GP | FP/G | Pre | Actual | Starts | Share | Rest | Rk10 |
 |---|---|---|---|---|---|---|---|---|---|---|
-| Jeremy Swayman | BOS | G | 11 | 6.75 | 6.69 | 7.21 | 11 | 0.67 | 318 | 27 |
-| Spencer Knight | CHI | G | 11 | 6.33 | 6.27 | 6.23 | 11 | 0.71 | 317 | 28 |
+| Jeremy Swayman | BOS | G | 11 | 6.75 | 6.69 | 7.21 | 11 | 0.67 | 318 | 28 |
+| Spencer Knight | CHI | G | 11 | 6.33 | 6.27 | 6.23 | 11 | 0.71 | 317 | 29 |
 | Jesper Wallstedt | MIN | G | 13 | 6.72 | 6.87 | 6.78 | 13 | 0.68 | 315 | 30 |
-| Ilya Sorokin | NYI | G | 9 | 6.82 | 6.51 | 7.50 | 9 | 0.64 | 311 | 33 |
+| Ilya Sorokin | NYI | G | 9 | 6.84 | 6.51 | 7.53 | 9 | 0.64 | 312 | 32 |
 | Logan Thompson | WSH | G | 8 | 6.75 | 6.69 | 6.81 | 8 | 0.64 | 311 | 34 |
-| Joel Hofer | STL | G | 9 | 7.01 | 6.47 | 7.78 | 9 | 0.62 | 310 | 36 |
+| Joel Hofer | STL | G | 9 | 6.99 | 6.47 | 7.74 | 9 | 0.62 | 309 | 36 |
 | Andrei Vasilevskiy | TBL | G | 9 | 6.04 | 6.76 | 5.24 | 9 | 0.67 | 291 | 49 |
 | Jake Oettinger | DAL | G | 10 | 6.11 | 6.39 | 6.61 | 10 | 0.66 | 285 | 54 |
 | Juuse Saros | NSH | G | 10 | 6.34 | 6.23 | 6.18 | 10 | 0.62 | 280 | 56 |
@@ -71,9 +71,9 @@ Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338,
 | James Hagens | BOS | C | 14 | 3.32 | 2.75 | +0.57 | 361 |
 | Ryan O'Reilly | NSH | C | 13 | 4.50 | 3.93 | +0.57 | 110 |
 | Logan Stankoven | CAR | C,RW | 15 | 4.16 | 3.59 | +0.57 | 161 |
-| Joel Hofer | STL | G | 9 | 7.01 | 6.47 | +0.54 | 36 |
 | Alexis Lafrenière | NYR | LW,RW | 14 | 4.52 | 3.98 | +0.54 | 107 |
 | Jack Quinn | BUF | RW | 13 | 4.16 | 3.63 | +0.53 | 152 |
+| Kirill Kaprizov | MIN | LW | 15 | 6.79 | 6.27 | +0.52 | 9 |
 
 ## Fallers vs preseason (min 5 GP)
 
@@ -84,14 +84,14 @@ Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338,
 | Ukko-Pekka Luukkonen | BUF | G | 9 | 5.66 | 6.61 | -0.95 | 184 |
 | John Gibson | DET | G | 9 | 5.47 | 6.33 | -0.86 | 99 |
 | Nico Daws | WPG | G | 5 | 5.53 | 6.34 | -0.82 | 436 |
-| Porter Martone | PHI | RW | 15 | 3.89 | 4.71 | -0.82 | 226 |
+| Porter Martone | PHI | RW | 15 | 3.89 | 4.71 | -0.82 | 225 |
 | Jet Greaves | CBJ | G | 7 | 5.81 | 6.60 | -0.79 | 83 |
 | Jakub Dobes | MTL | G | 6 | 5.84 | 6.58 | -0.73 | 138 |
 | Andrei Vasilevskiy | TBL | G | 9 | 6.04 | 6.76 | -0.72 | 49 |
 | Alex Ovechkin | WSH | LW,RW | 12 | 3.93 | 4.62 | -0.68 | 185 |
 | Sergei Bobrovsky | TOR | G | 10 | 6.01 | 6.63 | -0.62 | 104 |
 | Anton Forsberg | LAK | G | 5 | 5.53 | 6.12 | -0.59 | 328 |
-| Ryan Hartman | MIN | RW | 15 | 3.06 | 3.64 | -0.58 | 420 |
+| Ryan Hartman | MIN | RW | 15 | 3.06 | 3.64 | -0.58 | 421 |
 | Lukas Dostal | ANA | G | 9 | 5.77 | 6.32 | -0.56 | 73 |
 | Jake Walman | EDM | D | 9 | 3.13 | 3.69 | -0.55 | 234 |
 
@@ -106,16 +106,16 @@ Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338,
 | Cam Talbot | CBJ | G | 6 | 5.70 | 6.24 | 5.35 | 6.50 | 140 | 413 |
 | Dylan Garand | NYR | G | 10 | 5.54 | 6.24 | 5.35 | 4.74 | 157 | 337 |
 | Ville Husso | ANA | G | 5 | 4.99 | 6.24 | 3.32 | 2.30 | 98 | 643 |
-| Sebastian Cossa | UTA | G | 5 | 4.73 | 6.24 | 3.72 | 4.23 | 89 | 678 |
+| Sebastian Cossa | UTA | G | 5 | 4.70 | 6.24 | 3.66 | 4.13 | 88 | 680 |
 | Cole Perfetti | WPG | C | 13 | 4.21 | 3.17 | 5.31 | 3.42 | 245 | 204 |
 | Samuel Ersson | OTT | G | 6 | 4.21 | 6.24 | 2.05 | 2.30 | 69 | 739 |
 | Easton Cowan | TOR | RW | 15 | 4.04 | 3.17 | 5.05 | 5.43 | 231 | 241 |
 | Kent Johnson | CBJ | C | 11 | 3.99 | 3.17 | 5.41 | 5.33 | 235 | 235 |
-| Jordan Eberle | SEA | RW | 13 | 3.95 | 3.17 | 4.71 | 3.40 | 230 | 248 |
+| Michael Brandsegg-Nygård | DET | RW | 13 | 3.96 | 3.17 | 4.37 | 2.00 | 230 | 247 |
+| Jordan Eberle | SEA | RW | 13 | 3.95 | 3.17 | 4.71 | 3.40 | 230 | 249 |
 | Joel Farabee | CGY | LW | 12 | 3.95 | 3.17 | 4.96 | 6.20 | 231 | 240 |
-| Michael Brandsegg-Nygård | DET | RW | 13 | 3.93 | 3.17 | 4.33 | 2.00 | 228 | 254 |
 | Adam Edstrom | NSH | C | 13 | 3.93 | 3.17 | 4.29 | 2.33 | 228 | 261 |
-| Kailer Yamamoto | UTA | RW | 9 | 3.89 | 3.17 | 4.83 | 3.08 | 184 | 421 |
+| Kailer Yamamoto | UTA | RW | 9 | 3.89 | 3.17 | 4.83 | 3.08 | 184 | 422 |
 | Arseny Gritsyuk | NJD | RW | 13 | 3.76 | 3.17 | 4.54 | 5.67 | 218 | 286 |
 | Brayden Schenn | NYI | C | 13 | 3.76 | 3.17 | 4.31 | 3.42 | 218 | 295 |
 | Fraser Minten | BOS | C | 14 | 3.75 | 3.17 | 4.36 | 2.67 | 216 | 306 |
@@ -125,8 +125,8 @@ Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338,
 | Player | Team | Pos | GP | Team GP | Rk10 | Note |
 |---|---|---|---|---|---|---|
 | Rasmus Dahlin | BUF | D | 10 | 13 | 24 | missed 3 of 13 team games |
-| Jeremy Swayman | BOS | G | 11 | 14 | 27 | missed 3 of 14 team games |
-| Ilya Sorokin | NYI | G | 9 | 13 | 33 | missed 4 of 13 team games |
+| Jeremy Swayman | BOS | G | 11 | 14 | 28 | missed 3 of 14 team games |
+| Ilya Sorokin | NYI | G | 9 | 13 | 32 | missed 4 of 13 team games |
 | Logan Thompson | WSH | G | 8 | 12 | 34 | missed 4 of 12 team games |
 | Joel Hofer | STL | G | 9 | 13 | 36 | missed 4 of 13 team games |
 | Nick Suzuki | MTL | C | 9 | 13 | 48 | missed 4 of 13 team games |
