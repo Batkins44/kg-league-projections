@@ -253,7 +253,11 @@ def main() -> int:
     out = Path(args.out)
     out.parent.mkdir(parents=True, exist_ok=True)
     out.write_text(json.dumps(snap, indent=1, ensure_ascii=False) + "\n")
-    print(json.dumps({"week": week, "days": list(snap["lineup"]), "errors": snap["errors"]}))
+    ga = snap["goalie_appearances"] or {}
+    print(json.dumps({"week": week, "days": list(snap["lineup"]), "adds": [snap["team"]["adds_this_week"],
+                      snap["team"]["adds_max"]], "goalie_appearances": ga.get("count"),
+                      "goalies_by_day": {d["date"]: d["goalies"] for d in ga.get("by_day", [])},
+                      "errors": snap["errors"]}))
     return 0
 
 
