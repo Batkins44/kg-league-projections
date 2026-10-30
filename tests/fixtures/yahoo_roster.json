@@ -1,0 +1,27 @@
+{"fantasy_content": {"team": [
+ [{"team_key": "465.l.145812.t.4"}, {"team_id": "4"}, {"name": "Test Team"}],
+ {"roster": {"coverage_type": "date", "date": "2026-10-28", "0": {"players": {
+  "0": {"player": [
+   [{"player_key": "465.p.1"}, {"name": {"full": "Skater One"}}, {"editorial_team_abbr": "Tor"},
+    {"position_type": "P"}, {"eligible_positions": [{"position": "C"}, {"position": "Util"}]},
+    {"status": "DTD"}, {"injury_note": "Lower body"}],
+   {"selected_position": [{"coverage_type": "date"}, {"position": "C"}]}
+  ]},
+  "1": {"player": [
+   [{"player_key": "465.p.2"}, {"name": {"full": "Goalie Two"}}, {"editorial_team_abbr": "edm"},
+    {"position_type": "G"}, {"eligible_positions": [{"position": "G"}]}],
+   {"selected_position": [{"coverage_type": "date"}, {"position": "G"}]},
+   {"player_stats": {"coverage_type": "date", "stats": {
+     "0": {"stat": {"stat_id": "25", "value": "28"}},
+     "1": {"stat": {"stat_id": "23", "value": "2"}}}}}
+  ]},
+  "2": {"player": [
+   [{"player_key": "465.p.3"}, {"name": {"full": "Goalie Three"}}, {"editorial_team_abbr": "BOS"},
+    {"position_type": "G"}, {"eligible_positions": [{"position": "G"}]}],
+   {"selected_position": [{"coverage_type": "date"}, {"position": "BN"}]},
+   {"player_stats": {"coverage_type": "date", "stats": {
+     "0": {"stat": {"stat_id": "25", "value": "31"}},
+     "1": {"stat": {"stat_id": "23", "value": "1"}}}}}
+  ]},
+  "count": 3}}}}
+]}}
