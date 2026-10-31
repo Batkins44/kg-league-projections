@@ -2,11 +2,13 @@ name: Yahoo snapshot
 
 on:
   schedule:
-    # Ahead of each hockey routine, in Central winter time (add an hour in summer): 10:35 AM,
-    # 12:35 PM (for 12:49), 2:35, 3:35, 4:35 PM (for 4:46 and the 5:15 goalie re-check) and
-    # 7:35 PM (for 8:47). GitHub can start scheduled runs 10 to 30 minutes late, hence the lead.
-    - cron: "35 16,18,20,21,22 * * *"
-    - cron: "35 1 * * *"
+    # Every half hour from 7 AM to 8:35 PM Central winter time (add an hour in summer), which
+    # covers every hockey routine (12:49, 4:46, 5:13 and 8:47). GitHub starts scheduled runs
+    # hours late and drops some outright (on Oct 31 the 01:35 run started at 07:28, and of the
+    # 16:35 and 18:35 runs only one ran, at 20:14), so a dense schedule is what keeps the snapshot
+    # inside the routines' freshness windows. Runs take about 15 seconds.
+    - cron: "5,35 13-23 * * *"
+    - cron: "5,35 0-2 * * *"
   workflow_dispatch:
 
 permissions:
