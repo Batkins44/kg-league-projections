@@ -42,6 +42,8 @@ jobs:
           git config user.name "projections-bot"
           git config user.email "projections-bot@users.noreply.github.com"
           [ -d data/yahoo ] || { echo "No snapshot written"; exit 0; }
+          # Runs on other branches are test runs: the fetch log is the result, nothing is pushed.
+          [ "$GITHUB_REF_NAME" = main ] || { echo "Test run on $GITHUB_REF_NAME; not committing"; exit 0; }
           git add data/yahoo
           if git diff --cached --quiet; then
             echo "No changes to commit"
