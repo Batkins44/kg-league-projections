@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-10-31T07:28:18+00:00",
- "fetched_at_central": "2026-10-31T02:28-05:00",
+ "fetched_at_utc": "2026-10-31T20:14:18+00:00",
+ "fetched_at_central": "2026-10-31T15:14-05:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "178.25",
-   "projected": "268.68"
+   "points": "203.00",
+   "projected": "267.79"
   },
   "opponent": {
    "name": "Grand Marshall",
-   "points": "140.70",
+   "points": "147.20",
    "projected": "218.10"
   }
  },
@@ -207,12 +207,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "DTD",
-    "injury_note": "Undisclosed"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Beckett Sennecke",
@@ -286,12 +285,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "C",
-    "status": "DTD",
-    "injury_note": "Undisclosed"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Cole Perfetti",
@@ -513,12 +511,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "182.80"
+   "projected": "187.79"
   },
   "opponent": {
    "name": "Running Up Blashill",
    "points": "0.00",
-   "projected": "198.82"
+   "projected": "207.79"
   }
  },
  "free_agents": {
@@ -527,6 +525,54 @@
     "name": "Jackson Blake",
     "player_key": "477.p.30155",
     "nhl_team": "CAR",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jack Quinn",
+    "player_key": "477.p.8648",
+    "nhl_team": "BUF",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Carter Verhaeghe",
+    "player_key": "477.p.6062",
+    "nhl_team": "FLA",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Matt Coronato",
+    "player_key": "477.p.30145",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jordan Eberle",
+    "player_key": "477.p.4498",
+    "nhl_team": "SEA",
     "position_type": "P",
     "eligible": [
      "RW",
@@ -587,11 +633,12 @@
     "injury_note": null
    },
    {
-    "name": "Jordan Eberle",
-    "player_key": "477.p.4498",
-    "nhl_team": "SEA",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -599,21 +646,9 @@
     "injury_note": null
    },
    {
-    "name": "Carter Verhaeghe",
-    "player_key": "477.p.6062",
-    "nhl_team": "FLA",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
+    "name": "Kent Johnson",
+    "player_key": "477.p.8881",
+    "nhl_team": "CBJ",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -636,19 +671,6 @@
     "injury_note": null
    },
    {
-    "name": "Kent Johnson",
-    "player_key": "477.p.8881",
-    "nhl_team": "CBJ",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Tye Kartye",
     "player_key": "477.p.9207",
     "nhl_team": "NYR",
@@ -661,9 +683,85 @@
     "injury_note": null
    },
    {
+    "name": "Freddy Gaudreau",
+    "player_key": "477.p.6655",
+    "nhl_team": "SEA",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Shane Pinto",
     "player_key": "477.p.8310",
     "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Mackie Samoskevich",
+    "player_key": "477.p.30522",
+    "nhl_team": "SEA",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Matvei Gridin",
+    "player_key": "477.p.32829",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Michael Brandsegg-Nygård",
+    "player_key": "477.p.32791",
+    "nhl_team": "DET",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Evgeni Malkin",
+    "player_key": "477.p.3638",
+    "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Elias Lindholm",
+    "player_key": "477.p.5984",
+    "nhl_team": "BOS",
     "position_type": "P",
     "eligible": [
      "C",
@@ -686,33 +784,22 @@
     "injury_note": null
    },
    {
-    "name": "Elias Lindholm",
-    "player_key": "477.p.5984",
-    "nhl_team": "BOS",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Michael Brandsegg-Nygård",
-    "player_key": "477.p.32791",
-    "nhl_team": "DET",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Brayden Schenn",
     "player_key": "477.p.4685",
     "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Berkly Catton",
+    "player_key": "477.p.32775",
+    "nhl_team": "SEA",
     "position_type": "P",
     "eligible": [
      "C",
@@ -736,99 +823,12 @@
     "injury_note": null
    },
    {
-    "name": "Jake Neighbours",
-    "player_key": "477.p.8666",
-    "nhl_team": "STL",
+    "name": "Ivan Barbashev",
+    "player_key": "477.p.6402",
+    "nhl_team": "VGK",
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Jordan Kyrou",
-    "player_key": "477.p.7143",
-    "nhl_team": "WSH",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ryan Leonard",
-    "player_key": "477.p.30550",
-    "nhl_team": "WSH",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "William Carrier",
-    "player_key": "477.p.6037",
-    "nhl_team": "CAR",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Owen Power",
-    "player_key": "477.p.8877",
-    "nhl_team": "BUF",
-    "position_type": "P",
-    "eligible": [
-     "D",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Michael McCarron",
-    "player_key": "477.p.6004",
-    "nhl_team": "MIN",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Barrett Hayton",
-    "player_key": "477.p.7903",
-    "nhl_team": "UTA",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Freddy Gaudreau",
-    "player_key": "477.p.6655",
-    "nhl_team": "SEA",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
      "Util"
     ],
     "status": null,
@@ -840,6 +840,17 @@
     "name": "Leevi Meriläinen",
     "player_key": "477.p.8709",
     "nhl_team": "VAN",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Dylan Garand",
+    "player_key": "477.p.8741",
+    "nhl_team": "NYR",
     "position_type": "G",
     "eligible": [
      "G"
@@ -872,9 +883,9 @@
     "injury_note": "Undisclosed"
    },
    {
-    "name": "Joseph Woll",
-    "player_key": "477.p.7170",
-    "nhl_team": "PHI",
+    "name": "Akira Schmid",
+    "player_key": "477.p.8033",
+    "nhl_team": "FLA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -883,9 +894,9 @@
     "injury_note": null
    },
    {
-    "name": "John Gibson",
-    "player_key": "477.p.5407",
-    "nhl_team": "DET",
+    "name": "Joseph Woll",
+    "player_key": "477.p.7170",
+    "nhl_team": "PHI",
     "position_type": "G",
     "eligible": [
      "G"
@@ -905,9 +916,20 @@
     "injury_note": null
    },
    {
-    "name": "Akira Schmid",
-    "player_key": "477.p.8033",
-    "nhl_team": "FLA",
+    "name": "Carter Hart",
+    "player_key": "477.p.7156",
+    "nhl_team": "VGK",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "John Gibson",
+    "player_key": "477.p.5407",
+    "nhl_team": "DET",
     "position_type": "G",
     "eligible": [
      "G"
@@ -947,30 +969,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Cam Talbot",
-    "player_key": "477.p.4854",
-    "nhl_team": "CBJ",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Jacob Markstrom",
-    "player_key": "477.p.4947",
-    "nhl_team": "FLA",
-    "position_type": "G",
-    "eligible": [
-     "G",
-     "IR",
-     "IR+"
-    ],
-    "status": "IR",
-    "injury_note": "Upper Body"
    }
   ]
  },
