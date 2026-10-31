@@ -1,6 +1,6 @@
 # Projections summary
 
-Built Fri Oct 30, 2026 06:54 PM Central (data fetched 2026-10-30T23:54:20+00:00 UTC). Team games played: 11 to 15 of 84. Goalie GA scored at -1.
+Built Fri Oct 30, 2026 07:13 PM Central (data fetched 2026-10-31T00:13:38+00:00 UTC). Team games played: 11 to 15 of 84. Goalie GA scored at -1.
 Players: 818 (464 without a preseason projection). Prior matches: {'exact': 338, 'unmatched': 15, 'alias': 1}.
 
 ## Top 30 skaters, blended points per game
