@@ -168,6 +168,15 @@ def matchup(league_key: str, week: int, token: str) -> dict:
     return {}
 
 
+def free_agents(league_key: str, position: str, count: int, token: str) -> list[dict]:
+    """True free agents (instant adds) at a position, best current Yahoo rank first."""
+    path = f"league/{league_key}/players;status=FA;position={position};sort=AR;count={count}"
+    lg = get(path, token)["league"]
+    players = merge(lg).get("players", {})
+    return [{k: v for k, v in parse_player(p).items() if k not in ("slot", "stats")}
+            for p in items(players, "player")]
+
+
 def league_settings(league_key: str, token: str) -> dict:
     return merge(merge(get(f"league/{league_key}/settings", token)["league"])["settings"])
 
@@ -218,6 +227,8 @@ def main() -> int:
         "week": week,
         "matchup": {},
         "lineup": {},
+        "next_matchup": {},
+        "free_agents": {},
         "goalie_appearances": None,
         "errors": [],
     }
@@ -225,6 +236,15 @@ def main() -> int:
         snap["matchup"] = matchup(league_key, week, token)
     except Exception as e:  # noqa: BLE001
         snap["errors"].append(f"matchup: {e}")
+    try:
+        snap["next_matchup"] = matchup(league_key, week + 1, token)
+    except Exception as e:  # noqa: BLE001
+        snap["errors"].append(f"next matchup: {e}")
+    for pos, n in (("P", 40), ("G", 12)):
+        try:
+            snap["free_agents"]["skaters" if pos == "P" else "goalies"] = free_agents(league_key, pos, n, token)
+        except Exception as e:  # noqa: BLE001
+            snap["errors"].append(f"free agents {pos}: {e}")
     for day in (today, today + timedelta(days=1)):
         try:
             snap["lineup"][day.isoformat()] = [{k: v for k, v in p.items() if k != "stats"}
@@ -256,6 +276,8 @@ def main() -> int:
     ga = snap["goalie_appearances"] or {}
     print(json.dumps({"week": week, "days": list(snap["lineup"]), "adds": [snap["team"]["adds_this_week"],
                       snap["team"]["adds_max"]], "goalie_appearances": ga.get("count"),
+                      "next_opponent": (snap["next_matchup"].get("opponent") or {}).get("name"),
+                      "free_agents": {k: [p["name"] for p in v[:5]] for k, v in snap["free_agents"].items()},
                       "goalies_by_day": {d["date"]: d["goalies"] for d in ga.get("by_day", [])},
                       "errors": snap["errors"]}))
     return 0

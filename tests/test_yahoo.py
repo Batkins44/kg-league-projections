@@ -88,6 +88,23 @@ class Roster(unittest.TestCase):
         self.assertEqual((got["count"], got["by_day"]), (0, []))
 
 
+class FreeAgents(unittest.TestCase):
+    def test_free_agents_parse_league_players(self):
+        fa = {"league": [{"league_key": "465.l.145812"}, {"players": {
+            "0": {"player": [[{"player_key": "465.p.9"}, {"name": {"full": "Free Guy"}}, {"editorial_team_abbr": "Sea"},
+                               {"position_type": "P"}, {"eligible_positions": [{"position": "LW"}, {"position": "Util"}]}]]},
+            "count": 1}}]}
+        with mock.patch.object(yf, "get", return_value=fa) as g:
+            got = yf.free_agents("465.l.145812", "P", 40, "t")
+        self.assertIn("status=FA;position=P;sort=AR;count=40", g.call_args[0][0])
+        self.assertEqual(got, [{"name": "Free Guy", "player_key": "465.p.9", "nhl_team": "SEA", "position_type": "P",
+                                "eligible": ["LW", "Util"], "status": None, "injury_note": None}])
+
+    def test_free_agents_empty(self):
+        with mock.patch.object(yf, "get", return_value={"league": [{"league_key": "x"}, {"players": []}]}):
+            self.assertEqual(yf.free_agents("x", "G", 12, "t"), [])
+
+
 class Main(unittest.TestCase):
     def test_missing_secrets_exit_clean(self):
         with mock.patch.dict("os.environ", {}, clear=True), mock.patch.object(sys, "argv", ["yahoo_fetch.py"]):
