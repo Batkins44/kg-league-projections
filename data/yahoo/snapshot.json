@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-01T20:54:58+00:00",
- "fetched_at_central": "2026-11-01T14:54-06:00",
+ "fetched_at_utc": "2026-11-01T22:15:22+00:00",
+ "fetched_at_central": "2026-11-01T16:15-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "258.55",
+   "points": "258.65",
    "projected": "267.24"
   },
   "opponent": {
    "name": "Grand Marshall",
-   "points": "202.65",
+   "points": "205.65",
    "projected": "218.15"
   }
  },
@@ -511,12 +511,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "192.81"
+   "projected": "193.66"
   },
   "opponent": {
    "name": "Running Up Blashill",
    "points": "0.00",
-   "projected": "208.45"
+   "projected": "208.15"
   }
  },
  "free_agents": {
@@ -576,18 +576,6 @@
     "position_type": "P",
     "eligible": [
      "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Shane Pinto",
-    "player_key": "477.p.8310",
-    "nhl_team": "OTT",
-    "position_type": "P",
-    "eligible": [
-     "C",
      "Util"
     ],
     "status": null,
@@ -827,6 +815,20 @@
     "nhl_team": "SEA",
     "position_type": "P",
     "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Evgeni Malkin",
+    "player_key": "477.p.3638",
+    "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
      "RW",
      "Util"
     ],
