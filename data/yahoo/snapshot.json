@@ -1,31 +1,31 @@
 {
- "fetched_at_utc": "2026-11-02T05:50:28+00:00",
- "fetched_at_central": "2026-11-01T23:50-06:00",
+ "fetched_at_utc": "2026-11-02T18:20:44+00:00",
+ "fetched_at_central": "2026-11-02T12:20-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "2",
+  "adds_this_week": "0",
   "adds_max": 5
  },
- "week": 5,
+ "week": 6,
  "matchup": {
-  "week_start": "2026-10-26",
-  "week_end": "2026-11-01",
+  "week_start": "2026-11-02",
+  "week_end": "2026-11-08",
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "279.55",
-   "projected": "267.24"
+   "points": "0.00",
+   "projected": "203.78"
   },
   "opponent": {
-   "name": "Grand Marshall",
-   "points": "226.65",
-   "projected": "218.15"
+   "name": "Running Up Blashill",
+   "points": "0.00",
+   "projected": "214.92"
   }
  },
  "lineup": {
-  "2026-11-01": [
+  "2026-11-02": [
    {
     "name": "Mason McTavish",
     "player_key": "477.p.8879",
@@ -53,13 +53,12 @@
     "injury_note": null
    },
    {
-    "name": "Cole Perfetti",
-    "player_key": "477.p.8650",
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
     "nhl_team": "WPG",
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -67,12 +66,13 @@
     "injury_note": null
    },
    {
-    "name": "Kyle Connor",
-    "player_key": "477.p.6759",
-    "nhl_team": "WPG",
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
     "position_type": "P",
     "eligible": [
      "LW",
+     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -174,9 +174,9 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Cole Perfetti",
+    "player_key": "477.p.8650",
+    "nhl_team": "WPG",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -264,7 +264,7 @@
     "injury_note": null
    }
   ],
-  "2026-11-02": [
+  "2026-11-03": [
    {
     "name": "Mason McTavish",
     "player_key": "477.p.8879",
@@ -292,13 +292,12 @@
     "injury_note": null
    },
    {
-    "name": "Cole Perfetti",
-    "player_key": "477.p.8650",
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
     "nhl_team": "WPG",
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -306,12 +305,13 @@
     "injury_note": null
    },
    {
-    "name": "Kyle Connor",
-    "player_key": "477.p.6759",
-    "nhl_team": "WPG",
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
     "position_type": "P",
     "eligible": [
      "LW",
+     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -413,9 +413,9 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Cole Perfetti",
+    "player_key": "477.p.8650",
+    "nhl_team": "WPG",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -505,18 +505,18 @@
   ]
  },
  "next_matchup": {
-  "week_start": "2026-11-02",
-  "week_end": "2026-11-08",
+  "week_start": "2026-11-09",
+  "week_end": "2026-11-15",
   "status": "preevent",
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "197.00"
+   "projected": "154.69"
   },
   "opponent": {
-   "name": "Running Up Blashill",
+   "name": "Panarin was Framed",
    "points": "0.00",
-   "projected": "215.21"
+   "projected": "133.31"
   }
  },
  "free_agents": {
@@ -546,28 +546,17 @@
     "injury_note": null
    },
    {
-    "name": "Jackson Blake",
-    "player_key": "477.p.30155",
-    "nhl_team": "CAR",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Zach Benson",
     "player_key": "477.p.30549",
     "nhl_team": "BUF",
     "position_type": "P",
     "eligible": [
      "LW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Undisclosed"
    },
    {
     "name": "Jonathan Lekkerimäki",
@@ -582,13 +571,13 @@
     "injury_note": null
    },
    {
-    "name": "Dylan Holloway",
-    "player_key": "477.p.8654",
-    "nhl_team": "STL",
+    "name": "Matvei Michkov",
+    "player_key": "477.p.30548",
+    "nhl_team": "PHI",
     "position_type": "P",
     "eligible": [
-     "C",
      "LW",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -602,6 +591,19 @@
     "eligible": [
      "LW",
      "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Dylan Holloway",
+    "player_key": "477.p.8654",
+    "nhl_team": "STL",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
      "Util"
     ],
     "status": null,
@@ -708,19 +710,6 @@
     "injury_note": null
    },
    {
-    "name": "Matvei Michkov",
-    "player_key": "477.p.30548",
-    "nhl_team": "PHI",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Josh Anderson",
     "player_key": "477.p.5785",
     "nhl_team": "MTL",
@@ -759,11 +748,24 @@
     "injury_note": null
    },
    {
+    "name": "Michael McCarron",
+    "player_key": "477.p.6004",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Michael Brandsegg-Nygård",
     "player_key": "477.p.32791",
     "nhl_team": "DET",
     "position_type": "P",
     "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -830,10 +832,11 @@
      "C",
      "LW",
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Lower Body"
    }
   ],
   "goalies": [
@@ -952,9 +955,9 @@
     "injury_note": null
    },
    {
-    "name": "Carter Hart",
-    "player_key": "477.p.7156",
-    "nhl_team": "VGK",
+    "name": "Dan Vladar",
+    "player_key": "477.p.6817",
+    "nhl_team": "PHI",
     "position_type": "G",
     "eligible": [
      "G"
@@ -963,9 +966,9 @@
     "injury_note": null
    },
    {
-    "name": "Alex Nedeljkovic",
-    "player_key": "477.p.6406",
-    "nhl_team": "SJ",
+    "name": "Carter Hart",
+    "player_key": "477.p.7156",
+    "nhl_team": "VGK",
     "position_type": "G",
     "eligible": [
      "G"
@@ -976,40 +979,9 @@
   ]
  },
  "goalie_appearances": {
-  "count": 3,
+  "count": 0,
   "minimum": 3,
-  "by_day": [
-   {
-    "date": "2026-10-26",
-    "goalies": []
-   },
-   {
-    "date": "2026-10-27",
-    "goalies": [
-     "Karel Vejmelka"
-    ]
-   },
-   {
-    "date": "2026-10-28",
-    "goalies": [
-     "Jake Allen"
-    ]
-   },
-   {
-    "date": "2026-10-29",
-    "goalies": [
-     "Pyotr Kochetkov"
-    ]
-   },
-   {
-    "date": "2026-10-30",
-    "goalies": []
-   },
-   {
-    "date": "2026-10-31",
-    "goalies": []
-   }
-  ],
+  "by_day": [],
   "stats_missing": [],
   "note": "Monday through yesterday; today's games aren't counted yet"
  },
