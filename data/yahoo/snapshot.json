@@ -1,11 +1,11 @@
 {
- "fetched_at_utc": "2026-11-02T19:00:21+00:00",
- "fetched_at_central": "2026-11-02T13:00-06:00",
+ "fetched_at_utc": "2026-11-02T19:30:18+00:00",
+ "fetched_at_central": "2026-11-02T13:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "0",
+  "adds_this_week": "3",
   "adds_max": 5
  },
  "week": 6,
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "203.78"
+   "projected": "192.29"
   },
   "opponent": {
    "name": "Running Up Blashill",
@@ -26,19 +26,6 @@
  },
  "lineup": {
   "2026-11-02": [
-   {
-    "name": "Mason McTavish",
-    "player_key": "477.p.8879",
-    "nhl_team": "STL",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "slot": "C",
-    "status": null,
-    "injury_note": null
-   },
    {
     "name": "Joel Eriksson Ek",
     "player_key": "477.p.6762",
@@ -174,20 +161,6 @@
     "injury_note": null
    },
    {
-    "name": "Cole Perfetti",
-    "player_key": "477.p.8650",
-    "nhl_team": "WPG",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
     "nhl_team": "NYI",
@@ -228,6 +201,33 @@
     "injury_note": null
    },
    {
+    "name": "Kiefer Sherwood",
+    "player_key": "477.p.7854",
+    "nhl_team": "SJ",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Matt Coronato",
+    "player_key": "477.p.30145",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Pyotr Kochetkov",
     "player_key": "477.p.8314",
     "nhl_team": "CAR",
@@ -252,9 +252,9 @@
     "injury_note": null
    },
    {
-    "name": "Jakub Dobes",
-    "player_key": "477.p.30862",
-    "nhl_team": "MTL",
+    "name": "Akira Schmid",
+    "player_key": "477.p.8033",
+    "nhl_team": "FLA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -266,19 +266,6 @@
   ],
   "2026-11-03": [
    {
-    "name": "Mason McTavish",
-    "player_key": "477.p.8879",
-    "nhl_team": "STL",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "slot": "C",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joel Eriksson Ek",
     "player_key": "477.p.6762",
     "nhl_team": "MIN",
@@ -413,20 +400,6 @@
     "injury_note": null
    },
    {
-    "name": "Cole Perfetti",
-    "player_key": "477.p.8650",
-    "nhl_team": "WPG",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
     "nhl_team": "NYI",
@@ -467,6 +440,33 @@
     "injury_note": null
    },
    {
+    "name": "Kiefer Sherwood",
+    "player_key": "477.p.7854",
+    "nhl_team": "SJ",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Matt Coronato",
+    "player_key": "477.p.30145",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Pyotr Kochetkov",
     "player_key": "477.p.8314",
     "nhl_team": "CAR",
@@ -491,9 +491,9 @@
     "injury_note": null
    },
    {
-    "name": "Jakub Dobes",
-    "player_key": "477.p.30862",
-    "nhl_team": "MTL",
+    "name": "Akira Schmid",
+    "player_key": "477.p.8033",
+    "nhl_team": "FLA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -511,7 +511,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "154.69"
+   "projected": "144.66"
   },
   "opponent": {
    "name": "Panarin was Framed",
@@ -609,19 +609,6 @@
     "injury_note": null
    },
    {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Emmitt Finnie",
     "player_key": "477.p.30680",
     "nhl_team": "DET",
@@ -629,18 +616,6 @@
     "eligible": [
      "C",
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Matt Coronato",
-    "player_key": "477.p.30145",
-    "nhl_team": "CGY",
-    "position_type": "P",
-    "eligible": [
-     "RW",
      "Util"
     ],
     "status": null,
@@ -837,6 +812,32 @@
     ],
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Ryan Leonard",
+    "player_key": "477.p.30550",
+    "nhl_team": "WSH",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Martin Pospisil",
+    "player_key": "477.p.8002",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
    }
   ],
   "goalies": [
@@ -922,17 +923,6 @@
     "injury_note": null
    },
    {
-    "name": "Akira Schmid",
-    "player_key": "477.p.8033",
-    "nhl_team": "FLA",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joseph Woll",
     "player_key": "477.p.7170",
     "nhl_team": "PHI",
@@ -969,6 +959,17 @@
     "name": "Carter Hart",
     "player_key": "477.p.7156",
     "nhl_team": "VGK",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Alex Nedeljkovic",
+    "player_key": "477.p.6406",
+    "nhl_team": "SJ",
     "position_type": "G",
     "eligible": [
      "G"
