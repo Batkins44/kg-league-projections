@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-01T22:15:22+00:00",
- "fetched_at_central": "2026-11-01T16:15-06:00",
+ "fetched_at_utc": "2026-11-02T00:46:18+00:00",
+ "fetched_at_central": "2026-11-01T18:46-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "258.65",
+   "points": "265.55",
    "projected": "267.24"
   },
   "opponent": {
    "name": "Grand Marshall",
-   "points": "205.65",
+   "points": "226.15",
    "projected": "218.15"
   }
  },
@@ -516,7 +516,7 @@
   "opponent": {
    "name": "Running Up Blashill",
    "points": "0.00",
-   "projected": "208.15"
+   "projected": "208.60"
   }
  },
  "free_agents": {
