@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-02T18:30:20+00:00",
- "fetched_at_central": "2026-11-02T12:30-06:00",
+ "fetched_at_utc": "2026-11-02T19:00:21+00:00",
+ "fetched_at_central": "2026-11-02T13:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -597,19 +597,6 @@
     "injury_note": null
    },
    {
-    "name": "Dylan Holloway",
-    "player_key": "477.p.8654",
-    "nhl_team": "STL",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Carter Verhaeghe",
     "player_key": "477.p.6062",
     "nhl_team": "FLA",
@@ -837,6 +824,19 @@
     ],
     "status": "DTD",
     "injury_note": "Lower Body"
+   },
+   {
+    "name": "Brayden Schenn",
+    "player_key": "477.p.4685",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
    }
   ],
   "goalies": [
