@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-03T17:00:20+00:00",
- "fetched_at_central": "2026-11-03T11:00-06:00",
+ "fetched_at_utc": "2026-11-03T17:30:20+00:00",
+ "fetched_at_central": "2026-11-03T11:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -944,17 +944,6 @@
     "injury_note": null
    },
    {
-    "name": "Adin Hill",
-    "player_key": "477.p.6818",
-    "nhl_team": "VGK",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
@@ -969,6 +958,17 @@
     "name": "Alex Nedeljkovic",
     "player_key": "477.p.6406",
     "nhl_team": "SJ",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "John Gibson",
+    "player_key": "477.p.5407",
+    "nhl_team": "DET",
     "position_type": "G",
     "eligible": [
      "G"
