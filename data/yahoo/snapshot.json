@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-03T16:30:17+00:00",
- "fetched_at_central": "2026-11-03T10:30-06:00",
+ "fetched_at_utc": "2026-11-03T17:00:20+00:00",
+ "fetched_at_central": "2026-11-03T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -809,7 +809,7 @@
      "Util",
      "IR+"
     ],
-    "status": "DTD",
+    "status": "O",
     "injury_note": "Lower Body"
    },
    {
