@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-03T09:00:25+00:00",
- "fetched_at_central": "2026-11-03T03:00-06:00",
+ "fetched_at_utc": "2026-11-03T09:30:27+00:00",
+ "fetched_at_central": "2026-11-03T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -546,6 +546,18 @@
     "injury_note": null
    },
    {
+    "name": "Carter Verhaeghe",
+    "player_key": "477.p.6062",
+    "nhl_team": "FLA",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Zach Benson",
     "player_key": "477.p.30549",
     "nhl_team": "BUF",
@@ -557,6 +569,19 @@
     ],
     "status": "DTD",
     "injury_note": "Undisclosed"
+   },
+   {
+    "name": "Michael Brandsegg-Nygård",
+    "player_key": "477.p.32791",
+    "nhl_team": "DET",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Jonathan Lekkerimäki",
@@ -597,12 +622,12 @@
     "injury_note": null
    },
    {
-    "name": "Carter Verhaeghe",
-    "player_key": "477.p.6062",
-    "nhl_team": "FLA",
+    "name": "Elias Lindholm",
+    "player_key": "477.p.5984",
+    "nhl_team": "BOS",
     "position_type": "P",
     "eligible": [
-     "LW",
+     "C",
      "Util"
     ],
     "status": null,
@@ -616,18 +641,6 @@
     "eligible": [
      "LW",
      "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Elias Lindholm",
-    "player_key": "477.p.5984",
-    "nhl_team": "BOS",
-    "position_type": "P",
-    "eligible": [
-     "C",
      "Util"
     ],
     "status": null,
@@ -653,6 +666,19 @@
     "position_type": "P",
     "eligible": [
      "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jaden Schwartz",
+    "player_key": "477.p.4974",
+    "nhl_team": "COL",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
      "Util"
     ],
     "status": null,
@@ -697,6 +723,19 @@
     "injury_note": null
    },
    {
+    "name": "Martin Pospisil",
+    "player_key": "477.p.8002",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Michael McCarron",
     "player_key": "477.p.6004",
     "nhl_team": "MIN",
@@ -709,13 +748,12 @@
     "injury_note": null
    },
    {
-    "name": "Michael Brandsegg-Nygård",
-    "player_key": "477.p.32791",
-    "nhl_team": "DET",
+    "name": "Ivan Barbashev",
+    "player_key": "477.p.6402",
+    "nhl_team": "VGK",
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
      "Util"
     ],
     "status": null,
@@ -788,51 +826,13 @@
     "injury_note": null
    },
    {
-    "name": "Ryan Leonard",
-    "player_key": "477.p.30550",
-    "nhl_team": "WSH",
+    "name": "Gabriel Landeskog",
+    "player_key": "477.p.5363",
+    "nhl_team": "COL",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Martin Pospisil",
-    "player_key": "477.p.8002",
-    "nhl_team": "CGY",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Berkly Catton",
-    "player_key": "477.p.32775",
-    "nhl_team": "SEA",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ivan Barbashev",
-    "player_key": "477.p.6402",
-    "nhl_team": "VGK",
-    "position_type": "P",
-    "eligible": [
-     "LW",
      "Util"
     ],
     "status": null,
@@ -898,6 +898,17 @@
     "injury_note": null
    },
    {
+    "name": "Carter Hart",
+    "player_key": "477.p.7156",
+    "nhl_team": "VGK",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Devon Levi",
     "player_key": "477.p.30111",
     "nhl_team": "EDM",
@@ -947,17 +958,6 @@
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Carter Hart",
-    "player_key": "477.p.7156",
-    "nhl_team": "VGK",
     "position_type": "G",
     "eligible": [
      "G"
