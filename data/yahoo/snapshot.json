@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-03T06:32:09+00:00",
- "fetched_at_central": "2026-11-03T00:32-06:00",
+ "fetched_at_utc": "2026-11-03T07:00:19+00:00",
+ "fetched_at_central": "2026-11-03T01:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Running Up Blashill",
    "points": "20.50",
-   "projected": "271.51"
+   "projected": "271.55"
   }
  },
  "lineup": {
@@ -511,7 +511,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "184.64"
+   "projected": "184.69"
   },
   "opponent": {
    "name": "Panarin was Framed",
