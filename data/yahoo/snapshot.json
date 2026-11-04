@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-04T05:00:19+00:00",
- "fetched_at_central": "2026-11-03T23:00-06:00",
+ "fetched_at_utc": "2026-11-04T05:30:17+00:00",
+ "fetched_at_central": "2026-11-03T23:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,7 +15,7 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "66.30",
+   "points": "66.05",
    "projected": "286.28"
   },
   "opponent": {
