@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-04T10:30:17+00:00",
- "fetched_at_central": "2026-11-04T04:30-06:00",
+ "fetched_at_utc": "2026-11-04T11:00:22+00:00",
+ "fetched_at_central": "2026-11-04T05:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -516,7 +516,7 @@
   "opponent": {
    "name": "Panarin was Framed",
    "points": "0.00",
-   "projected": "174.37"
+   "projected": "196.76"
   }
  },
  "free_agents": {
@@ -566,18 +566,6 @@
     "eligible": [
      "LW",
      "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Carter Verhaeghe",
-    "player_key": "477.p.6062",
-    "nhl_team": "FLA",
-    "position_type": "P",
-    "eligible": [
-     "LW",
      "Util"
     ],
     "status": null,
@@ -830,6 +818,18 @@
     "eligible": [
      "C",
      "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Ivan Barbashev",
+    "player_key": "477.p.6402",
+    "nhl_team": "VGK",
+    "position_type": "P",
+    "eligible": [
+     "LW",
      "Util"
     ],
     "status": null,
