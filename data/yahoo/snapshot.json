@@ -1,11 +1,11 @@
 {
- "fetched_at_utc": "2026-11-05T15:30:18+00:00",
- "fetched_at_central": "2026-11-05T09:30-06:00",
+ "fetched_at_utc": "2026-11-05T16:00:24+00:00",
+ "fetched_at_central": "2026-11-05T10:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "3",
+  "adds_this_week": "4",
   "adds_max": 5
  },
  "week": 6,
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "88.05",
-   "projected": "286.20"
+   "projected": "292.48"
   },
   "opponent": {
    "name": "Running Up Blashill",
@@ -148,9 +148,9 @@
     "injury_note": null
    },
    {
-    "name": "Thomas Chabot",
-    "player_key": "477.p.6760",
-    "nhl_team": "OTT",
+    "name": "Dougie Hamilton",
+    "player_key": "477.p.5370",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
      "D",
@@ -386,9 +386,9 @@
     "injury_note": null
    },
    {
-    "name": "Thomas Chabot",
-    "player_key": "477.p.6760",
-    "nhl_team": "OTT",
+    "name": "Dougie Hamilton",
+    "player_key": "477.p.5370",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
      "D",
@@ -511,7 +511,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "192.66"
+   "projected": "191.94"
   },
   "opponent": {
    "name": "Panarin was Framed",
