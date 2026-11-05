@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-05T04:30:18+00:00",
- "fetched_at_central": "2026-11-04T22:30-06:00",
+ "fetched_at_utc": "2026-11-05T05:00:20+00:00",
+ "fetched_at_central": "2026-11-04T23:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "84.30",
-   "projected": "286.92"
+   "points": "85.05",
+   "projected": "286.62"
   },
   "opponent": {
    "name": "Running Up Blashill",
-   "points": "103.40",
+   "points": "102.50",
    "projected": "271.14"
   }
  },
@@ -511,12 +511,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "186.73"
+   "projected": "186.70"
   },
   "opponent": {
    "name": "Panarin was Framed",
    "points": "0.00",
-   "projected": "196.76"
+   "projected": "197.09"
   }
  },
  "free_agents": {
