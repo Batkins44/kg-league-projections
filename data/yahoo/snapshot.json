@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-05T18:30:19+00:00",
- "fetched_at_central": "2026-11-05T12:30-06:00",
+ "fetched_at_utc": "2026-11-05T19:00:20+00:00",
+ "fetched_at_central": "2026-11-05T13:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -897,12 +897,10 @@
     "nhl_team": "CGY",
     "position_type": "G",
     "eligible": [
-     "G",
-     "IR",
-     "IR+"
+     "G"
     ],
-    "status": "IR",
-    "injury_note": "Lower Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Jake Allen",
