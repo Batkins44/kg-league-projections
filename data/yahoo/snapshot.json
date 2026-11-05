@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-05T15:00:22+00:00",
- "fetched_at_central": "2026-11-05T09:00-06:00",
+ "fetched_at_utc": "2026-11-05T15:30:18+00:00",
+ "fetched_at_central": "2026-11-05T09:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -916,17 +916,6 @@
     "injury_note": null
    },
    {
-    "name": "Carter Hart",
-    "player_key": "477.p.7156",
-    "nhl_team": "VGK",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Devon Levi",
     "player_key": "477.p.30111",
     "nhl_team": "EDM",
@@ -964,6 +953,17 @@
    {
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
+    "nhl_team": "PHI",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joseph Woll",
+    "player_key": "477.p.7170",
     "nhl_team": "PHI",
     "position_type": "G",
     "eligible": [
