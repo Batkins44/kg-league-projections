@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-05T23:00:20+00:00",
- "fetched_at_central": "2026-11-05T17:00-06:00",
+ "fetched_at_utc": "2026-11-05T23:30:21+00:00",
+ "fetched_at_central": "2026-11-05T17:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -837,17 +837,6 @@
   ],
   "goalies": [
    {
-    "name": "Dylan Garand",
-    "player_key": "477.p.8741",
-    "nhl_team": "NYR",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Arturs Silovs",
     "player_key": "477.p.8433",
     "nhl_team": "PIT",
@@ -963,6 +952,17 @@
     "name": "Joseph Woll",
     "player_key": "477.p.7170",
     "nhl_team": "PHI",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Dustin Wolf",
+    "player_key": "477.p.8489",
+    "nhl_team": "CGY",
     "position_type": "G",
     "eligible": [
      "G"
