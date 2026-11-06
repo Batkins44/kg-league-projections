@@ -1,6 +1,6 @@
 {
- "built_at_utc": "2026-11-05T17:55:20+00:00",
- "fetched_at_utc": "2026-11-05T17:55:15+00:00",
+ "built_at_utc": "2026-11-06T17:16:24+00:00",
+ "fetched_at_utc": "2026-11-06T17:16:19+00:00",
  "players": 837,
  "new_players": 483,
  "unmatched_prior": [
@@ -24,7 +24,7 @@
   "unmatched": 14,
   "alias": 1
  },
- "team_gp_min": 13,
- "team_gp_max": 17,
+ "team_gp_min": 14,
+ "team_gp_max": 18,
  "goalie_ga_points": -1.0
 }
