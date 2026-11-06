@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-06T00:00:23+00:00",
- "fetched_at_central": "2026-11-05T18:00-06:00",
+ "fetched_at_utc": "2026-11-06T00:30:17+00:00",
+ "fetched_at_central": "2026-11-05T18:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "88.05",
+   "points": "92.05",
    "projected": "281.07"
   },
   "opponent": {
    "name": "Running Up Blashill",
-   "points": "108.10",
+   "points": "132.70",
    "projected": "271.03"
   }
  },
@@ -864,10 +864,11 @@
     "nhl_team": "EDM",
     "position_type": "G",
     "eligible": [
-     "G"
+     "G",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "O",
+    "injury_note": "Illness"
    },
    {
     "name": "Philipp Grubauer",
