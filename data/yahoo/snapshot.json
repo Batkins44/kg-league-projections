@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-07T04:30:16+00:00",
- "fetched_at_central": "2026-11-06T22:30-06:00",
+ "fetched_at_utc": "2026-11-07T05:00:19+00:00",
+ "fetched_at_central": "2026-11-06T23:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,12 +16,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "172.75",
-   "projected": "242.48"
+   "projected": "234.95"
   },
   "opponent": {
    "name": "Running Up Blashill",
    "points": "220.75",
-   "projected": "270.17"
+   "projected": "270.62"
   }
  },
  "lineup": {
@@ -778,10 +778,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Undisclosed"
    },
    {
     "name": "Jordan Kyrou",
