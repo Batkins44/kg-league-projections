@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-07T16:30:18+00:00",
- "fetched_at_central": "2026-11-07T10:30-06:00",
+ "fetched_at_utc": "2026-11-07T17:00:23+00:00",
+ "fetched_at_central": "2026-11-07T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -589,10 +589,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Undisclosed"
    },
    {
     "name": "Shane Pinto",
