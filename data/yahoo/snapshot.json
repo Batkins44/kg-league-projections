@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-07T18:00:19+00:00",
- "fetched_at_central": "2026-11-07T12:00-06:00",
+ "fetched_at_utc": "2026-11-07T18:30:17+00:00",
+ "fetched_at_central": "2026-11-07T12:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "172.75",
-   "projected": "234.95"
+   "projected": "279.60"
   },
   "opponent": {
    "name": "Running Up Blashill",
@@ -53,20 +53,6 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "LW",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Kiefer Sherwood",
     "player_key": "477.p.7854",
     "nhl_team": "SJ",
@@ -81,9 +67,37 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "LW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util"
+    ],
+    "slot": "RW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -147,33 +161,6 @@
     "injury_note": null
    },
    {
-    "name": "Kyle Connor",
-    "player_key": "477.p.6759",
-    "nhl_team": "WPG",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "Util"
-    ],
-    "slot": "Util",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Connor Bedard",
-    "player_key": "477.p.30544",
-    "nhl_team": "CHI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Nikita Kucherov",
     "player_key": "477.p.5425",
     "nhl_team": "TB",
@@ -182,14 +169,14 @@
      "RW",
      "Util"
     ],
-    "slot": "BN",
+    "slot": "Util",
     "status": null,
     "injury_note": null
    },
    {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -201,13 +188,26 @@
     "injury_note": null
    },
    {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "LW",
      "Util"
     ],
     "slot": "BN",
@@ -227,9 +227,9 @@
     "injury_note": null
    },
    {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
+    "name": "Pyotr Kochetkov",
+    "player_key": "477.p.8314",
+    "nhl_team": "CAR",
     "position_type": "G",
     "eligible": [
      "G"
@@ -239,9 +239,9 @@
     "injury_note": null
    },
    {
-    "name": "Pyotr Kochetkov",
-    "player_key": "477.p.8314",
-    "nhl_team": "CAR",
+    "name": "Ukko-Pekka Luukkonen",
+    "player_key": "477.p.7569",
+    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
@@ -291,9 +291,9 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -305,16 +305,29 @@
     "injury_note": null
    },
    {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "slot": "LW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
      "Util"
     ],
-    "slot": "LW",
+    "slot": "RW",
     "status": null,
     "injury_note": null
    },
@@ -385,12 +398,12 @@
     "injury_note": null
    },
    {
-    "name": "Kyle Connor",
-    "player_key": "477.p.6759",
-    "nhl_team": "WPG",
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
-     "LW",
+     "RW",
      "Util"
     ],
     "slot": "Util",
@@ -398,25 +411,12 @@
     "injury_note": null
    },
    {
-    "name": "Connor Bedard",
-    "player_key": "477.p.30544",
-    "nhl_team": "CHI",
+    "name": "Kiefer Sherwood",
+    "player_key": "477.p.7854",
+    "nhl_team": "SJ",
     "position_type": "P",
     "eligible": [
-     "C",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Nikita Kucherov",
-    "player_key": "477.p.5425",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -439,12 +439,12 @@
     "injury_note": null
    },
    {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
     "position_type": "P",
     "eligible": [
-     "LW",
+     "C",
      "RW",
      "Util"
     ],
@@ -453,9 +453,9 @@
     "injury_note": null
    },
    {
-    "name": "Karel Vejmelka",
-    "player_key": "477.p.6887",
-    "nhl_team": "UTA",
+    "name": "Ukko-Pekka Luukkonen",
+    "player_key": "477.p.7569",
+    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
@@ -465,9 +465,9 @@
     "injury_note": null
    },
    {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
+    "name": "Akira Schmid",
+    "player_key": "477.p.8033",
+    "nhl_team": "FLA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -489,9 +489,9 @@
     "injury_note": null
    },
    {
-    "name": "Akira Schmid",
-    "player_key": "477.p.8033",
-    "nhl_team": "FLA",
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -509,7 +509,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "168.55"
+   "projected": "187.86"
   },
   "opponent": {
    "name": "Panarin was Framed",
@@ -701,10 +701,11 @@
     "position_type": "P",
     "eligible": [
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "O",
+    "injury_note": "Personal"
    },
    {
     "name": "Jaden Schwartz",
@@ -873,11 +874,10 @@
     "nhl_team": "EDM",
     "position_type": "G",
     "eligible": [
-     "G",
-     "IR+"
+     "G"
     ],
-    "status": "DTD",
-    "injury_note": "Illness"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Philipp Grubauer",
@@ -929,12 +929,10 @@
     "nhl_team": "EDM",
     "position_type": "G",
     "eligible": [
-     "G",
-     "IR",
-     "IR+"
+     "G"
     ],
-    "status": "IR",
-    "injury_note": "Undisclosed"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Joey Daccord",
