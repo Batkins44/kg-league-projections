@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-07T17:30:16+00:00",
- "fetched_at_central": "2026-11-07T11:30-06:00",
+ "fetched_at_utc": "2026-11-07T17:57:29+00:00",
+ "fetched_at_central": "2026-11-07T11:57-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Running Up Blashill",
    "points": "220.75",
-   "projected": "267.72"
+   "projected": "267.36"
   }
  },
  "lineup": {
@@ -589,11 +589,10 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
-    "status": "DTD",
-    "injury_note": "Undisclosed"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Shane Pinto",
