@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-07T09:00:20+00:00",
- "fetched_at_central": "2026-11-07T03:00-06:00",
+ "fetched_at_utc": "2026-11-07T09:30:16+00:00",
+ "fetched_at_central": "2026-11-07T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -520,6 +520,19 @@
  "free_agents": {
   "skaters": [
    {
+    "name": "Kent Johnson",
+    "player_key": "477.p.8881",
+    "nhl_team": "CBJ",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Cole Perfetti",
     "player_key": "477.p.8650",
     "nhl_team": "WPG",
@@ -527,6 +540,18 @@
     "eligible": [
      "LW",
      "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Zach Benson",
+    "player_key": "477.p.30549",
+    "nhl_team": "BUF",
+    "position_type": "P",
+    "eligible": [
+     "LW",
      "Util"
     ],
     "status": null,
@@ -582,11 +607,12 @@
     "injury_note": null
    },
    {
-    "name": "Zach Benson",
-    "player_key": "477.p.30549",
-    "nhl_team": "BUF",
+    "name": "Mikael Granlund",
+    "player_key": "477.p.4969",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
+     "C",
      "LW",
      "Util"
     ],
@@ -638,19 +664,6 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Kent Johnson",
-    "player_key": "477.p.8881",
-    "nhl_team": "CBJ",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
      "Util"
     ],
     "status": null,
@@ -719,51 +732,12 @@
     "injury_note": null
    },
    {
-    "name": "Mikael Granlund",
-    "player_key": "477.p.4969",
-    "nhl_team": "ANA",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Rickard Rakell",
     "player_key": "477.p.5391",
     "nhl_team": "PIT",
     "position_type": "P",
     "eligible": [
      "C",
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brayden Schenn",
-    "player_key": "477.p.4685",
-    "nhl_team": "NYI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ryan Leonard",
-    "player_key": "477.p.30550",
-    "nhl_team": "WSH",
-    "position_type": "P",
-    "eligible": [
      "LW",
      "RW",
      "Util"
@@ -783,6 +757,44 @@
     ],
     "status": "DTD",
     "injury_note": "Undisclosed"
+   },
+   {
+    "name": "Brayden Schenn",
+    "player_key": "477.p.4685",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Owen Power",
+    "player_key": "477.p.8877",
+    "nhl_team": "BUF",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Ryan Leonard",
+    "player_key": "477.p.30550",
+    "nhl_team": "WSH",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Jordan Kyrou",
@@ -819,19 +831,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Jake Neighbours",
-    "player_key": "477.p.8666",
-    "nhl_team": "STL",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
    }
   ],
   "goalies": [
@@ -858,6 +857,17 @@
     "injury_note": null
    },
    {
+    "name": "Cam Talbot",
+    "player_key": "477.p.4854",
+    "nhl_team": "CBJ",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Tristan Jarry",
     "player_key": "477.p.6024",
     "nhl_team": "EDM",
@@ -868,17 +878,6 @@
     ],
     "status": "DTD",
     "injury_note": "Illness"
-   },
-   {
-    "name": "Cam Talbot",
-    "player_key": "477.p.4854",
-    "nhl_team": "CBJ",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
    },
    {
     "name": "Philipp Grubauer",
