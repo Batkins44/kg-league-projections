@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-07T03:00:20+00:00",
- "fetched_at_central": "2026-11-06T21:00-06:00",
+ "fetched_at_utc": "2026-11-07T03:30:16+00:00",
+ "fetched_at_central": "2026-11-06T21:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "161.75",
+   "points": "169.75",
    "projected": "242.38"
   },
   "opponent": {
    "name": "Running Up Blashill",
-   "points": "205.45",
+   "points": "212.50",
    "projected": "270.17"
   }
  },
