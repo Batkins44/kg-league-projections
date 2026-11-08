@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-08T09:00:20+00:00",
- "fetched_at_central": "2026-11-08T03:00-06:00",
+ "fetched_at_utc": "2026-11-08T09:30:18+00:00",
+ "fetched_at_central": "2026-11-08T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -514,11 +514,48 @@
   "opponent": {
    "name": "Panarin was Framed",
    "points": "0.00",
-   "projected": "170.53"
+   "projected": "171.62"
   }
  },
  "free_agents": {
   "skaters": [
+   {
+    "name": "Jack Quinn",
+    "player_key": "477.p.8648",
+    "nhl_team": "BUF",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Shane Pinto",
+    "player_key": "477.p.8310",
+    "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
    {
     "name": "Kent Johnson",
     "player_key": "477.p.8881",
@@ -570,19 +607,6 @@
     "injury_note": null
    },
    {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Mason McTavish",
     "player_key": "477.p.8879",
     "nhl_team": "STL",
@@ -595,12 +619,12 @@
     "injury_note": null
    },
    {
-    "name": "Shane Pinto",
-    "player_key": "477.p.8310",
-    "nhl_team": "OTT",
+    "name": "Tye Kartye",
+    "player_key": "477.p.9207",
+    "nhl_team": "NYR",
     "position_type": "P",
     "eligible": [
-     "C",
+     "LW",
      "Util"
     ],
     "status": null,
@@ -610,6 +634,19 @@
     "name": "Mikael Granlund",
     "player_key": "477.p.4969",
     "nhl_team": "ANA",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Adam Edstrom",
+    "player_key": "477.p.8438",
+    "nhl_team": "NSH",
     "position_type": "P",
     "eligible": [
      "C",
@@ -632,13 +669,13 @@
     "injury_note": null
    },
    {
-    "name": "Adam Edstrom",
-    "player_key": "477.p.8438",
-    "nhl_team": "NSH",
+    "name": "Michael Brandsegg-Nygård",
+    "player_key": "477.p.32791",
+    "nhl_team": "DET",
     "position_type": "P",
     "eligible": [
-     "C",
      "LW",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -670,11 +707,12 @@
     "injury_note": null
    },
    {
-    "name": "Tye Kartye",
-    "player_key": "477.p.9207",
-    "nhl_team": "NYR",
+    "name": "Tommy Novak",
+    "player_key": "477.p.6827",
+    "nhl_team": "PIT",
     "position_type": "P",
     "eligible": [
+     "C",
      "LW",
      "Util"
     ],
@@ -682,13 +720,64 @@
     "injury_note": null
    },
    {
-    "name": "Michael Brandsegg-Nygård",
-    "player_key": "477.p.32791",
-    "nhl_team": "DET",
+    "name": "William Carrier",
+    "player_key": "477.p.6037",
+    "nhl_team": "CAR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util",
+     "IR+"
+    ],
+    "status": "DTD",
+    "injury_note": "Knee"
+   },
+   {
+    "name": "Brayden Schenn",
+    "player_key": "477.p.4685",
+    "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Maxim Shabanov",
+    "player_key": "477.p.33674",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Ryan Leonard",
+    "player_key": "477.p.30550",
+    "nhl_team": "WSH",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jaden Schwartz",
+    "player_key": "477.p.4974",
+    "nhl_team": "COL",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
      "Util"
     ],
     "status": null,
@@ -708,25 +797,12 @@
     "injury_note": "Personal"
    },
    {
-    "name": "Jaden Schwartz",
-    "player_key": "477.p.4974",
-    "nhl_team": "COL",
+    "name": "Jordan Eberle",
+    "player_key": "477.p.4498",
+    "nhl_team": "SEA",
     "position_type": "P",
     "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Trevor Connelly",
-    "player_key": "477.p.32765",
-    "nhl_team": "VGK",
-    "position_type": "P",
-    "eligible": [
-     "LW",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -747,88 +823,13 @@
     "injury_note": null
    },
    {
-    "name": "Michael McCarron",
-    "player_key": "477.p.6004",
-    "nhl_team": "MIN",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util",
-     "IR+"
-    ],
-    "status": "O",
-    "injury_note": "Upper Body"
-   },
-   {
-    "name": "Brayden Schenn",
-    "player_key": "477.p.4685",
-    "nhl_team": "NYI",
+    "name": "Berkly Catton",
+    "player_key": "477.p.32775",
+    "nhl_team": "SEA",
     "position_type": "P",
     "eligible": [
      "C",
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Owen Power",
-    "player_key": "477.p.8877",
-    "nhl_team": "BUF",
-    "position_type": "P",
-    "eligible": [
-     "D",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ryan Leonard",
-    "player_key": "477.p.30550",
-    "nhl_team": "WSH",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Jordan Kyrou",
-    "player_key": "477.p.7143",
-    "nhl_team": "WSH",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "William Carrier",
-    "player_key": "477.p.6037",
-    "nhl_team": "CAR",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "Util",
-     "IR+"
-    ],
-    "status": "DTD",
-    "injury_note": "Knee"
-   },
-   {
-    "name": "Kasperi Kapanen",
-    "player_key": "477.p.6388",
-    "nhl_team": "EDM",
-    "position_type": "P",
-    "eligible": [
-     "RW",
      "Util"
     ],
     "status": null,
@@ -836,6 +837,17 @@
    }
   ],
   "goalies": [
+   {
+    "name": "Leevi Meriläinen",
+    "player_key": "477.p.8709",
+    "nhl_team": "VAN",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
    {
     "name": "Arturs Silovs",
     "player_key": "477.p.8433",
@@ -848,9 +860,31 @@
     "injury_note": null
    },
    {
-    "name": "Leevi Meriläinen",
-    "player_key": "477.p.8709",
-    "nhl_team": "VAN",
+    "name": "Devon Levi",
+    "player_key": "477.p.30111",
+    "nhl_team": "EDM",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jake Allen",
+    "player_key": "477.p.4589",
+    "nhl_team": "NJ",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Philipp Grubauer",
+    "player_key": "477.p.5085",
+    "nhl_team": "SEA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -881,17 +915,6 @@
     "injury_note": null
    },
    {
-    "name": "Philipp Grubauer",
-    "player_key": "477.p.5085",
-    "nhl_team": "SEA",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joseph Woll",
     "player_key": "477.p.7170",
     "nhl_team": "PHI",
@@ -914,20 +937,9 @@
     "injury_note": null
    },
    {
-    "name": "Jake Allen",
-    "player_key": "477.p.4589",
-    "nhl_team": "NJ",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Devon Levi",
-    "player_key": "477.p.30111",
-    "nhl_team": "EDM",
+    "name": "Anthony Stolarz",
+    "player_key": "477.p.5734",
+    "nhl_team": "TOR",
     "position_type": "G",
     "eligible": [
      "G"
@@ -950,17 +962,6 @@
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Michael DiPietro",
-    "player_key": "477.p.7579",
-    "nhl_team": "BOS",
     "position_type": "G",
     "eligible": [
      "G"
