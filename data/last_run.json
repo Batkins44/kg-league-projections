@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-11-07T16:12:22+00:00",
- "fetched_at_utc": "2026-11-07T16:12:17+00:00",
- "players": 840,
- "new_players": 486,
+ "built_at_utc": "2026-11-08T16:34:06+00:00",
+ "fetched_at_utc": "2026-11-08T16:34:02+00:00",
+ "players": 843,
+ "new_players": 489,
  "unmatched_prior": [
   "Brock Faber",
   "Troy Terry",
@@ -12,7 +12,6 @@
   "Thatcher Demko",
   "Mathew Barzal",
   "Simon Edvinsson",
-  "Alexander Nikishin",
   "Filip Gustavsson",
   "Marek Alscher",
   "Matt Duchene",
@@ -20,11 +19,11 @@
   "Samuel Montembeault"
  ],
  "match_how": {
-  "exact": 339,
-  "unmatched": 14,
+  "exact": 340,
+  "unmatched": 13,
   "alias": 1
  },
- "team_gp_min": 14,
- "team_gp_max": 18,
+ "team_gp_min": 15,
+ "team_gp_max": 19,
  "goalie_ga_points": -1.0
 }
