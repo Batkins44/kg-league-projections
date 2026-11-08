@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-08T15:30:19+00:00",
- "fetched_at_central": "2026-11-08T09:30-06:00",
+ "fetched_at_utc": "2026-11-08T16:00:21+00:00",
+ "fetched_at_central": "2026-11-08T10:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -514,7 +514,7 @@
   "opponent": {
    "name": "Panarin was Framed",
    "points": "0.00",
-   "projected": "171.62"
+   "projected": "153.19"
   }
  },
  "free_agents": {
@@ -809,20 +809,6 @@
     "injury_note": null
    },
    {
-    "name": "Rickard Rakell",
-    "player_key": "477.p.5391",
-    "nhl_team": "PIT",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Berkly Catton",
     "player_key": "477.p.32775",
     "nhl_team": "SEA",
@@ -830,6 +816,20 @@
     "eligible": [
      "C",
      "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Evgeni Malkin",
+    "player_key": "477.p.3638",
+    "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "RW",
      "Util"
     ],
     "status": null,
