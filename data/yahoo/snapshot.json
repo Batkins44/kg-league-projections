@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-08T04:00:18+00:00",
- "fetched_at_central": "2026-11-07T22:00-06:00",
+ "fetched_at_utc": "2026-11-08T04:30:17+00:00",
+ "fetched_at_central": "2026-11-07T22:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -20,7 +20,7 @@
   },
   "opponent": {
    "name": "Running Up Blashill",
-   "points": "261.00",
+   "points": "261.50",
    "projected": "268.28"
   }
  },
@@ -816,10 +816,11 @@
     "position_type": "P",
     "eligible": [
      "LW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Knee"
    },
    {
     "name": "Kasperi Kapanen",
