@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-08T01:00:21+00:00",
- "fetched_at_central": "2026-11-07T19:00-06:00",
+ "fetched_at_utc": "2026-11-08T01:30:17+00:00",
+ "fetched_at_central": "2026-11-07T19:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "183.80",
+   "points": "204.20",
    "projected": "279.85"
   },
   "opponent": {
    "name": "Running Up Blashill",
-   "points": "225.00",
+   "points": "230.00",
    "projected": "268.20"
   }
  },
@@ -757,7 +757,7 @@
      "IR+"
     ],
     "status": "O",
-    "injury_note": "Undisclosed"
+    "injury_note": "Upper Body"
    },
    {
     "name": "Brayden Schenn",
