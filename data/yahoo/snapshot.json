@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-08T22:21:50+00:00",
- "fetched_at_central": "2026-11-08T16:21-06:00",
+ "fetched_at_utc": "2026-11-08T22:30:18+00:00",
+ "fetched_at_central": "2026-11-08T16:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -631,19 +631,6 @@
     "injury_note": null
    },
    {
-    "name": "Mikael Granlund",
-    "player_key": "477.p.4969",
-    "nhl_team": "ANA",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Adam Edstrom",
     "player_key": "477.p.8438",
     "nhl_team": "NSH",
@@ -834,6 +821,18 @@
     ],
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Trevor Connelly",
+    "player_key": "477.p.32765",
+    "nhl_team": "VGK",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
    }
   ],
   "goalies": [
@@ -926,17 +925,6 @@
     "injury_note": null
    },
    {
-    "name": "Anthony Stolarz",
-    "player_key": "477.p.5734",
-    "nhl_team": "TOR",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joey Daccord",
     "player_key": "477.p.6941",
     "nhl_team": "SEA",
@@ -962,6 +950,17 @@
     "name": "Daniil Tarasov",
     "player_key": "477.p.7601",
     "nhl_team": "DET",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Alex Nedeljkovic",
+    "player_key": "477.p.6406",
+    "nhl_team": "SJ",
     "position_type": "G",
     "eligible": [
      "G"
