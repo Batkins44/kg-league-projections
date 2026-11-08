@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-08T20:00:18+00:00",
- "fetched_at_central": "2026-11-08T14:00-06:00",
+ "fetched_at_utc": "2026-11-08T20:30:26+00:00",
+ "fetched_at_central": "2026-11-08T14:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -926,17 +926,6 @@
     "injury_note": null
    },
    {
-    "name": "Devin Cooley",
-    "player_key": "477.p.8794",
-    "nhl_team": "CGY",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Anthony Stolarz",
     "player_key": "477.p.5734",
     "nhl_team": "TOR",
@@ -962,6 +951,17 @@
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Daniil Tarasov",
+    "player_key": "477.p.7601",
+    "nhl_team": "DET",
     "position_type": "G",
     "eligible": [
      "G"
