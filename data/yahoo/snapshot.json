@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-09T15:30:19+00:00",
- "fetched_at_central": "2026-11-09T09:30-06:00",
+ "fetched_at_utc": "2026-11-09T16:00:21+00:00",
+ "fetched_at_central": "2026-11-09T10:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "195.12"
+   "projected": "230.77"
   },
   "opponent": {
    "name": "Panarin was Framed",
@@ -53,13 +53,12 @@
     "injury_note": null
    },
    {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
+    "nhl_team": "WPG",
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -67,12 +66,13 @@
     "injury_note": null
    },
    {
-    "name": "Kyle Connor",
-    "player_key": "477.p.6759",
-    "nhl_team": "WPG",
+    "name": "Kiefer Sherwood",
+    "player_key": "477.p.7854",
+    "nhl_team": "SJ",
     "position_type": "P",
     "eligible": [
      "LW",
+     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -173,9 +173,9 @@
     "injury_note": null
    },
    {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -291,13 +291,12 @@
     "injury_note": null
    },
    {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
+    "name": "Kyle Connor",
+    "player_key": "477.p.6759",
+    "nhl_team": "WPG",
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -305,12 +304,13 @@
     "injury_note": null
    },
    {
-    "name": "Kyle Connor",
-    "player_key": "477.p.6759",
-    "nhl_team": "WPG",
+    "name": "Kiefer Sherwood",
+    "player_key": "477.p.7854",
+    "nhl_team": "SJ",
     "position_type": "P",
     "eligible": [
      "LW",
+     "RW",
      "Util"
     ],
     "slot": "LW",
@@ -411,9 +411,9 @@
     "injury_note": null
    },
    {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -509,7 +509,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "173.98"
+   "projected": "169.41"
   },
   "opponent": {
    "name": "Superman Aho",
