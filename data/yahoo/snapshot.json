@@ -1,27 +1,27 @@
 {
- "fetched_at_utc": "2026-11-09T07:30:18+00:00",
- "fetched_at_central": "2026-11-09T01:30-06:00",
+ "fetched_at_utc": "2026-11-09T08:00:24+00:00",
+ "fetched_at_central": "2026-11-09T02:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "5",
+  "adds_this_week": "0",
   "adds_max": 5
  },
- "week": 6,
+ "week": 7,
  "matchup": {
-  "week_start": "2026-11-02",
-  "week_end": "2026-11-08",
+  "week_start": "2026-11-09",
+  "week_end": "2026-11-15",
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "262.50",
-   "projected": "279.38"
+   "points": "0.00",
+   "projected": "193.02"
   },
   "opponent": {
-   "name": "Running Up Blashill",
-   "points": "291.80",
-   "projected": "268.86"
+   "name": "Panarin was Framed",
+   "points": "0.00",
+   "projected": "141.37"
   }
  },
  "lineup": {
@@ -503,18 +503,18 @@
   ]
  },
  "next_matchup": {
-  "week_start": "2026-11-09",
-  "week_end": "2026-11-15",
+  "week_start": "2026-11-16",
+  "week_end": "2026-11-22",
   "status": "preevent",
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "193.02"
+   "projected": "157.94"
   },
   "opponent": {
-   "name": "Panarin was Framed",
+   "name": "Superman Aho",
    "points": "0.00",
-   "projected": "141.37"
+   "projected": "128.30"
   }
  },
  "free_agents": {
@@ -971,45 +971,9 @@
   ]
  },
  "goalie_appearances": {
-  "count": 4,
+  "count": 0,
   "minimum": 3,
-  "by_day": [
-   {
-    "date": "2026-11-02",
-    "goalies": []
-   },
-   {
-    "date": "2026-11-03",
-    "goalies": [
-     "Pyotr Kochetkov"
-    ]
-   },
-   {
-    "date": "2026-11-04",
-    "goalies": []
-   },
-   {
-    "date": "2026-11-05",
-    "goalies": []
-   },
-   {
-    "date": "2026-11-06",
-    "goalies": [
-     "Ukko-Pekka Luukkonen"
-    ]
-   },
-   {
-    "date": "2026-11-07",
-    "goalies": [
-     "Karel Vejmelka",
-     "Pyotr Kochetkov"
-    ]
-   },
-   {
-    "date": "2026-11-08",
-    "goalies": []
-   }
-  ],
+  "by_day": [],
   "stats_missing": [],
   "note": "Monday through yesterday; today's games aren't counted yet"
  },
