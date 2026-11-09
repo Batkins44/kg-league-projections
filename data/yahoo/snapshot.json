@@ -1,11 +1,11 @@
 {
- "fetched_at_utc": "2026-11-09T16:30:19+00:00",
- "fetched_at_central": "2026-11-09T10:30-06:00",
+ "fetched_at_utc": "2026-11-09T17:00:21+00:00",
+ "fetched_at_central": "2026-11-09T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "0",
+  "adds_this_week": "1",
   "adds_max": 5
  },
  "week": 7,
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "230.77"
+   "projected": "191.53"
   },
   "opponent": {
    "name": "Panarin was Framed",
@@ -215,21 +215,23 @@
     "injury_note": null
    },
    {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
-    "position_type": "G",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
+    "position_type": "P",
     "eligible": [
-     "G"
+     "LW",
+     "RW",
+     "Util"
     ],
-    "slot": "G",
+    "slot": "BN",
     "status": null,
     "injury_note": null
    },
    {
-    "name": "Akira Schmid",
-    "player_key": "477.p.8033",
-    "nhl_team": "FLA",
+    "name": "Ukko-Pekka Luukkonen",
+    "player_key": "477.p.7569",
+    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
@@ -453,21 +455,23 @@
     "injury_note": null
    },
    {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
-    "position_type": "G",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
+    "position_type": "P",
     "eligible": [
-     "G"
+     "LW",
+     "RW",
+     "Util"
     ],
-    "slot": "G",
+    "slot": "BN",
     "status": null,
     "injury_note": null
    },
    {
-    "name": "Akira Schmid",
-    "player_key": "477.p.8033",
-    "nhl_team": "FLA",
+    "name": "Ukko-Pekka Luukkonen",
+    "player_key": "477.p.7569",
+    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
@@ -509,7 +513,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "169.41"
+   "projected": "159.49"
   },
   "opponent": {
    "name": "Superman Aho",
@@ -538,19 +542,6 @@
     "nhl_team": "BUF",
     "position_type": "P",
     "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
-     "LW",
      "RW",
      "Util"
     ],
@@ -830,6 +821,18 @@
     "position_type": "P",
     "eligible": [
      "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Trevor Connelly",
+    "player_key": "477.p.32765",
+    "nhl_team": "VGK",
+    "position_type": "P",
+    "eligible": [
+     "LW",
      "Util"
     ],
     "status": null,
