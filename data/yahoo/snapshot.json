@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-09T09:00:21+00:00",
- "fetched_at_central": "2026-11-09T03:00-06:00",
+ "fetched_at_utc": "2026-11-09T09:30:17+00:00",
+ "fetched_at_central": "2026-11-09T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -638,6 +638,7 @@
     "eligible": [
      "C",
      "LW",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -892,6 +893,17 @@
     "injury_note": null
    },
    {
+    "name": "Darcy Kuemper",
+    "player_key": "477.p.5336",
+    "nhl_team": "LA",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Cam Talbot",
     "player_key": "477.p.4854",
     "nhl_team": "CBJ",
@@ -950,17 +962,6 @@
     "name": "Daniil Tarasov",
     "player_key": "477.p.7601",
     "nhl_team": "DET",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Alex Nedeljkovic",
-    "player_key": "477.p.6406",
-    "nhl_team": "SJ",
     "position_type": "G",
     "eligible": [
      "G"
