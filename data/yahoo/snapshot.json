@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-10T06:30:17+00:00",
- "fetched_at_central": "2026-11-10T00:30-06:00",
+ "fetched_at_utc": "2026-11-10T07:00:19+00:00",
+ "fetched_at_central": "2026-11-10T01:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -513,7 +513,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "172.13"
+   "projected": "172.43"
   },
   "opponent": {
    "name": "Superman Aho",
