@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-10T14:30:20+00:00",
- "fetched_at_central": "2026-11-10T08:30-06:00",
+ "fetched_at_utc": "2026-11-10T15:00:21+00:00",
+ "fetched_at_central": "2026-11-10T09:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -518,7 +518,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "0.00",
-   "projected": "135.30"
+   "projected": "118.66"
   }
  },
  "free_agents": {
@@ -543,18 +543,6 @@
     "position_type": "P",
     "eligible": [
      "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Shane Pinto",
-    "player_key": "477.p.8310",
-    "nhl_team": "OTT",
-    "position_type": "P",
-    "eligible": [
-     "C",
      "Util"
     ],
     "status": null,
@@ -832,6 +820,19 @@
     "nhl_team": "VGK",
     "position_type": "P",
     "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jaden Schwartz",
+    "player_key": "477.p.4974",
+    "nhl_team": "COL",
+    "position_type": "P",
+    "eligible": [
+     "C",
      "LW",
      "Util"
     ],
