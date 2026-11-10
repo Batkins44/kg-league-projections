@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-10T09:00:21+00:00",
- "fetched_at_central": "2026-11-10T03:00-06:00",
+ "fetched_at_utc": "2026-11-10T09:30:17+00:00",
+ "fetched_at_central": "2026-11-10T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -586,12 +586,36 @@
     "injury_note": null
    },
    {
+    "name": "Tye Kartye",
+    "player_key": "477.p.9207",
+    "nhl_team": "NYR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Easton Cowan",
     "player_key": "477.p.30184",
     "nhl_team": "TOR",
     "position_type": "P",
     "eligible": [
      "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jonathan Lekkerimäki",
+    "player_key": "477.p.31592",
+    "nhl_team": "VAN",
+    "position_type": "P",
+    "eligible": [
+     "RW",
      "Util"
     ],
     "status": null,
@@ -622,6 +646,19 @@
     "injury_note": null
    },
    {
+    "name": "Matvei Michkov",
+    "player_key": "477.p.30548",
+    "nhl_team": "PHI",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Evgeni Malkin",
     "player_key": "477.p.3638",
     "nhl_team": "PIT",
@@ -636,11 +673,12 @@
     "injury_note": null
    },
    {
-    "name": "Tye Kartye",
-    "player_key": "477.p.9207",
-    "nhl_team": "NYR",
+    "name": "Brayden Schenn",
+    "player_key": "477.p.4685",
+    "nhl_team": "NYI",
     "position_type": "P",
     "eligible": [
+     "C",
      "LW",
      "Util"
     ],
@@ -688,18 +726,6 @@
     "injury_note": null
    },
    {
-    "name": "Jonathan Lekkerimäki",
-    "player_key": "477.p.31592",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Timo Meier",
     "player_key": "477.p.6751",
     "nhl_team": "NJ",
@@ -716,19 +742,6 @@
     "name": "Michael Brandsegg-Nygård",
     "player_key": "477.p.32791",
     "nhl_team": "DET",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Matvei Michkov",
-    "player_key": "477.p.30548",
-    "nhl_team": "PHI",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -762,19 +775,6 @@
     ],
     "status": "DTD",
     "injury_note": "Knee"
-   },
-   {
-    "name": "Brayden Schenn",
-    "player_key": "477.p.4685",
-    "nhl_team": "NYI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
    },
    {
     "name": "Maxim Shabanov",
@@ -852,6 +852,17 @@
     "injury_note": null
    },
    {
+    "name": "Devon Levi",
+    "player_key": "477.p.30111",
+    "nhl_team": "EDM",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Arturs Silovs",
     "player_key": "477.p.8433",
     "nhl_team": "PIT",
@@ -863,9 +874,9 @@
     "injury_note": null
    },
    {
-    "name": "Devon Levi",
-    "player_key": "477.p.30111",
-    "nhl_team": "EDM",
+    "name": "Joseph Woll",
+    "player_key": "477.p.7170",
+    "nhl_team": "PHI",
     "position_type": "G",
     "eligible": [
      "G"
@@ -921,17 +932,6 @@
     "name": "Tristan Jarry",
     "player_key": "477.p.6024",
     "nhl_team": "EDM",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Joseph Woll",
-    "player_key": "477.p.7170",
-    "nhl_team": "PHI",
     "position_type": "G",
     "eligible": [
      "G"
