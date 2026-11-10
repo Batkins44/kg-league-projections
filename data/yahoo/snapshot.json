@@ -1,11 +1,11 @@
 {
- "fetched_at_utc": "2026-11-10T15:00:21+00:00",
- "fetched_at_central": "2026-11-10T09:00-06:00",
+ "fetched_at_utc": "2026-11-10T15:30:19+00:00",
+ "fetched_at_central": "2026-11-10T09:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "1",
+  "adds_this_week": "2",
   "adds_max": 5
  },
  "week": 7,
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "19.75",
-   "projected": "246.89"
+   "projected": "254.96"
   },
   "opponent": {
    "name": "Panarin was Framed",
@@ -80,9 +80,9 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -94,11 +94,12 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Adam Edstrom",
+    "player_key": "477.p.8438",
+    "nhl_team": "NSH",
     "position_type": "P",
     "eligible": [
+     "C",
      "LW",
      "RW",
      "Util"
@@ -173,9 +174,9 @@
     "injury_note": null
    },
    {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -293,9 +294,9 @@
     "injury_note": null
    },
    {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -321,9 +322,9 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
+    "name": "Joel Farabee",
+    "player_key": "477.p.7912",
+    "nhl_team": "CGY",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -335,11 +336,12 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Adam Edstrom",
+    "player_key": "477.p.8438",
+    "nhl_team": "NSH",
     "position_type": "P",
     "eligible": [
+     "C",
      "LW",
      "RW",
      "Util"
@@ -469,9 +471,9 @@
     "injury_note": null
    },
    {
-    "name": "Karel Vejmelka",
-    "player_key": "477.p.6887",
-    "nhl_team": "UTA",
+    "name": "Ukko-Pekka Luukkonen",
+    "player_key": "477.p.7569",
+    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
@@ -481,9 +483,9 @@
     "injury_note": null
    },
    {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -513,7 +515,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "177.31"
+   "projected": "179.91"
   },
   "opponent": {
    "name": "Superman Aho",
@@ -674,20 +676,6 @@
     "injury_note": null
    },
    {
-    "name": "Adam Edstrom",
-    "player_key": "477.p.8438",
-    "nhl_team": "NSH",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "JJ Peterka",
     "player_key": "477.p.8674",
     "nhl_team": "BOS",
@@ -838,6 +826,19 @@
     ],
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Josh Anderson",
+    "player_key": "477.p.5785",
+    "nhl_team": "MTL",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "status": "DTD",
+    "injury_note": "Personal"
    }
   ],
   "goalies": [
