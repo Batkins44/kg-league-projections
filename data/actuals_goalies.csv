@@ -2,7 +2,7 @@ player,team,gp,starts,w,sv,ga,so,sv_pct,fp,fp_pg
 Adin Hill,VGK,9,9,7,215,23,0,0.903,62.50,6.94
 Akira Schmid,FLA,9,8,5,203,26,0,0.886,49.90,5.54
 Alex Nedeljkovic,SJS,7,7,3,197,23,0,0.895,45.10,6.44
-Andrei Vasilevskiy,TBL,13,13,8,279,37,0,0.883,70.70,5.44
+Andrei Vasilevskiy,TBL,13,13,8,280,37,0,0.883,71.00,5.46
 Anthony Stolarz,TOR,7,7,5,187,19,0,0.908,52.10,7.44
 Anton Forsberg,LAK,6,5,0,129,14,0,0.902,24.70,4.12
 Arsenii Sergeev,CGY,1,1,0,29,5,0,0.853,3.70,3.70
@@ -23,11 +23,11 @@ Daniil Tarasov,DET,8,6,2,170,15,1,0.919,45.00,5.62
 Darcy Kuemper,LAK,10,10,5,238,33,0,0.878,53.40,5.34
 Dennis Hildeby,TBL,4,4,3,88,12,0,0.880,23.40,5.85
 Devin Cooley,CGY,8,8,5,212,20,0,0.914,58.60,7.32
-Devon Levi,EDM,8,8,7,193,24,0,0.889,54.90,6.86
+Devon Levi,EDM,9,9,8,223,25,0,0.899,65.90,7.32
 Dustin Wolf,CGY,10,9,3,238,36,0,0.869,44.40,4.44
-Dylan Garand,NYR,13,11,6,280,29,1,0.906,76.00,5.85
+Dylan Garand,NYR,14,12,6,297,31,1,0.905,79.10,5.65
 Igor Shesterkin,NYR,5,5,3,101,8,0,0.927,31.30,6.26
-Ilya Sorokin,NYI,11,11,6,292,29,1,0.910,79.60,7.24
+Ilya Sorokin,NYI,12,12,6,329,31,1,0.914,88.70,7.39
 Jacob Fowler,MTL,10,10,8,273,22,2,0.925,89.90,8.99
 Jacob Markstrom,FLA,9,9,4,179,23,1,0.886,45.70,5.08
 Jake Allen,NJD,9,9,6,215,29,0,0.881,53.50,5.94
@@ -43,13 +43,13 @@ John Gibson,DET,11,11,4,202,33,0,0.860,39.60,3.60
 Jonas Johansson,OTT,4,4,1,89,16,0,0.848,13.70,3.42
 Joonas Korpisalo,NYR,1,1,1,25,3,0,0.893,7.50,7.50
 Jordan Binnington,STL,5,5,1,120,21,0,0.851,18.00,3.60
-Joseph Woll,PHI,9,9,1,248,28,0,0.899,49.40,5.49
+Joseph Woll,PHI,10,10,2,266,29,0,0.902,56.80,5.68
 Justus Annunen,NSH,4,4,3,97,14,0,0.874,24.10,6.02
 Juuse Saros,NSH,12,12,5,329,32,0,0.911,81.70,6.81
 Karel Vejmelka,UTA,13,12,6,262,40,1,0.870,59.60,4.58
 Kevin Lankinen,VAN,9,8,1,177,43,0,0.808,13.10,1.46
 Laurent Brossoit,ANA,4,4,4,93,13,0,0.877,26.90,6.72
-Leevi Merilainen,VAN,13,11,2,329,41,0,0.889,63.70,4.90
+Leevi Merilainen,VAN,14,12,2,343,43,0,0.889,65.90,4.71
 Linus Ullmark,OTT,8,8,7,172,10,0,0.945,62.60,7.83
 Logan Thompson,WSH,11,11,6,261,33,0,0.888,63.30,5.75
 Lukas Dostal,ANA,10,10,4,219,34,0,0.866,43.70,4.37
@@ -73,4 +73,4 @@ Stuart Skinner,WPG,13,13,6,303,40,0,0.883,68.90,5.30
 Tristan Jarry,EDM,8,8,4,185,21,2,0.902,52.50,6.56
 Ukko-Pekka Luukkonen,BUF,11,10,5,252,35,0,0.878,55.60,5.05
 Ville Husso,ANA,6,4,2,112,17,0,0.868,22.60,3.77
-Yaroslav Askarov,SJS,12,12,4,307,40,0,0.885,64.10,5.34
+Yaroslav Askarov,SJS,13,13,5,337,42,0,0.889,74.10,5.70
