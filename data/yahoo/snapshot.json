@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-11T14:30:17+00:00",
- "fetched_at_central": "2026-11-11T08:30-06:00",
+ "fetched_at_utc": "2026-11-11T15:00:21+00:00",
+ "fetched_at_central": "2026-11-11T09:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -520,7 +520,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "0.00",
-   "projected": "120.91"
+   "projected": "117.37"
   }
  },
  "free_agents": {
@@ -654,20 +654,6 @@
     "nhl_team": "PHI",
     "position_type": "P",
     "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Evgeni Malkin",
-    "player_key": "477.p.3638",
-    "nhl_team": "PIT",
-    "position_type": "P",
-    "eligible": [
-     "C",
      "LW",
      "RW",
      "Util"
@@ -833,6 +819,18 @@
     "name": "Josh Anderson",
     "player_key": "477.p.5785",
     "nhl_team": "MTL",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Pontus Holmberg",
+    "player_key": "477.p.8053",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "RW",
