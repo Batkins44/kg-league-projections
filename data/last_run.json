@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-11-10T17:36:41+00:00",
- "fetched_at_utc": "2026-11-10T17:36:37+00:00",
- "players": 846,
- "new_players": 492,
+ "built_at_utc": "2026-11-11T17:47:03+00:00",
+ "fetched_at_utc": "2026-11-11T17:47:00+00:00",
+ "players": 849,
+ "new_players": 495,
  "unmatched_prior": [
   "Brock Faber",
   "Troy Terry",
@@ -23,7 +23,7 @@
   "unmatched": 13,
   "alias": 1
  },
- "team_gp_min": 15,
+ "team_gp_min": 16,
  "team_gp_max": 20,
  "goalie_ga_points": -1.0
 }
