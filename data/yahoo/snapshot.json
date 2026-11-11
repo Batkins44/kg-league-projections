@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-11T08:30:20+00:00",
- "fetched_at_central": "2026-11-11T02:30-06:00",
+ "fetched_at_utc": "2026-11-11T09:00:20+00:00",
+ "fetched_at_central": "2026-11-11T03:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "45.25",
+   "points": "19.75",
    "projected": "255.72"
   },
   "opponent": {
    "name": "Panarin was Framed",
-   "points": "48.00",
+   "points": "16.50",
    "projected": "211.19"
   }
  },
@@ -515,12 +515,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "178.80"
+   "projected": "182.75"
   },
   "opponent": {
    "name": "Superman Aho",
    "points": "0.00",
-   "projected": "118.51"
+   "projected": "120.91"
   }
  },
  "free_agents": {
