@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-12T23:00:17+00:00",
- "fetched_at_central": "2026-11-12T17:00-06:00",
+ "fetched_at_utc": "2026-11-12T23:30:19+00:00",
+ "fetched_at_central": "2026-11-12T17:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -820,10 +820,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "O",
+    "injury_note": "Undisclosed"
    },
    {
     "name": "Martin Pospisil",
