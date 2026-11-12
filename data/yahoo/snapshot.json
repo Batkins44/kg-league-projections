@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-12T14:30:17+00:00",
- "fetched_at_central": "2026-11-12T08:30-06:00",
+ "fetched_at_utc": "2026-11-12T15:00:18+00:00",
+ "fetched_at_central": "2026-11-12T09:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "87.45",
-   "projected": "255.23"
+   "projected": "249.34"
   },
   "opponent": {
    "name": "Panarin was Framed",
@@ -770,11 +770,10 @@
     "position_type": "P",
     "eligible": [
      "LW",
-     "Util",
-     "IR+"
+     "Util"
     ],
-    "status": "DTD",
-    "injury_note": "Knee"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Gabriel Landeskog",
