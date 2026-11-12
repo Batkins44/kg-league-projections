@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-12T12:30:18+00:00",
- "fetched_at_central": "2026-11-12T06:30-06:00",
+ "fetched_at_utc": "2026-11-12T13:00:21+00:00",
+ "fetched_at_central": "2026-11-12T07:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -539,18 +539,6 @@
     "injury_note": null
    },
    {
-    "name": "Jack Quinn",
-    "player_key": "477.p.8648",
-    "nhl_team": "BUF",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Easton Cowan",
     "player_key": "477.p.30184",
     "nhl_team": "TOR",
@@ -833,6 +821,18 @@
     "position_type": "P",
     "eligible": [
      "D",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Anthony Cirelli",
+    "player_key": "477.p.6814",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "C",
      "Util"
     ],
     "status": null,
