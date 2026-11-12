@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-12T14:00:20+00:00",
- "fetched_at_central": "2026-11-12T08:00-06:00",
+ "fetched_at_utc": "2026-11-12T14:30:17+00:00",
+ "fetched_at_central": "2026-11-12T08:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -520,7 +520,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "0.00",
-   "projected": "122.87"
+   "projected": "149.80"
   }
  },
  "free_agents": {
@@ -815,24 +815,25 @@
     "injury_note": null
    },
    {
-    "name": "Charle-Edouard D'Astous",
-    "player_key": "477.p.8522",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
-     "D",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Anthony Cirelli",
     "player_key": "477.p.6814",
     "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Martin Pospisil",
+    "player_key": "477.p.8002",
+    "nhl_team": "CGY",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -929,17 +930,6 @@
     "injury_note": null
    },
    {
-    "name": "Darcy Kuemper",
-    "player_key": "477.p.5336",
-    "nhl_team": "LA",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
@@ -965,6 +955,17 @@
     "name": "Joey Daccord",
     "player_key": "477.p.6941",
     "nhl_team": "SEA",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Alex Nedeljkovic",
+    "player_key": "477.p.6406",
+    "nhl_team": "SJ",
     "position_type": "G",
     "eligible": [
      "G"
