@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-13T00:00:19+00:00",
- "fetched_at_central": "2026-11-12T18:00-06:00",
+ "fetched_at_utc": "2026-11-13T00:30:17+00:00",
+ "fetched_at_central": "2026-11-12T18:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "88.20",
+   "points": "99.70",
    "projected": "249.08"
   },
   "opponent": {
    "name": "Panarin was Framed",
-   "points": "82.45",
+   "points": "85.35",
    "projected": "220.00"
   }
  },
@@ -824,7 +824,7 @@
      "IR+"
     ],
     "status": "O",
-    "injury_note": "Undisclosed"
+    "injury_note": "Lower Body"
    },
    {
     "name": "Martin Pospisil",
