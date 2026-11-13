@@ -1,12 +1,11 @@
 {
- "built_at_utc": "2026-11-12T18:01:22+00:00",
- "fetched_at_utc": "2026-11-12T18:01:19+00:00",
- "players": 851,
- "new_players": 497,
+ "built_at_utc": "2026-11-13T17:35:34+00:00",
+ "fetched_at_utc": "2026-11-13T17:35:29+00:00",
+ "players": 855,
+ "new_players": 501,
  "unmatched_prior": [
   "Brock Faber",
   "Rasmus Sandin",
-  "Kevin Fiala",
   "Frederik Andersen",
   "Thatcher Demko",
   "Mathew Barzal",
@@ -14,15 +13,14 @@
   "Filip Gustavsson",
   "Marek Alscher",
   "Matt Duchene",
-  "Alex Lyon",
   "Samuel Montembeault"
  ],
  "match_how": {
-  "exact": 341,
-  "unmatched": 12,
+  "exact": 343,
+  "unmatched": 10,
   "alias": 1
  },
- "team_gp_min": 16,
+ "team_gp_min": 17,
  "team_gp_max": 21,
  "goalie_ga_points": -1.0
 }
