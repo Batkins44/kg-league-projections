@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-13T03:00:18+00:00",
- "fetched_at_central": "2026-11-12T21:00-06:00",
+ "fetched_at_utc": "2026-11-13T03:30:15+00:00",
+ "fetched_at_central": "2026-11-12T21:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "134.70",
+   "points": "138.90",
    "projected": "249.43"
   },
   "opponent": {
    "name": "Panarin was Framed",
-   "points": "116.30",
+   "points": "118.80",
    "projected": "218.96"
   }
  },
@@ -46,11 +46,12 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
+     "Util",
+     "IR+"
     ],
     "slot": "C",
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Brandon Hagel",
@@ -274,11 +275,12 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
+     "Util",
+     "IR+"
     ],
     "slot": "C",
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Adam Edstrom",
