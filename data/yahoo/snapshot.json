@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-14T09:30:15+00:00",
- "fetched_at_central": "2026-11-14T03:30-06:00",
+ "fetched_at_utc": "2026-11-14T10:00:17+00:00",
+ "fetched_at_central": "2026-11-14T04:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -565,12 +565,11 @@
     "injury_note": null
    },
    {
-    "name": "Brayden Schenn",
-    "player_key": "477.p.4685",
-    "nhl_team": "NYI",
+    "name": "Tye Kartye",
+    "player_key": "477.p.9207",
+    "nhl_team": "NYR",
     "position_type": "P",
     "eligible": [
-     "C",
      "LW",
      "Util"
     ],
@@ -578,11 +577,12 @@
     "injury_note": null
    },
    {
-    "name": "Tye Kartye",
-    "player_key": "477.p.9207",
-    "nhl_team": "NYR",
+    "name": "Brayden Schenn",
+    "player_key": "477.p.4685",
+    "nhl_team": "NYI",
     "position_type": "P",
     "eligible": [
+     "C",
      "LW",
      "Util"
     ],
@@ -627,12 +627,36 @@
     "injury_note": null
    },
    {
+    "name": "Ivan Barbashev",
+    "player_key": "477.p.6402",
+    "nhl_team": "VGK",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Mason McTavish",
     "player_key": "477.p.8879",
     "nhl_team": "STL",
     "position_type": "P",
     "eligible": [
      "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jonathan Lekkerimäki",
+    "player_key": "477.p.31592",
+    "nhl_team": "VAN",
+    "position_type": "P",
+    "eligible": [
+     "RW",
      "Util"
     ],
     "status": null,
@@ -658,18 +682,6 @@
     "position_type": "P",
     "eligible": [
      "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Jonathan Lekkerimäki",
-    "player_key": "477.p.31592",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
      "RW",
      "Util"
     ],
@@ -747,18 +759,6 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ivan Barbashev",
-    "player_key": "477.p.6402",
-    "nhl_team": "VGK",
-    "position_type": "P",
-    "eligible": [
-     "LW",
      "Util"
     ],
     "status": null,
