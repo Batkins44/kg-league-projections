@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-14T16:30:17+00:00",
- "fetched_at_central": "2026-11-14T10:30-06:00",
+ "fetched_at_utc": "2026-11-14T17:00:17+00:00",
+ "fetched_at_central": "2026-11-14T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Panarin was Framed",
    "points": "136.05",
-   "projected": "218.91"
+   "projected": "224.89"
   }
  },
  "lineup": {
@@ -33,12 +33,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "C",
-    "status": "DTD",
-    "injury_note": "Upper Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Bo Horvat",
@@ -424,12 +423,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "DTD",
-    "injury_note": "Upper Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Kyle Connor",
