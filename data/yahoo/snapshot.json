@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-14T19:30:20+00:00",
- "fetched_at_central": "2026-11-14T13:30-06:00",
+ "fetched_at_utc": "2026-11-14T20:00:18+00:00",
+ "fetched_at_central": "2026-11-14T14:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,21 +15,21 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "167.55",
-   "projected": "242.67"
+   "points": "168.90",
+   "projected": "250.99"
   },
   "opponent": {
    "name": "Panarin was Framed",
-   "points": "154.55",
+   "points": "155.55",
    "projected": "224.89"
   }
  },
  "lineup": {
   "2026-11-14": [
    {
-    "name": "Joel Eriksson Ek",
-    "player_key": "477.p.6762",
-    "nhl_team": "MIN",
+    "name": "Bo Horvat",
+    "player_key": "477.p.5988",
+    "nhl_team": "NYI",
     "position_type": "P",
     "eligible": [
      "C",
@@ -40,12 +40,13 @@
     "injury_note": null
    },
    {
-    "name": "Bo Horvat",
-    "player_key": "477.p.5988",
-    "nhl_team": "NYI",
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
     "position_type": "P",
     "eligible": [
      "C",
+     "RW",
      "Util"
     ],
     "slot": "C",
@@ -94,12 +95,11 @@
     "injury_note": null
    },
    {
-    "name": "Connor Bedard",
-    "player_key": "477.p.30544",
-    "nhl_team": "CHI",
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
-     "C",
      "RW",
      "Util"
     ],
@@ -160,15 +160,29 @@
     "injury_note": null
    },
    {
-    "name": "Nikita Kucherov",
-    "player_key": "477.p.5425",
-    "nhl_team": "TB",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
     "slot": "Util",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "BN",
     "status": null,
     "injury_note": null
    },
@@ -202,20 +216,6 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joel Farabee",
     "player_key": "477.p.7912",
     "nhl_team": "CGY",
@@ -226,18 +226,6 @@
      "Util"
     ],
     "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "slot": "G",
     "status": null,
     "injury_note": null
    },
@@ -257,6 +245,18 @@
     "name": "Karel Vejmelka",
     "player_key": "477.p.6887",
     "nhl_team": "UTA",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Ukko-Pekka Luukkonen",
+    "player_key": "477.p.7569",
+    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
