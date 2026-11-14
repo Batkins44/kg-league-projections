@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-14T09:00:18+00:00",
- "fetched_at_central": "2026-11-14T03:00-06:00",
+ "fetched_at_utc": "2026-11-14T09:30:15+00:00",
+ "fetched_at_central": "2026-11-14T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -541,6 +541,18 @@
     "injury_note": null
    },
    {
+    "name": "Shane Pinto",
+    "player_key": "477.p.8310",
+    "nhl_team": "OTT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Easton Cowan",
     "player_key": "477.p.30184",
     "nhl_team": "TOR",
@@ -827,19 +839,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Jaden Schwartz",
-    "player_key": "477.p.4974",
-    "nhl_team": "COL",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
    }
   ],
   "goalies": [
@@ -954,9 +953,9 @@
     "injury_note": null
    },
    {
-    "name": "Michael DiPietro",
-    "player_key": "477.p.7579",
-    "nhl_team": "BOS",
+    "name": "John Gibson",
+    "player_key": "477.p.5407",
+    "nhl_team": "DET",
     "position_type": "G",
     "eligible": [
      "G"
@@ -965,9 +964,9 @@
     "injury_note": null
    },
    {
-    "name": "Joey Daccord",
-    "player_key": "477.p.6941",
-    "nhl_team": "SEA",
+    "name": "Michael DiPietro",
+    "player_key": "477.p.7579",
+    "nhl_team": "BOS",
     "position_type": "G",
     "eligible": [
      "G"
