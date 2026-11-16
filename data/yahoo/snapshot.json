@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-16T18:00:20+00:00",
- "fetched_at_central": "2026-11-16T12:00-06:00",
+ "fetched_at_utc": "2026-11-16T18:30:18+00:00",
+ "fetched_at_central": "2026-11-16T12:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -33,12 +33,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "C",
-    "status": "DTD",
-    "injury_note": "Undisclosed"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Brock Boeser",
@@ -288,12 +287,11 @@
     "position_type": "P",
     "eligible": [
      "C",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "C",
-    "status": "DTD",
-    "injury_note": "Undisclosed"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Beckett Sennecke",
@@ -520,7 +518,7 @@
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "0.00",
-   "projected": "198.69"
+   "projected": "216.50"
   }
  },
  "free_agents": {
