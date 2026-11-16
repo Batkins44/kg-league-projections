@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-16T09:00:21+00:00",
- "fetched_at_central": "2026-11-16T03:00-06:00",
+ "fetched_at_utc": "2026-11-16T09:42:46+00:00",
+ "fetched_at_central": "2026-11-16T03:42-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -576,6 +576,19 @@
     "injury_note": null
    },
    {
+    "name": "Matvei Michkov",
+    "player_key": "477.p.30548",
+    "nhl_team": "PHI",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Brayden Schenn",
     "player_key": "477.p.4685",
     "nhl_team": "NYI",
@@ -639,13 +652,12 @@
     "injury_note": null
    },
    {
-    "name": "Matvei Michkov",
-    "player_key": "477.p.30548",
-    "nhl_team": "PHI",
+    "name": "Anton Lundell",
+    "player_key": "477.p.8652",
+    "nhl_team": "FLA",
     "position_type": "P",
     "eligible": [
-     "LW",
-     "RW",
+     "C",
      "Util"
     ],
     "status": null,
@@ -664,12 +676,12 @@
     "injury_note": null
    },
    {
-    "name": "Anton Lundell",
-    "player_key": "477.p.8652",
-    "nhl_team": "FLA",
+    "name": "Jonathan Lekkerimäki",
+    "player_key": "477.p.31592",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
-     "C",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -682,6 +694,18 @@
     "position_type": "P",
     "eligible": [
      "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Ivan Barbashev",
+    "player_key": "477.p.6402",
+    "nhl_team": "VGK",
+    "position_type": "P",
+    "eligible": [
      "LW",
      "Util"
     ],
@@ -714,28 +738,18 @@
     "injury_note": null
    },
    {
-    "name": "Ivan Barbashev",
-    "player_key": "477.p.6402",
-    "nhl_team": "VGK",
+    "name": "Kiefer Sherwood",
+    "player_key": "477.p.7854",
+    "nhl_team": "SJ",
     "position_type": "P",
     "eligible": [
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Jonathan Lekkerimäki",
-    "player_key": "477.p.31592",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Arm"
    },
    {
     "name": "Gabriel Landeskog",
@@ -774,20 +788,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Kiefer Sherwood",
-    "player_key": "477.p.7854",
-    "nhl_team": "SJ",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util",
-     "IR+"
-    ],
-    "status": "DTD",
-    "injury_note": "Arm"
    },
    {
     "name": "Josh Anderson",
@@ -830,13 +830,12 @@
     "injury_note": null
    },
    {
-    "name": "Dawson Mercer",
-    "player_key": "477.p.8658",
-    "nhl_team": "WPG",
+    "name": "Dmitry Orlov",
+    "player_key": "477.p.5254",
+    "nhl_team": "SJ",
     "position_type": "P",
     "eligible": [
-     "C",
-     "RW",
+     "D",
      "Util"
     ],
     "status": null,
@@ -844,6 +843,17 @@
    }
   ],
   "goalies": [
+   {
+    "name": "Leevi Meriläinen",
+    "player_key": "477.p.8709",
+    "nhl_team": "VAN",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
    {
     "name": "Devon Levi",
     "player_key": "477.p.30111",
@@ -856,9 +866,9 @@
     "injury_note": null
    },
    {
-    "name": "Leevi Meriläinen",
-    "player_key": "477.p.8709",
-    "nhl_team": "VAN",
+    "name": "Tristan Jarry",
+    "player_key": "477.p.6024",
+    "nhl_team": "EDM",
     "position_type": "G",
     "eligible": [
      "G"
@@ -900,9 +910,9 @@
     "injury_note": null
    },
    {
-    "name": "Tristan Jarry",
-    "player_key": "477.p.6024",
-    "nhl_team": "EDM",
+    "name": "Daniil Tarasov",
+    "player_key": "477.p.7601",
+    "nhl_team": "DET",
     "position_type": "G",
     "eligible": [
      "G"
@@ -911,9 +921,9 @@
     "injury_note": null
    },
    {
-    "name": "Daniil Tarasov",
-    "player_key": "477.p.7601",
-    "nhl_team": "DET",
+    "name": "Akira Schmid",
+    "player_key": "477.p.8033",
+    "nhl_team": "FLA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -944,9 +954,9 @@
     "injury_note": null
    },
    {
-    "name": "Akira Schmid",
-    "player_key": "477.p.8033",
-    "nhl_team": "FLA",
+    "name": "Alex Nedeljkovic",
+    "player_key": "477.p.6406",
+    "nhl_team": "SJ",
     "position_type": "G",
     "eligible": [
      "G"
@@ -958,17 +968,6 @@
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "John Gibson",
-    "player_key": "477.p.5407",
-    "nhl_team": "DET",
     "position_type": "G",
     "eligible": [
      "G"
