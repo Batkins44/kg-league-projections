@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-16T05:00:21+00:00",
- "fetched_at_central": "2026-11-15T23:00-06:00",
+ "fetched_at_utc": "2026-11-16T05:30:32+00:00",
+ "fetched_at_central": "2026-11-15T23:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -783,10 +783,11 @@
     "eligible": [
      "LW",
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Undisclosed"
    },
    {
     "name": "Josh Anderson",
