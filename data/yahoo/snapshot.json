@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-17T06:30:19+00:00",
- "fetched_at_central": "2026-11-17T00:30-06:00",
+ "fetched_at_utc": "2026-11-17T07:00:20+00:00",
+ "fetched_at_central": "2026-11-17T01:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,12 +16,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "15.30",
-   "projected": "261.71"
+   "projected": "262.45"
   },
   "opponent": {
    "name": "Superman Aho",
    "points": "0.00",
-   "projected": "155.36"
+   "projected": "155.68"
   }
  },
  "lineup": {
@@ -513,12 +513,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "196.69"
+   "projected": "196.20"
   },
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "0.00",
-   "projected": "216.26"
+   "projected": "215.19"
   }
  },
  "free_agents": {
