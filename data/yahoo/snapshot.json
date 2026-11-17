@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-17T19:30:18+00:00",
- "fetched_at_central": "2026-11-17T13:30-06:00",
+ "fetched_at_utc": "2026-11-17T20:00:22+00:00",
+ "fetched_at_central": "2026-11-17T14:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "0.00",
-   "projected": "151.49"
+   "projected": "150.30"
   }
  },
  "lineup": {
@@ -748,8 +748,8 @@
      "Util",
      "IR+"
     ],
-    "status": "DTD",
-    "injury_note": "Arm"
+    "status": "O",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Gabriel Landeskog",
