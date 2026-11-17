@@ -2,7 +2,7 @@ player,team,gp,starts,w,sv,ga,so,sv_pct,fp,fp_pg
 Adin Hill,VGK,10,10,7,246,25,0,0.908,69.80,6.98
 Akira Schmid,FLA,11,10,6,247,32,0,0.885,60.10,5.46
 Alex Lyon,BUF,2,2,0,50,5,0,0.909,10.00,5.00
-Alex Nedeljkovic,SJS,8,8,4,229,25,0,0.902,55.70,6.96
+Alex Nedeljkovic,SJS,8,8,4,230,25,0,0.902,56.00,7.00
 Andrei Vasilevskiy,TBL,15,15,9,327,41,0,0.889,84.10,5.61
 Anthony Stolarz,TOR,9,9,5,230,24,0,0.906,60.00,6.67
 Anton Forsberg,LAK,8,7,0,177,18,0,0.908,35.10,4.39
@@ -29,7 +29,7 @@ Dustin Wolf,CGY,11,10,4,267,38,0,0.875,54.10,4.92
 Dylan Garand,NYR,15,13,7,324,32,1,0.910,89.20,5.95
 Igor Shesterkin,NYR,5,5,3,101,8,0,0.927,31.30,6.26
 Ilya Sorokin,NYI,13,13,7,357,33,1,0.915,98.10,7.55
-Jacob Fowler,MTL,12,12,9,325,26,2,0.926,104.50,8.71
+Jacob Fowler,MTL,13,13,9,348,29,2,0.923,108.40,8.34
 Jacob Markstrom,FLA,11,11,6,241,25,1,0.906,68.30,6.21
 Jake Allen,NJD,10,10,6,236,32,0,0.881,56.80,5.68
 Jake Oettinger,DAL,15,15,10,294,32,4,0.902,98.20,6.55
@@ -42,12 +42,12 @@ Joel Hofer,STL,15,15,8,398,34,2,0.921,115.40,7.69
 Joey Daccord,SEA,10,9,4,218,32,0,0.872,45.40,4.54
 John Gibson,DET,13,13,4,256,41,0,0.862,47.80,3.68
 Jonas Johansson,OTT,4,4,1,89,16,0,0.848,13.70,3.42
-Joonas Korpisalo,NYR,2,2,2,54,4,0,0.931,18.20,9.10
+Joonas Korpisalo,NYR,3,3,3,78,5,0,0.940,27.40,9.13
 Jordan Binnington,STL,5,5,1,120,21,0,0.851,18.00,3.60
 Joseph Woll,PHI,11,11,3,295,32,0,0.902,65.50,5.95
 Justus Annunen,NSH,5,5,4,124,16,0,0.886,33.20,6.64
-Juuse Saros,NSH,15,15,7,419,38,1,0.917,111.70,7.45
-Karel Vejmelka,UTA,15,14,6,300,45,2,0.872,69.00,4.60
+Juuse Saros,NSH,15,15,7,421,38,1,0.917,112.30,7.49
+Karel Vejmelka,UTA,16,15,6,321,48,2,0.872,72.30,4.52
 Kevin Lankinen,VAN,9,8,1,177,43,0,0.808,13.10,1.46
 Laurent Brossoit,ANA,5,5,4,111,17,0,0.867,28.30,5.66
 Leevi Merilainen,VAN,16,14,3,402,51,0,0.887,78.60,4.91
@@ -60,6 +60,7 @@ Matt Tomkins,EDM,2,2,1,44,6,0,0.880,10.20,5.10
 Michael DiPietro,BOS,6,5,4,148,12,1,0.925,47.40,7.90
 Michal Postava,DET,2,1,1,31,4,0,0.886,8.30,4.15
 Nico Daws,WPG,8,6,4,148,18,0,0.892,38.40,4.80
+Nikita Tolopilo,VAN,1,1,1,35,2,0,0.946,11.50,11.50
 Philipp Grubauer,SEA,12,9,5,266,32,0,0.893,62.80,5.23
 Pyotr Kochetkov,CAR,13,13,12,242,21,2,0.920,93.60,7.20
 Samuel Ersson,OTT,10,7,3,192,25,0,0.885,41.60,4.16
