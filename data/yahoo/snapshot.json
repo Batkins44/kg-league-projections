@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-17T23:00:20+00:00",
- "fetched_at_central": "2026-11-17T17:00-06:00",
+ "fetched_at_utc": "2026-11-17T23:30:17+00:00",
+ "fetched_at_central": "2026-11-17T17:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "15.30",
-   "projected": "250.17"
+   "projected": "233.24"
   },
   "opponent": {
    "name": "Superman Aho",
@@ -77,20 +77,6 @@
      "Util"
     ],
     "slot": "LW",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "RW",
     "status": null,
     "injury_note": null
    },
@@ -227,6 +213,21 @@
     "slot": "BN",
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "slot": "IR+",
+    "status": "O",
+    "injury_note": "Undisclosed"
    },
    {
     "name": "Karel Vejmelka",
@@ -322,20 +323,6 @@
     "injury_note": null
    },
    {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "RW",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Nikita Kucherov",
     "player_key": "477.p.5425",
     "nhl_team": "TB",
@@ -470,6 +457,21 @@
     "injury_note": null
    },
    {
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "slot": "IR+",
+    "status": "O",
+    "injury_note": "Undisclosed"
+   },
+   {
     "name": "Karel Vejmelka",
     "player_key": "477.p.6887",
     "nhl_team": "UTA",
@@ -515,7 +517,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "193.43"
+   "projected": "179.20"
   },
   "opponent": {
    "name": "Dude where’s Makar",
