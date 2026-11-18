@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-18T03:30:18+00:00",
- "fetched_at_central": "2026-11-17T21:30-06:00",
+ "fetched_at_utc": "2026-11-18T04:00:17+00:00",
+ "fetched_at_central": "2026-11-17T22:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,13 +15,13 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "70.30",
-   "projected": "227.69"
+   "points": "70.60",
+   "projected": "226.00"
   },
   "opponent": {
    "name": "Superman Aho",
-   "points": "24.00",
-   "projected": "150.27"
+   "points": "26.25",
+   "projected": "147.22"
   }
  },
  "lineup": {
@@ -34,11 +34,12 @@
     "eligible": [
      "C",
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
     "slot": "C",
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Wrist"
    },
    {
     "name": "Bo Horvat",
@@ -277,11 +278,12 @@
     "eligible": [
      "C",
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
     "slot": "C",
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Wrist"
    },
    {
     "name": "Joel Eriksson Ek",
@@ -519,12 +521,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "179.18"
+   "projected": "179.69"
   },
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "0.00",
-   "projected": "218.34"
+   "projected": "220.42"
   }
  },
  "free_agents": {
