@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-18T07:30:17+00:00",
- "fetched_at_central": "2026-11-18T01:30-06:00",
+ "fetched_at_utc": "2026-11-18T08:00:20+00:00",
+ "fetched_at_central": "2026-11-18T02:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "37.10",
-   "projected": "149.40"
+   "projected": "149.45"
   }
  },
  "lineup": {
@@ -532,19 +532,6 @@
  "free_agents": {
   "skaters": [
    {
-    "name": "Cole Perfetti",
-    "player_key": "477.p.8650",
-    "nhl_team": "WPG",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Shane Pinto",
     "player_key": "477.p.8310",
     "nhl_team": "OTT",
@@ -842,6 +829,19 @@
     "position_type": "P",
     "eligible": [
      "D",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Dawson Mercer",
+    "player_key": "477.p.8658",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
      "Util"
     ],
     "status": null,
