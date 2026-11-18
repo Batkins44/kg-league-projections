@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-18T00:00:21+00:00",
- "fetched_at_central": "2026-11-17T18:00-06:00",
+ "fetched_at_utc": "2026-11-18T00:30:18+00:00",
+ "fetched_at_central": "2026-11-17T18:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "15.30",
+   "points": "18.30",
    "projected": "233.24"
   },
   "opponent": {
    "name": "Superman Aho",
-   "points": "0.00",
+   "points": "2.60",
    "projected": "150.50"
   }
  },
@@ -227,7 +227,7 @@
     ],
     "slot": "IR+",
     "status": "O",
-    "injury_note": "Undisclosed"
+    "injury_note": "Lower Body"
    },
    {
     "name": "Karel Vejmelka",
@@ -469,7 +469,7 @@
     ],
     "slot": "IR+",
     "status": "O",
-    "injury_note": "Undisclosed"
+    "injury_note": "Lower Body"
    },
    {
     "name": "Karel Vejmelka",
