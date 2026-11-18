@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-18T16:30:18+00:00",
- "fetched_at_central": "2026-11-18T10:30-06:00",
+ "fetched_at_utc": "2026-11-18T17:00:21+00:00",
+ "fetched_at_central": "2026-11-18T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "78.60",
-   "projected": "247.35"
+   "projected": "226.92"
   },
   "opponent": {
    "name": "Superman Aho",
@@ -26,21 +26,6 @@
  },
  "lineup": {
   "2026-11-18": [
-   {
-    "name": "Connor Bedard",
-    "player_key": "477.p.30544",
-    "nhl_team": "CHI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
-     "Util",
-     "IR+"
-    ],
-    "slot": "C",
-    "status": "DTD",
-    "injury_note": "Wrist"
-   },
    {
     "name": "Joel Eriksson Ek",
     "player_key": "477.p.6762",
@@ -215,6 +200,21 @@
     "slot": "BN",
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "slot": "IR+",
+    "status": "DTD",
+    "injury_note": "Shoulder"
    },
    {
     "name": "Brandon Hagel",
@@ -263,7 +263,7 @@
     "eligible": [
      "G"
     ],
-    "slot": "IR+",
+    "slot": "BN",
     "status": null,
     "injury_note": null
    }
@@ -281,21 +281,6 @@
     "slot": "C",
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Connor Bedard",
-    "player_key": "477.p.30544",
-    "nhl_team": "CHI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
-     "Util",
-     "IR+"
-    ],
-    "slot": "C",
-    "status": "DTD",
-    "injury_note": "Wrist"
    },
    {
     "name": "Kyle Connor",
@@ -473,6 +458,21 @@
     "slot": "IR+",
     "status": "DTD",
     "injury_note": "Lower Body"
+   },
+   {
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "slot": "IR+",
+    "status": "DTD",
+    "injury_note": "Shoulder"
    },
    {
     "name": "Dustin Wolf",
@@ -519,7 +519,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "185.99"
+   "projected": "172.38"
   },
   "opponent": {
    "name": "Dude where’s Makar",
