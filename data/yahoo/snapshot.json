@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-18T14:30:21+00:00",
- "fetched_at_central": "2026-11-18T08:30-06:00",
+ "fetched_at_utc": "2026-11-18T15:00:22+00:00",
+ "fetched_at_central": "2026-11-18T09:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "37.10",
-   "projected": "155.42"
+   "projected": "156.73"
   }
  },
  "lineup": {
@@ -172,7 +172,7 @@
      "IR+"
     ],
     "slot": "BN",
-    "status": "O",
+    "status": "DTD",
     "injury_note": "Illness"
    },
    {
@@ -228,7 +228,7 @@
      "IR+"
     ],
     "slot": "IR+",
-    "status": "O",
+    "status": "DTD",
     "injury_note": "Lower Body"
    },
    {
@@ -457,7 +457,7 @@
      "IR+"
     ],
     "slot": "BN",
-    "status": "O",
+    "status": "DTD",
     "injury_note": "Illness"
    },
    {
@@ -472,7 +472,7 @@
      "IR+"
     ],
     "slot": "IR+",
-    "status": "O",
+    "status": "DTD",
     "injury_note": "Lower Body"
    },
    {
@@ -809,18 +809,6 @@
     "injury_note": "Upper Body"
    },
    {
-    "name": "Kasperi Kapanen",
-    "player_key": "477.p.6388",
-    "nhl_team": "EDM",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Mason Marchment",
     "player_key": "477.p.7066",
     "nhl_team": "SJ",
@@ -839,6 +827,18 @@
     "position_type": "P",
     "eligible": [
      "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Maxim Shabanov",
+    "player_key": "477.p.33674",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "RW",
      "Util"
     ],
     "status": null,
