@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-19T05:30:15+00:00",
- "fetched_at_central": "2026-11-18T23:30-06:00",
+ "fetched_at_utc": "2026-11-19T06:00:20+00:00",
+ "fetched_at_central": "2026-11-19T00:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -20,16 +20,16 @@
   },
   "opponent": {
    "name": "Superman Aho",
-   "points": "54.85",
+   "points": "56.35",
    "projected": "156.50"
   }
  },
  "lineup": {
-  "2026-11-18": [
+  "2026-11-19": [
    {
-    "name": "Joel Eriksson Ek",
-    "player_key": "477.p.6762",
-    "nhl_team": "MIN",
+    "name": "Bo Horvat",
+    "player_key": "477.p.5988",
+    "nhl_team": "NYI",
     "position_type": "P",
     "eligible": [
      "C",
@@ -53,9 +53,9 @@
     "injury_note": null
    },
    {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -72,6 +72,20 @@
     "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
+     "RW",
+     "Util"
+    ],
+    "slot": "RW",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
+    "position_type": "P",
+    "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -132,6 +146,19 @@
     "injury_note": null
    },
    {
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "Util",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Joel Farabee",
     "player_key": "477.p.7912",
     "nhl_team": "CGY",
@@ -141,7 +168,21 @@
      "RW",
      "Util"
     ],
-    "slot": "Util",
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
     "status": null,
     "injury_note": null
    },
@@ -161,62 +202,6 @@
     "injury_note": "Illness"
    },
    {
-    "name": "Bo Horvat",
-    "player_key": "477.p.5988",
-    "nhl_team": "NYI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Connor Bedard",
-    "player_key": "477.p.30544",
-    "nhl_team": "CHI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
-     "Util",
-     "IR+"
-    ],
-    "slot": "IR+",
-    "status": "DTD",
-    "injury_note": "Shoulder"
-   },
-   {
     "name": "Brandon Hagel",
     "player_key": "477.p.7264",
     "nhl_team": "TB",
@@ -232,16 +217,19 @@
     "injury_note": "Lower Body"
    },
    {
-    "name": "Karel Vejmelka",
-    "player_key": "477.p.6887",
-    "nhl_team": "UTA",
-    "position_type": "G",
+    "name": "Connor Bedard",
+    "player_key": "477.p.30544",
+    "nhl_team": "CHI",
+    "position_type": "P",
     "eligible": [
-     "G"
+     "C",
+     "RW",
+     "Util",
+     "IR+"
     ],
-    "slot": "G",
-    "status": null,
-    "injury_note": null
+    "slot": "IR+",
+    "status": "DTD",
+    "injury_note": "Shoulder"
    },
    {
     "name": "Dustin Wolf",
@@ -263,12 +251,24 @@
     "eligible": [
      "G"
     ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
     "slot": "BN",
     "status": null,
     "injury_note": null
    }
   ],
-  "2026-11-19": [
+  "2026-11-20": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -993,6 +993,10 @@
     "goalies": [
      "Dustin Wolf"
     ]
+   },
+   {
+    "date": "2026-11-18",
+    "goalies": []
    }
   ],
   "stats_missing": [],
