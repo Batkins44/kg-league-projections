@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-19T15:30:18+00:00",
- "fetched_at_central": "2026-11-19T09:30-06:00",
+ "fetched_at_utc": "2026-11-19T16:00:35+00:00",
+ "fetched_at_central": "2026-11-19T10:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -210,10 +210,11 @@
      "LW",
      "RW",
      "Util",
+     "IR",
      "IR+"
     ],
     "slot": "BN",
-    "status": "DTD",
+    "status": "IR",
     "injury_note": "Lower Body"
    },
    {
@@ -468,10 +469,11 @@
      "LW",
      "RW",
      "Util",
+     "IR",
      "IR+"
     ],
     "slot": "BN",
-    "status": "DTD",
+    "status": "IR",
     "injury_note": "Lower Body"
    },
    {
