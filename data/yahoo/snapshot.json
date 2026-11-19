@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-19T18:30:19+00:00",
- "fetched_at_central": "2026-11-19T12:30-06:00",
+ "fetched_at_utc": "2026-11-19T19:00:21+00:00",
+ "fetched_at_central": "2026-11-19T13:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,12 +16,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "89.35",
-   "projected": "216.55"
+   "projected": "225.20"
   },
   "opponent": {
    "name": "Superman Aho",
    "points": "56.35",
-   "projected": "180.71"
+   "projected": "179.27"
   }
  },
  "lineup": {
@@ -30,6 +30,19 @@
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
     "nhl_team": "NYI",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "C",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
     "position_type": "P",
     "eligible": [
      "C",
@@ -146,19 +159,6 @@
     "injury_note": null
    },
    {
-    "name": "Joel Eriksson Ek",
-    "player_key": "477.p.6762",
-    "nhl_team": "MIN",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "slot": "Util",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joel Farabee",
     "player_key": "477.p.7912",
     "nhl_team": "CGY",
@@ -168,7 +168,7 @@
      "RW",
      "Util"
     ],
-    "slot": "BN",
+    "slot": "Util",
     "status": null,
     "injury_note": null
    },
@@ -299,6 +299,19 @@
     "injury_note": null
    },
    {
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "slot": "C",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Kyle Connor",
     "player_key": "477.p.6759",
     "nhl_team": "WPG",
@@ -405,19 +418,6 @@
     "injury_note": null
    },
    {
-    "name": "Joel Eriksson Ek",
-    "player_key": "477.p.6762",
-    "nhl_team": "MIN",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "slot": "Util",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Joel Farabee",
     "player_key": "477.p.7912",
     "nhl_team": "CGY",
@@ -427,7 +427,7 @@
      "RW",
      "Util"
     ],
-    "slot": "BN",
+    "slot": "Util",
     "status": null,
     "injury_note": null
    },
@@ -551,7 +551,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "205.43"
+   "projected": "220.24"
   },
   "opponent": {
    "name": "Dude where’s Makar",
