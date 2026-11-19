@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-19T19:00:21+00:00",
- "fetched_at_central": "2026-11-19T13:00-06:00",
+ "fetched_at_utc": "2026-11-19T19:30:20+00:00",
+ "fetched_at_central": "2026-11-19T13:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -194,12 +194,11 @@
     "eligible": [
      "LW",
      "RW",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "DTD",
-    "injury_note": "Illness"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Brandon Hagel",
@@ -453,12 +452,11 @@
     "eligible": [
      "LW",
      "RW",
-     "Util",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "DTD",
-    "injury_note": "Illness"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Brandon Hagel",
