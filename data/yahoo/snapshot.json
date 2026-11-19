@@ -1,11 +1,11 @@
 {
- "fetched_at_utc": "2026-11-19T09:00:20+00:00",
- "fetched_at_central": "2026-11-19T03:00-06:00",
+ "fetched_at_utc": "2026-11-19T09:30:21+00:00",
+ "fetched_at_central": "2026-11-19T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "0",
+  "adds_this_week": "1",
   "adds_max": 5
  },
  "week": 8,
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "89.35",
-   "projected": "222.00"
+   "projected": "216.55"
   },
   "opponent": {
    "name": "Superman Aho",
@@ -212,9 +212,24 @@
      "Util",
      "IR+"
     ],
-    "slot": "IR+",
+    "slot": "BN",
     "status": "DTD",
     "injury_note": "Lower Body"
+   },
+   {
+    "name": "Ivan Demidov",
+    "player_key": "477.p.32790",
+    "nhl_team": "MTL",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util",
+     "IR",
+     "IR+"
+    ],
+    "slot": "IR+",
+    "status": "IR",
+    "injury_note": "Ankle"
    },
    {
     "name": "Connor Bedard",
@@ -455,9 +470,24 @@
      "Util",
      "IR+"
     ],
-    "slot": "IR+",
+    "slot": "BN",
     "status": "DTD",
     "injury_note": "Lower Body"
+   },
+   {
+    "name": "Ivan Demidov",
+    "player_key": "477.p.32790",
+    "nhl_team": "MTL",
+    "position_type": "P",
+    "eligible": [
+     "RW",
+     "Util",
+     "IR",
+     "IR+"
+    ],
+    "slot": "IR+",
+    "status": "IR",
+    "injury_note": "Ankle"
    },
    {
     "name": "Connor Bedard",
@@ -519,7 +549,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "174.05"
+   "projected": "205.43"
   },
   "opponent": {
    "name": "Dude where’s Makar",
@@ -618,6 +648,18 @@
     "injury_note": null
    },
    {
+    "name": "Elias Lindholm",
+    "player_key": "477.p.5984",
+    "nhl_team": "BOS",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Zach Benson",
     "player_key": "477.p.30549",
     "nhl_team": "BUF",
@@ -655,18 +697,6 @@
     "injury_note": null
    },
    {
-    "name": "Elias Lindholm",
-    "player_key": "477.p.5984",
-    "nhl_team": "BOS",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Martin Pospisil",
     "player_key": "477.p.8002",
     "nhl_team": "CGY",
@@ -692,9 +722,9 @@
     "injury_note": null
    },
    {
-    "name": "Simon Holmstrom",
-    "player_key": "477.p.8301",
-    "nhl_team": "NYI",
+    "name": "Michael Brandsegg-Nygård",
+    "player_key": "477.p.32791",
+    "nhl_team": "DET",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -705,9 +735,9 @@
     "injury_note": null
    },
    {
-    "name": "Michael Brandsegg-Nygård",
-    "player_key": "477.p.32791",
-    "nhl_team": "DET",
+    "name": "Simon Holmstrom",
+    "player_key": "477.p.8301",
+    "nhl_team": "NYI",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -736,6 +766,19 @@
     "position_type": "P",
     "eligible": [
      "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "JJ Peterka",
+    "player_key": "477.p.8674",
+    "nhl_team": "BOS",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
      "Util"
     ],
     "status": null,
@@ -829,18 +872,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Maxim Shabanov",
-    "player_key": "477.p.33674",
-    "nhl_team": "MIN",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
    }
   ],
   "goalies": [
@@ -889,6 +920,28 @@
     "injury_note": null
    },
    {
+    "name": "Devin Cooley",
+    "player_key": "477.p.8794",
+    "nhl_team": "CGY",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Daniil Tarasov",
+    "player_key": "477.p.7601",
+    "nhl_team": "DET",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Cam Talbot",
     "player_key": "477.p.4854",
     "nhl_team": "CBJ",
@@ -922,17 +975,6 @@
     "injury_note": null
    },
    {
-    "name": "Daniil Tarasov",
-    "player_key": "477.p.7601",
-    "nhl_team": "DET",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Akira Schmid",
     "player_key": "477.p.8033",
     "nhl_team": "FLA",
@@ -958,17 +1000,6 @@
     "name": "Alex Nedeljkovic",
     "player_key": "477.p.6406",
     "nhl_team": "SJ",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
     "position_type": "G",
     "eligible": [
      "G"
