@@ -1,42 +1,42 @@
 # Projections summary
 
-Built Fri Nov 20, 2026 12:26 PM Central (data fetched 2026-11-20T18:26:19+00:00 UTC). Team games played: 19 to 25 of 84. Goalie GA scored at -1.
+Built Sat Nov 21, 2026 11:14 AM Central (data fetched 2026-11-21T17:14:13+00:00 UTC). Team games played: 19 to 25 of 84. Goalie GA scored at -1.
 Players: 869 (515 without a preseason projection). Prior matches: {'exact': 345, 'unmatched': 8, 'alias': 1}.
 
 ## Top 30 skaters, blended points per game
 
 | Player | Team | Pos | GP | FP/G | Pre | Actual | L14 | Rest | Rk10 |
 |---|---|---|---|---|---|---|---|---|---|
-| Connor McDavid | EDM | C | 24 | 8.43 | 7.60 | 9.72 | 6.79 | 452 | 1 |
-| Leon Draisaitl | EDM | C,LW | 24 | 7.66 | 6.58 | 9.16 | 9.43 | 400 | 3 |
-| Nathan MacKinnon | COL | C | 20 | 7.52 | 7.81 | 7.29 | 5.00 | 396 | 5 |
-| Macklin Celebrini | SJS | C | 22 | 7.13 | 7.10 | 7.00 | 7.33 | 371 | 11 |
-| Kirill Kaprizov | MIN | LW | 24 | 7.01 | 6.27 | 8.31 | 8.50 | 376 | 9 |
-| Nikita Kucherov | TBL | RW | 22 | 6.84 | 7.01 | 6.59 | 7.64 | 382 | 6 |
+| Connor McDavid | EDM | C | 24 | 8.43 | 7.60 | 9.72 | 6.17 | 452 | 1 |
+| Leon Draisaitl | EDM | C,LW | 24 | 7.66 | 6.58 | 9.16 | 8.42 | 400 | 3 |
+| Nathan MacKinnon | COL | C | 20 | 7.52 | 7.81 | 7.29 | 1.25 | 396 | 5 |
+| Macklin Celebrini | SJS | C | 22 | 7.13 | 7.10 | 7.00 | 6.40 | 371 | 11 |
+| Kirill Kaprizov | MIN | LW | 24 | 7.01 | 6.27 | 8.31 | 9.10 | 376 | 9 |
+| Nikita Kucherov | TBL | RW | 22 | 6.84 | 7.01 | 6.59 | 6.92 | 382 | 6 |
 | David Pastrnak | BOS | RW | 22 | 6.74 | 6.60 | 6.85 | 6.40 | 380 | 7 |
-| Auston Matthews | TOR | C | 24 | 6.66 | 6.48 | 7.16 | 4.86 | 348 | 17 |
+| Auston Matthews | TOR | C | 24 | 6.66 | 6.48 | 7.16 | 4.92 | 348 | 17 |
 | Kyle Connor | WPG | LW | 23 | 6.65 | 6.05 | 7.34 | 8.17 | 372 | 10 |
-| Jack Hughes | NJD | C,LW | 22 | 6.64 | 6.70 | 6.53 | 5.17 | 348 | 16 |
-| Brady Tkachuk | FLA | C,LW | 23 | 6.57 | 6.38 | 6.76 | 5.86 | 345 | 18 |
-| Matt Boldy | MIN | LW,RW | 24 | 6.46 | 6.16 | 6.76 | 8.00 | 352 | 14 |
+| Jack Hughes | NJD | C,LW | 22 | 6.64 | 6.70 | 6.53 | 4.20 | 348 | 16 |
+| Brady Tkachuk | FLA | C,LW | 23 | 6.57 | 6.38 | 6.76 | 4.75 | 345 | 18 |
+| Matt Boldy | MIN | LW,RW | 24 | 6.46 | 6.16 | 6.76 | 9.40 | 352 | 14 |
 | Cutter Gauthier | ANA | C,LW,RW | 22 | 6.30 | 5.18 | 7.99 | 10.42 | 343 | 23 |
-| Brandon Hagel | TBL | LW,RW | 20 | 6.27 | 5.73 | 7.01 | 7.50 | 337 | 24 |
+| Brandon Hagel | TBL | LW,RW | 20 | 6.27 | 5.73 | 7.01 | 9.38 | 337 | 24 |
 | Jack Eichel | VGK | C | 24 | 6.17 | 6.45 | 6.00 | 5.17 | 332 | 26 |
-| Evan Bouchard | EDM | D | 24 | 6.15 | 5.53 | 7.28 | 4.50 | 339 | 4 |
+| Evan Bouchard | EDM | D | 24 | 6.15 | 5.53 | 7.28 | 4.67 | 339 | 4 |
 | Tage Thompson | BUF | C,RW | 22 | 6.13 | 5.76 | 6.66 | 5.25 | 344 | 22 |
-| Jason Robertson | DAL | LW,RW | 22 | 6.06 | 5.93 | 6.25 | 6.17 | 345 | 21 |
+| Jason Robertson | DAL | LW,RW | 22 | 6.06 | 5.93 | 6.25 | 6.20 | 345 | 21 |
 | Zach Werenski | CBJ | D | 20 | 5.98 | 6.01 | 5.74 | 5.00 | 345 | 2 |
-| Nick Suzuki | MTL | C | 17 | 5.93 | 5.64 | 6.35 | 3.93 | 290 | 59 |
-| Tim Stützle | OTT | C,LW | 23 | 5.86 | 5.35 | 6.52 | 4.75 | 327 | 28 |
-| Connor Bedard | CHI | C,RW | 15 | 5.85 | 5.70 | 6.20 | 6.62 | 242 | 127 |
-| Matthew Tkachuk | FLA | LW,RW | 23 | 5.83 | 5.54 | 6.30 | 6.21 | 309 | 41 |
-| Quinn Hughes | MIN | D | 24 | 5.80 | 5.41 | 6.52 | 6.08 | 306 | 12 |
-| Sebastian Aho | CAR | C | 22 | 5.77 | 5.21 | 6.72 | 6.38 | 325 | 34 |
-| Cale Makar | COL | D | 19 | 5.68 | 5.73 | 5.92 | 6.33 | 290 | 15 |
-| Jake Guentzel | TBL | LW,RW | 22 | 5.65 | 5.28 | 6.28 | 7.64 | 320 | 35 |
-| Martin Necas | COL | RW | 23 | 5.58 | 5.74 | 5.49 | 5.33 | 309 | 43 |
-| Clayton Keller | UTA | LW,RW | 23 | 5.56 | 5.37 | 5.75 | 5.25 | 311 | 40 |
-| Sam Reinhart | FLA | RW | 23 | 5.49 | 5.30 | 5.72 | 4.64 | 295 | 55 |
+| Nick Suzuki | MTL | C | 17 | 5.93 | 5.64 | 6.35 | 4.50 | 290 | 59 |
+| Tim Stützle | OTT | C,LW | 23 | 5.86 | 5.35 | 6.52 | 4.80 | 327 | 28 |
+| Connor Bedard | CHI | C,RW | 15 | 5.85 | 5.70 | 6.20 | 6.17 | 242 | 127 |
+| Matthew Tkachuk | FLA | LW,RW | 23 | 5.83 | 5.54 | 6.30 | 5.50 | 309 | 41 |
+| Quinn Hughes | MIN | D | 24 | 5.80 | 5.41 | 6.52 | 6.60 | 306 | 12 |
+| Sebastian Aho | CAR | C | 22 | 5.77 | 5.21 | 6.72 | 4.83 | 325 | 34 |
+| Cale Makar | COL | D | 19 | 5.68 | 5.73 | 5.92 | 3.75 | 290 | 15 |
+| Jake Guentzel | TBL | LW,RW | 22 | 5.65 | 5.28 | 6.28 | 6.33 | 320 | 35 |
+| Martin Necas | COL | RW | 23 | 5.58 | 5.74 | 5.49 | 3.20 | 309 | 43 |
+| Clayton Keller | UTA | LW,RW | 23 | 5.56 | 5.37 | 5.75 | 4.20 | 311 | 40 |
+| Sam Reinhart | FLA | RW | 23 | 5.49 | 5.30 | 5.72 | 4.75 | 295 | 55 |
 
 ## Top 12 goalies by rest-of-season value (workload counts; FP/G is per appearance)
 
@@ -90,7 +90,7 @@ Players: 869 (515 without a preseason projection). Prior matches: {'exact': 345,
 | Logan Thompson | WSH | G | 15 | 5.76 | 6.69 | -0.93 | 46 |
 | Ukko-Pekka Luukkonen | BUF | G | 13 | 5.72 | 6.61 | -0.88 | 166 |
 | Joey Daccord | SEA | G | 10 | 5.41 | 6.28 | -0.87 | 153 |
-| Dustin Wolf | CGY | G | 13 | 5.61 | 6.41 | -0.80 | 128 |
+| Dustin Wolf | CGY | G | 13 | 5.59 | 6.41 | -0.81 | 130 |
 | Jakub Dobes | MTL | G | 9 | 5.80 | 6.58 | -0.78 | 173 |
 | Nico Daws | WPG | G | 9 | 5.64 | 6.34 | -0.71 | 388 |
 | Jake Walman | EDM | D | 11 | 3.03 | 3.69 | -0.65 | 397 |
@@ -99,25 +99,25 @@ Players: 869 (515 without a preseason projection). Prior matches: {'exact': 345,
 
 | Player | Team | Pos | GP | FP/G | Pre | Actual | L14 | Rest | Rk10 |
 |---|---|---|---|---|---|---|---|---|---|
-| Jacob Fowler | MTL | G | 14 | 7.55 | 6.24 | 8.37 | 7.22 | 215 | 79 |
-| Devon Levi | EDM | G | 12 | 6.64 | 6.24 | 7.25 | 7.88 | 161 | 192 |
+| Jacob Fowler | MTL | G | 14 | 7.55 | 6.24 | 8.37 | 6.82 | 215 | 79 |
+| Devon Levi | EDM | G | 12 | 6.64 | 6.24 | 7.25 | 8.02 | 161 | 192 |
 | Cam Talbot | CBJ | G | 11 | 6.40 | 6.24 | 6.52 | 6.40 | 161 | 193 |
 | Dylan Garand | NYR | G | 15 | 5.92 | 6.24 | 5.95 | 6.60 | 166 | 176 |
 | Laurent Brossoit | ANA | G | 5 | 5.80 | 6.24 | 5.66 | 5.85 | 82 | 559 |
-| Leevi Merilainen | VAN | G | 17 | 5.60 | 6.24 | 5.06 | 5.42 | 161 | 190 |
+| Leevi Merilainen | VAN | G | 17 | 5.61 | 6.24 | 5.08 | 5.65 | 162 | 187 |
 | Sebastian Cossa | UTA | G | 9 | 5.32 | 6.24 | 4.92 | 6.45 | 100 | 455 |
 | Clay Stevenson | WPG | G | 5 | 5.24 | 6.24 | 3.82 |  | 65 | 647 |
 | Colten Ellis | BUF | G | 8 | 5.12 | 6.24 | 4.55 | 0.55 | 92 | 493 |
 | Charlie Lindgren | WSH | G | 7 | 5.08 | 6.24 | 4.19 | 1.55 | 81 | 560 |
-| Arvid Soderblom | CHI | G | 5 | 4.83 | 6.24 | 2.52 | 0.90 | 63 | 656 |
-| Ville Husso | ANA | G | 8 | 4.66 | 6.24 | 3.59 | 3.05 | 73 | 611 |
-| Samuel Ersson | OTT | G | 11 | 4.52 | 6.24 | 3.59 | 3.13 | 85 | 537 |
+| Arvid Soderblom | CHI | G | 5 | 4.83 | 6.24 | 2.52 |  | 63 | 656 |
+| Ville Husso | ANA | G | 8 | 4.66 | 6.24 | 3.59 | 3.05 | 73 | 612 |
+| Samuel Ersson | OTT | G | 11 | 4.52 | 6.24 | 3.59 | -0.45 | 85 | 537 |
 | Cole Perfetti | WPG | C | 23 | 4.40 | 3.17 | 5.16 | 5.92 | 231 | 158 |
 | Kent Johnson | CBJ | C | 20 | 4.32 | 3.17 | 5.34 | 4.50 | 235 | 150 |
 | Joel Farabee | CGY | LW | 23 | 4.30 | 3.17 | 4.97 | 3.25 | 226 | 168 |
 | Victor Olofsson | VGK | LW | 11 | 4.05 | 3.17 | 5.70 | 5.25 | 138 | 550 |
 | Kailer Yamamoto | UTA | RW | 14 | 3.96 | 3.17 | 4.70 | 3.90 | 157 | 445 |
-| Arseny Gritsyuk | NJD | RW | 22 | 3.95 | 3.17 | 4.50 | 3.50 | 210 | 214 |
+| Arseny Gritsyuk | NJD | RW | 22 | 3.95 | 3.17 | 4.50 | 3.00 | 210 | 214 |
 | Martin Pospisil | CGY | C | 23 | 3.84 | 3.17 | 3.95 | 3.42 | 201 | 261 |
 
 ## Top-200 players missing games
@@ -155,7 +155,7 @@ Players: 869 (515 without a preseason projection). Prior matches: {'exact': 345,
 | Charlie McAvoy | BOS | D | 16 | 22 | 124 | missed 6 of 22 team games |
 | Sergei Bobrovsky | TOR | G | 14 | 24 | 125 | missed 10 of 24 team games |
 | Connor Bedard | CHI | C,RW | 15 | 22 | 127 | missed 7 of 22 team games |
-| Dustin Wolf | CGY | G | 13 | 23 | 128 | missed 10 of 23 team games |
+| Dustin Wolf | CGY | G | 13 | 23 | 130 | missed 10 of 23 team games |
 | Jacob Markstrom | FLA | G | 12 | 23 | 132 | missed 11 of 23 team games |
 | John Gibson | DET | G | 13 | 22 | 136 | missed 9 of 22 team games |
 | Arturs Silovs | PIT | G | 13 | 21 | 140 | missed 8 of 21 team games |
@@ -170,7 +170,7 @@ Players: 869 (515 without a preseason projection). Prior matches: {'exact': 345,
 | Jakub Dobes | MTL | G | 9 | 23 | 173 | missed 14 of 23 team games |
 | Sergei Murashov | PIT | G | 8 | 21 | 177 | missed 13 of 21 team games |
 | Carter Hart | VGK | G | 12 | 24 | 182 | missed 12 of 24 team games |
-| Josh Morrissey | WPG | D | 9 | 23 | 186 | missed 14 of 23 team games |
+| Josh Morrissey | WPG | D | 9 | 23 | 185 | missed 14 of 23 team games |
 | Dan Vladar | PHI | G | 12 | 25 | 194 | missed 13 of 25 team games |
 | Adin Hill | VGK | G | 12 | 24 | 195 | missed 12 of 24 team games |
 
