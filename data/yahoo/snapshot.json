@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-21T22:30:17+00:00",
- "fetched_at_central": "2026-11-21T16:30-06:00",
+ "fetched_at_utc": "2026-11-21T23:00:21+00:00",
+ "fetched_at_central": "2026-11-21T17:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,7 +15,7 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "150.90",
+   "points": "151.70",
    "projected": "220.88"
   },
   "opponent": {
@@ -697,10 +697,11 @@
     "eligible": [
      "C",
      "RW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Trevor Connelly",
