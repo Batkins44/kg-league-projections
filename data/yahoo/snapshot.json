@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-21T19:30:16+00:00",
- "fetched_at_central": "2026-11-21T13:30-06:00",
+ "fetched_at_utc": "2026-11-21T19:58:19+00:00",
+ "fetched_at_central": "2026-11-21T13:58-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,12 +15,12 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "142.20",
+   "points": "143.25",
    "projected": "221.26"
   },
   "opponent": {
    "name": "Superman Aho",
-   "points": "105.25",
+   "points": "118.25",
    "projected": "190.85"
   }
  },
@@ -558,7 +558,7 @@
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "0.00",
-   "projected": "229.61"
+   "projected": "211.40"
   }
  },
  "free_agents": {
@@ -728,18 +728,6 @@
     "injury_note": null
    },
    {
-    "name": "Jamie Drysdale",
-    "player_key": "477.p.8646",
-    "nhl_team": "PHI",
-    "position_type": "P",
-    "eligible": [
-     "D",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Brayden Schenn",
     "player_key": "477.p.4685",
     "nhl_team": "NYI",
@@ -874,6 +862,18 @@
     ],
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Adam Fantilli",
+    "player_key": "477.p.30546",
+    "nhl_team": "CBJ",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
    }
   ],
   "goalies": [
@@ -914,17 +914,6 @@
     "name": "Tristan Jarry",
     "player_key": "477.p.6024",
     "nhl_team": "EDM",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Cam Talbot",
-    "player_key": "477.p.4854",
-    "nhl_team": "CBJ",
     "position_type": "G",
     "eligible": [
      "G"
@@ -1002,6 +991,17 @@
     "name": "Jake Allen",
     "player_key": "477.p.4589",
     "nhl_team": "NJ",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Alex Nedeljkovic",
+    "player_key": "477.p.6406",
+    "nhl_team": "SJ",
     "position_type": "G",
     "eligible": [
      "G"
