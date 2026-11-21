@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-21T05:30:19+00:00",
- "fetched_at_central": "2026-11-20T23:30-06:00",
+ "fetched_at_utc": "2026-11-21T06:00:19+00:00",
+ "fetched_at_central": "2026-11-21T00:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -25,7 +25,7 @@
   }
  },
  "lineup": {
-  "2026-11-20": [
+  "2026-11-21": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -283,7 +283,7 @@
     "injury_note": null
    }
   ],
-  "2026-11-21": [
+  "2026-11-22": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -1033,6 +1033,10 @@
      "Dustin Wolf",
      "Pyotr Kochetkov"
     ]
+   },
+   {
+    "date": "2026-11-20",
+    "goalies": []
    }
   ],
   "stats_missing": [],
