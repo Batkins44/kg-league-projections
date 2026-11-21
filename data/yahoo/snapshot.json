@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-21T09:00:17+00:00",
- "fetched_at_central": "2026-11-21T03:00-06:00",
+ "fetched_at_utc": "2026-11-21T09:30:15+00:00",
+ "fetched_at_central": "2026-11-21T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -810,6 +810,18 @@
     "injury_note": null
    },
    {
+    "name": "Charle-Edouard D'Astous",
+    "player_key": "477.p.8522",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Frank Nazar",
     "player_key": "477.p.30024",
     "nhl_team": "CHI",
@@ -854,18 +866,6 @@
     "eligible": [
      "C",
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Adam Fantilli",
-    "player_key": "477.p.30546",
-    "nhl_team": "CBJ",
-    "position_type": "P",
-    "eligible": [
-     "C",
      "Util"
     ],
     "status": null,
