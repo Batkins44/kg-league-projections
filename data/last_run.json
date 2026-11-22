@@ -1,8 +1,8 @@
 {
- "built_at_utc": "2026-11-21T17:14:18+00:00",
- "fetched_at_utc": "2026-11-21T17:14:13+00:00",
- "players": 869,
- "new_players": 515,
+ "built_at_utc": "2026-11-22T17:41:57+00:00",
+ "fetched_at_utc": "2026-11-22T17:41:53+00:00",
+ "players": 871,
+ "new_players": 517,
  "unmatched_prior": [
   "Rasmus Sandin",
   "Frederik Andersen",
@@ -18,7 +18,7 @@
   "unmatched": 8,
   "alias": 1
  },
- "team_gp_min": 19,
- "team_gp_max": 25,
+ "team_gp_min": 20,
+ "team_gp_max": 26,
  "goalie_ga_points": -1.0
 }
