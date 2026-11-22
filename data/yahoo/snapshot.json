@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-22T15:00:18+00:00",
- "fetched_at_central": "2026-11-22T09:00-06:00",
+ "fetched_at_utc": "2026-11-22T15:30:17+00:00",
+ "fetched_at_central": "2026-11-22T09:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Superman Aho",
    "points": "162.05",
-   "projected": "196.33"
+   "projected": "201.20"
   }
  },
  "lineup": {
@@ -242,10 +242,11 @@
      "C",
      "RW",
      "Util",
+     "IR",
      "IR+"
     ],
     "slot": "IR+",
-    "status": "O",
+    "status": "IR",
     "injury_note": "Shoulder"
    },
    {
@@ -502,10 +503,11 @@
      "C",
      "RW",
      "Util",
+     "IR",
      "IR+"
     ],
     "slot": "IR+",
-    "status": "O",
+    "status": "IR",
     "injury_note": "Shoulder"
    },
    {
