@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-22T05:30:17+00:00",
- "fetched_at_central": "2026-11-21T23:30-06:00",
+ "fetched_at_utc": "2026-11-22T06:00:20+00:00",
+ "fetched_at_central": "2026-11-22T00:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,17 +15,17 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "216.60",
+   "points": "221.10",
    "projected": "220.88"
   },
   "opponent": {
    "name": "Superman Aho",
    "points": "162.05",
-   "projected": "196.47"
+   "projected": "196.40"
   }
  },
  "lineup": {
-  "2026-11-21": [
+  "2026-11-22": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -285,7 +285,7 @@
     "injury_note": null
    }
   ],
-  "2026-11-22": [
+  "2026-11-23": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -553,12 +553,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "228.91"
+   "projected": "228.87"
   },
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "0.00",
-   "projected": "211.48"
+   "projected": "212.09"
   }
  },
  "free_agents": {
@@ -1013,7 +1013,7 @@
   ]
  },
  "goalie_appearances": {
-  "count": 4,
+  "count": 6,
   "minimum": 3,
   "by_day": [
    {
@@ -1042,6 +1042,13 @@
    {
     "date": "2026-11-20",
     "goalies": []
+   },
+   {
+    "date": "2026-11-21",
+    "goalies": [
+     "Dustin Wolf",
+     "Pyotr Kochetkov"
+    ]
    }
   ],
   "stats_missing": [],
