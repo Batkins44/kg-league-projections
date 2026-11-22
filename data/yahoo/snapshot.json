@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-22T20:11:35+00:00",
- "fetched_at_central": "2026-11-22T14:11-06:00",
+ "fetched_at_utc": "2026-11-22T20:30:16+00:00",
+ "fetched_at_central": "2026-11-22T14:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "226.10",
-   "projected": "221.30"
+   "projected": "229.82"
   },
   "opponent": {
    "name": "Superman Aho",
@@ -94,12 +94,11 @@
     "injury_note": null
    },
    {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
-     "LW",
      "RW",
      "Util"
     ],
@@ -174,6 +173,20 @@
     "injury_note": null
    },
    {
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Beckett Sennecke",
     "player_key": "477.p.32779",
     "nhl_team": "ANA",
@@ -188,19 +201,6 @@
     "slot": "BN",
     "status": "IR",
     "injury_note": "Upper Body"
-   },
-   {
-    "name": "Nikita Kucherov",
-    "player_key": "477.p.5425",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
    },
    {
     "name": "Brandon Hagel",
@@ -355,12 +355,11 @@
     "injury_note": null
    },
    {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
-     "LW",
      "RW",
      "Util"
     ],
@@ -435,6 +434,20 @@
     "injury_note": null
    },
    {
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Beckett Sennecke",
     "player_key": "477.p.32779",
     "nhl_team": "ANA",
@@ -449,19 +462,6 @@
     "slot": "BN",
     "status": "IR",
     "injury_note": "Upper Body"
-   },
-   {
-    "name": "Nikita Kucherov",
-    "player_key": "477.p.5425",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
    },
    {
     "name": "Brandon Hagel",
@@ -555,7 +555,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "230.56"
+   "projected": "231.61"
   },
   "opponent": {
    "name": "Dude where’s Makar",
