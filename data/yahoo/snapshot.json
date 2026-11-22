@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-22T09:00:18+00:00",
- "fetched_at_central": "2026-11-22T03:00-06:00",
+ "fetched_at_utc": "2026-11-22T09:30:15+00:00",
+ "fetched_at_central": "2026-11-22T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -652,6 +652,19 @@
     "injury_note": null
    },
    {
+    "name": "Will Cuylle",
+    "player_key": "477.p.8699",
+    "nhl_team": "NYR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Jonathan Lekkerimäki",
     "player_key": "477.p.31592",
     "nhl_team": "VAN",
@@ -859,18 +872,6 @@
     "eligible": [
      "C",
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Adam Fantilli",
-    "player_key": "477.p.30546",
-    "nhl_team": "CBJ",
-    "position_type": "P",
-    "eligible": [
-     "C",
      "Util"
     ],
     "status": null,
