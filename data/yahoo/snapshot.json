@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-22T16:30:15+00:00",
- "fetched_at_central": "2026-11-22T10:30-06:00",
+ "fetched_at_utc": "2026-11-22T17:00:19+00:00",
+ "fetched_at_central": "2026-11-22T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -703,19 +703,6 @@
     "injury_note": null
    },
    {
-    "name": "Will Cuylle",
-    "player_key": "477.p.8699",
-    "nhl_team": "NYR",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Blake Coleman",
     "player_key": "477.p.5441",
     "nhl_team": "MIN",
@@ -871,6 +858,19 @@
     "position_type": "P",
     "eligible": [
      "D",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Tommy Novak",
+    "player_key": "477.p.6827",
+    "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
      "Util"
     ],
     "status": null,
