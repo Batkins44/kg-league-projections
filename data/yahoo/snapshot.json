@@ -1,11 +1,11 @@
 {
- "fetched_at_utc": "2026-11-23T16:30:19+00:00",
- "fetched_at_central": "2026-11-23T10:30-06:00",
+ "fetched_at_utc": "2026-11-23T17:00:21+00:00",
+ "fetched_at_central": "2026-11-23T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
   "waiver_priority": 6,
-  "adds_this_week": "0",
+  "adds_this_week": "1",
   "adds_max": 5
  },
  "week": 9,
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "230.74"
+   "projected": "248.93"
   },
   "opponent": {
    "name": "Dude where’s Makar",
@@ -66,26 +66,27 @@
     "injury_note": null
    },
    {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util"
+     "Util",
+     "IR",
+     "IR+"
     ],
     "slot": "LW",
-    "status": null,
-    "injury_note": null
+    "status": "IR",
+    "injury_note": "Upper Body"
    },
    {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
-     "LW",
      "RW",
      "Util"
     ],
@@ -94,11 +95,12 @@
     "injury_note": null
    },
    {
-    "name": "Nikita Kucherov",
-    "player_key": "477.p.5425",
-    "nhl_team": "TB",
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -159,13 +161,12 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Adam Fantilli",
+    "player_key": "477.p.30546",
+    "nhl_team": "CBJ",
     "position_type": "P",
     "eligible": [
-     "LW",
-     "RW",
+     "C",
      "Util"
     ],
     "slot": "Util",
@@ -173,9 +174,9 @@
     "injury_note": null
    },
    {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -187,20 +188,18 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util",
-     "IR",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "IR",
-    "injury_note": "Upper Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Brandon Hagel",
@@ -262,9 +261,9 @@
     "injury_note": null
    },
    {
-    "name": "Pyotr Kochetkov",
-    "player_key": "477.p.8314",
-    "nhl_team": "CAR",
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -274,9 +273,9 @@
     "injury_note": null
    },
    {
-    "name": "Karel Vejmelka",
-    "player_key": "477.p.6887",
-    "nhl_team": "UTA",
+    "name": "Pyotr Kochetkov",
+    "player_key": "477.p.8314",
+    "nhl_team": "CAR",
     "position_type": "G",
     "eligible": [
      "G"
@@ -327,26 +326,27 @@
     "injury_note": null
    },
    {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util"
+     "Util",
+     "IR",
+     "IR+"
     ],
     "slot": "LW",
-    "status": null,
-    "injury_note": null
+    "status": "IR",
+    "injury_note": "Upper Body"
    },
    {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
+    "name": "Nikita Kucherov",
+    "player_key": "477.p.5425",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
-     "LW",
      "RW",
      "Util"
     ],
@@ -355,11 +355,12 @@
     "injury_note": null
    },
    {
-    "name": "Nikita Kucherov",
-    "player_key": "477.p.5425",
-    "nhl_team": "TB",
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -420,13 +421,12 @@
     "injury_note": null
    },
    {
-    "name": "Joel Farabee",
-    "player_key": "477.p.7912",
-    "nhl_team": "CGY",
+    "name": "Adam Fantilli",
+    "player_key": "477.p.30546",
+    "nhl_team": "CBJ",
     "position_type": "P",
     "eligible": [
-     "LW",
-     "RW",
+     "C",
      "Util"
     ],
     "slot": "Util",
@@ -434,9 +434,9 @@
     "injury_note": null
    },
    {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -448,20 +448,18 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util",
-     "IR",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "IR",
-    "injury_note": "Upper Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Brandon Hagel",
@@ -523,9 +521,9 @@
     "injury_note": null
    },
    {
-    "name": "Pyotr Kochetkov",
-    "player_key": "477.p.8314",
-    "nhl_team": "CAR",
+    "name": "Karel Vejmelka",
+    "player_key": "477.p.6887",
+    "nhl_team": "UTA",
     "position_type": "G",
     "eligible": [
      "G"
@@ -535,9 +533,9 @@
     "injury_note": null
    },
    {
-    "name": "Karel Vejmelka",
-    "player_key": "477.p.6887",
-    "nhl_team": "UTA",
+    "name": "Pyotr Kochetkov",
+    "player_key": "477.p.8314",
+    "nhl_team": "CAR",
     "position_type": "G",
     "eligible": [
      "G"
@@ -555,7 +553,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "187.25"
+   "projected": "183.44"
   },
   "opponent": {
    "name": "Adrian's Astounding Team",
@@ -655,18 +653,6 @@
     "injury_note": null
    },
    {
-    "name": "Adam Fantilli",
-    "player_key": "477.p.30546",
-    "nhl_team": "CBJ",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Trevor Connelly",
     "player_key": "477.p.32765",
     "nhl_team": "VGK",
@@ -738,7 +724,7 @@
      "Util",
      "IR+"
     ],
-    "status": "DTD",
+    "status": "O",
     "injury_note": "Upper Body"
    },
    {
@@ -873,6 +859,19 @@
     "position_type": "P",
     "eligible": [
      "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Gabriel Vilardi",
+    "player_key": "477.p.7526",
+    "nhl_team": "WPG",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "RW",
      "Util"
     ],
     "status": null,
