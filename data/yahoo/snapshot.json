@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-22T23:30:16+00:00",
- "fetched_at_central": "2026-11-22T17:30-06:00",
+ "fetched_at_utc": "2026-11-23T00:00:25+00:00",
+ "fetched_at_central": "2026-11-22T18:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,13 +15,13 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "231.60",
+   "points": "232.60",
    "projected": "229.47"
   },
   "opponent": {
    "name": "Superman Aho",
    "points": "167.05",
-   "projected": "201.25"
+   "projected": "201.47"
   }
  },
  "lineup": {
@@ -740,18 +740,6 @@
     "injury_note": null
    },
    {
-    "name": "Frank Nazar",
-    "player_key": "477.p.30024",
-    "nhl_team": "CHI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Martin Pospisil",
     "player_key": "477.p.8002",
     "nhl_team": "CGY",
@@ -867,6 +855,19 @@
     "name": "Tommy Novak",
     "player_key": "477.p.6827",
     "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Emmitt Finnie",
+    "player_key": "477.p.30680",
+    "nhl_team": "DET",
     "position_type": "P",
     "eligible": [
      "C",
