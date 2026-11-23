@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-23T16:00:20+00:00",
- "fetched_at_central": "2026-11-23T10:00-06:00",
+ "fetched_at_utc": "2026-11-23T16:30:19+00:00",
+ "fetched_at_central": "2026-11-23T10:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -616,18 +616,6 @@
     "injury_note": null
    },
    {
-    "name": "Shane Pinto",
-    "player_key": "477.p.8310",
-    "nhl_team": "OTT",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Matvei Michkov",
     "player_key": "477.p.30548",
     "nhl_team": "PHI",
@@ -873,6 +861,18 @@
     "eligible": [
      "C",
      "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Christian Dvorak",
+    "player_key": "477.p.6427",
+    "nhl_team": "PHI",
+    "position_type": "P",
+    "eligible": [
+     "C",
      "Util"
     ],
     "status": null,
