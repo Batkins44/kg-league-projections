@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-24T09:00:28+00:00",
- "fetched_at_central": "2026-11-24T03:00-06:00",
+ "fetched_at_utc": "2026-11-24T09:30:24+00:00",
+ "fetched_at_central": "2026-11-24T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -827,6 +827,34 @@
     "injury_note": null
    },
    {
+    "name": "Gabriel Landeskog",
+    "player_key": "477.p.5363",
+    "nhl_team": "COL",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Evgeni Malkin",
+    "player_key": "477.p.3638",
+    "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "status": "DTD",
+    "injury_note": "Upper Body"
+   },
+   {
     "name": "Tommy Novak",
     "player_key": "477.p.6827",
     "nhl_team": "PIT",
@@ -847,31 +875,6 @@
     "eligible": [
      "C",
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Christian Dvorak",
-    "player_key": "477.p.6427",
-    "nhl_team": "PHI",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Gabriel Vilardi",
-    "player_key": "477.p.7526",
-    "nhl_team": "WPG",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
      "Util"
     ],
     "status": null,
