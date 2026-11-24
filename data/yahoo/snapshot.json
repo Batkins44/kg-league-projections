@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-24T05:30:16+00:00",
- "fetched_at_central": "2026-11-23T23:30-06:00",
+ "fetched_at_utc": "2026-11-24T06:00:21+00:00",
+ "fetched_at_central": "2026-11-24T00:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,7 +15,7 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "41.75",
+   "points": "46.75",
    "projected": "236.62"
   },
   "opponent": {
@@ -25,7 +25,7 @@
   }
  },
  "lineup": {
-  "2026-11-23": [
+  "2026-11-24": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -285,7 +285,7 @@
     "injury_note": null
    }
   ],
-  "2026-11-24": [
+  "2026-11-25": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -300,9 +300,9 @@
     "injury_note": null
    },
    {
-    "name": "Joel Eriksson Ek",
-    "player_key": "477.p.6762",
-    "nhl_team": "MIN",
+    "name": "Adam Fantilli",
+    "player_key": "477.p.30546",
+    "nhl_team": "CBJ",
     "position_type": "P",
     "eligible": [
      "C",
@@ -326,20 +326,18 @@
     "injury_note": null
    },
    {
-    "name": "Beckett Sennecke",
-    "player_key": "477.p.32779",
-    "nhl_team": "ANA",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util",
-     "IR",
-     "IR+"
+     "Util"
     ],
     "slot": "LW",
-    "status": "IR",
-    "injury_note": "Upper Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Nikita Kucherov",
@@ -355,9 +353,9 @@
     "injury_note": null
    },
    {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -421,9 +419,9 @@
     "injury_note": null
    },
    {
-    "name": "Adam Fantilli",
-    "player_key": "477.p.30546",
-    "nhl_team": "CBJ",
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
     "position_type": "P",
     "eligible": [
      "C",
@@ -434,9 +432,9 @@
     "injury_note": null
    },
    {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -448,18 +446,20 @@
     "injury_note": null
    },
    {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
+    "name": "Beckett Sennecke",
+    "player_key": "477.p.32779",
+    "nhl_team": "ANA",
     "position_type": "P",
     "eligible": [
      "LW",
      "RW",
-     "Util"
+     "Util",
+     "IR",
+     "IR+"
     ],
     "slot": "BN",
-    "status": null,
-    "injury_note": null
+    "status": "IR",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Brandon Hagel",
@@ -1016,7 +1016,12 @@
  "goalie_appearances": {
   "count": 0,
   "minimum": 3,
-  "by_day": [],
+  "by_day": [
+   {
+    "date": "2026-11-23",
+    "goalies": []
+   }
+  ],
   "stats_missing": [],
   "note": "Monday through yesterday; today's games aren't counted yet"
  },
