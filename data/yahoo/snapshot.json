@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-24T15:30:26+00:00",
- "fetched_at_central": "2026-11-24T09:30-06:00",
+ "fetched_at_utc": "2026-11-24T16:00:21+00:00",
+ "fetched_at_central": "2026-11-24T10:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -21,7 +21,7 @@
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "21.30",
-   "projected": "200.67"
+   "projected": "200.47"
   }
  },
  "lineup": {
