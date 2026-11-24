@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-24T15:00:24+00:00",
- "fetched_at_central": "2026-11-24T09:00-06:00",
+ "fetched_at_utc": "2026-11-24T15:30:26+00:00",
+ "fetched_at_central": "2026-11-24T09:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -564,37 +564,12 @@
  "free_agents": {
   "skaters": [
    {
-    "name": "Elias Lindholm",
-    "player_key": "477.p.5984",
-    "nhl_team": "BOS",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Zach Benson",
     "player_key": "477.p.30549",
     "nhl_team": "BUF",
     "position_type": "P",
     "eligible": [
      "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Ryan Leonard",
-    "player_key": "477.p.30550",
-    "nhl_team": "WSH",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
      "Util"
     ],
     "status": null,
@@ -872,6 +847,31 @@
     "position_type": "P",
     "eligible": [
      "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Charle-Edouard D'Astous",
+    "player_key": "477.p.8522",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "D",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Gabriel Landeskog",
+    "player_key": "477.p.5363",
+    "nhl_team": "COL",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
      "Util"
     ],
     "status": null,
