@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T09:30:16+00:00",
- "fetched_at_central": "2026-11-25T03:30-06:00",
+ "fetched_at_utc": "2026-11-25T10:00:26+00:00",
+ "fetched_at_central": "2026-11-25T04:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -576,6 +576,18 @@
     "injury_note": null
    },
    {
+    "name": "Trevor Connelly",
+    "player_key": "477.p.32765",
+    "nhl_team": "VGK",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Matvei Michkov",
     "player_key": "477.p.30548",
     "nhl_team": "PHI",
@@ -635,18 +647,6 @@
     "eligible": [
      "LW",
      "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Trevor Connelly",
-    "player_key": "477.p.32765",
-    "nhl_team": "VGK",
-    "position_type": "P",
-    "eligible": [
-     "LW",
      "Util"
     ],
     "status": null,
