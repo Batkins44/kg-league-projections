@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T00:30:19+00:00",
- "fetched_at_central": "2026-11-24T18:30-06:00",
+ "fetched_at_utc": "2026-11-25T01:00:19+00:00",
+ "fetched_at_central": "2026-11-24T19:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -553,12 +553,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "189.99"
+   "projected": "189.94"
   },
   "opponent": {
    "name": "Adrian's Astounding Team",
    "points": "0.00",
-   "projected": "202.94"
+   "projected": "202.97"
   }
  },
  "free_agents": {
