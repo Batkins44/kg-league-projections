@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T09:00:21+00:00",
- "fetched_at_central": "2026-11-25T03:00-06:00",
+ "fetched_at_utc": "2026-11-25T09:30:16+00:00",
+ "fetched_at_central": "2026-11-25T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -728,6 +728,18 @@
     "injury_note": null
    },
    {
+    "name": "Charlie Coyle",
+    "player_key": "477.p.4988",
+    "nhl_team": "CBJ",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Tye Kartye",
     "player_key": "477.p.9207",
     "nhl_team": "NYR",
@@ -864,21 +876,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Evgeni Malkin",
-    "player_key": "477.p.3638",
-    "nhl_team": "PIT",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "LW",
-     "RW",
-     "Util",
-     "IR+"
-    ],
-    "status": "DTD",
-    "injury_note": "Upper Body"
    }
   ],
   "goalies": [
@@ -897,6 +894,17 @@
     "name": "Devon Levi",
     "player_key": "477.p.30111",
     "nhl_team": "EDM",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Cam Talbot",
+    "player_key": "477.p.4854",
+    "nhl_team": "CBJ",
     "position_type": "G",
     "eligible": [
      "G"
@@ -996,17 +1004,6 @@
     "name": "Akira Schmid",
     "player_key": "477.p.8033",
     "nhl_team": "FLA",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Dan Vladar",
-    "player_key": "477.p.6817",
-    "nhl_team": "PHI",
     "position_type": "G",
     "eligible": [
      "G"
