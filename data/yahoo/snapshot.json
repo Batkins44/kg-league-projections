@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T14:00:20+00:00",
- "fetched_at_central": "2026-11-25T08:00-06:00",
+ "fetched_at_utc": "2026-11-25T14:30:20+00:00",
+ "fetched_at_central": "2026-11-25T08:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -904,17 +904,6 @@
     "injury_note": null
    },
    {
-    "name": "Cam Talbot",
-    "player_key": "477.p.4854",
-    "nhl_team": "CBJ",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Tristan Jarry",
     "player_key": "477.p.6024",
     "nhl_team": "EDM",
@@ -1006,6 +995,17 @@
     "name": "Dan Vladar",
     "player_key": "477.p.6817",
     "nhl_team": "PHI",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jake Allen",
+    "player_key": "477.p.4589",
+    "nhl_team": "NJ",
     "position_type": "G",
     "eligible": [
      "G"
