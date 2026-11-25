@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T00:00:20+00:00",
- "fetched_at_central": "2026-11-24T18:00-06:00",
+ "fetched_at_utc": "2026-11-25T00:30:19+00:00",
+ "fetched_at_central": "2026-11-24T18:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -702,18 +702,6 @@
     "injury_note": null
    },
    {
-    "name": "Ivan Barbashev",
-    "player_key": "477.p.6402",
-    "nhl_team": "VGK",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Martin Pospisil",
     "player_key": "477.p.8002",
     "nhl_team": "CGY",
@@ -876,6 +864,21 @@
     ],
     "status": null,
     "injury_note": null
+   },
+   {
+    "name": "Evgeni Malkin",
+    "player_key": "477.p.3638",
+    "nhl_team": "PIT",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "LW",
+     "RW",
+     "Util",
+     "IR+"
+    ],
+    "status": "DTD",
+    "injury_note": "Upper Body"
    }
   ],
   "goalies": [
