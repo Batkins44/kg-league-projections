@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T15:30:18+00:00",
- "fetched_at_central": "2026-11-25T09:30-06:00",
+ "fetched_at_utc": "2026-11-25T16:30:28+00:00",
+ "fetched_at_central": "2026-11-25T10:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "46.75",
-   "projected": "235.55"
+   "projected": "234.35"
   },
   "opponent": {
    "name": "Dude where’s Makar",
@@ -66,9 +66,9 @@
     "injury_note": null
    },
    {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -172,6 +172,20 @@
     "injury_note": null
    },
    {
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Timo Meier",
     "player_key": "477.p.6751",
     "nhl_team": "NJ",
@@ -200,22 +214,6 @@
     "slot": "BN",
     "status": "IR",
     "injury_note": "Upper Body"
-   },
-   {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util",
-     "IR",
-     "IR+"
-    ],
-    "slot": "BN",
-    "status": "IR",
-    "injury_note": "Lower Body"
    },
    {
     "name": "Ivan Demidov",
@@ -249,18 +247,6 @@
     "injury_note": "Shoulder"
    },
    {
-    "name": "Dustin Wolf",
-    "player_key": "477.p.8489",
-    "nhl_team": "CGY",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "slot": "G",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Karel Vejmelka",
     "player_key": "477.p.6887",
     "nhl_team": "UTA",
@@ -276,6 +262,18 @@
     "name": "Pyotr Kochetkov",
     "player_key": "477.p.8314",
     "nhl_team": "CAR",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Dustin Wolf",
+    "player_key": "477.p.8489",
+    "nhl_team": "CGY",
     "position_type": "G",
     "eligible": [
      "G"
@@ -469,13 +467,11 @@
     "eligible": [
      "LW",
      "RW",
-     "Util",
-     "IR",
-     "IR+"
+     "Util"
     ],
     "slot": "BN",
-    "status": "IR",
-    "injury_note": "Lower Body"
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Ivan Demidov",
@@ -873,11 +869,10 @@
      "C",
      "LW",
      "RW",
-     "Util",
-     "IR+"
+     "Util"
     ],
-    "status": "DTD",
-    "injury_note": "Upper Body"
+    "status": null,
+    "injury_note": null
    }
   ],
   "goalies": [
