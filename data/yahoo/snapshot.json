@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-25T14:30:20+00:00",
- "fetched_at_central": "2026-11-25T08:30-06:00",
+ "fetched_at_utc": "2026-11-25T15:00:23+00:00",
+ "fetched_at_central": "2026-11-25T09:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -948,17 +948,6 @@
     "injury_note": null
    },
    {
-    "name": "Ukko-Pekka Luukkonen",
-    "player_key": "477.p.7569",
-    "nhl_team": "BUF",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Devin Cooley",
     "player_key": "477.p.8794",
     "nhl_team": "CGY",
@@ -1006,6 +995,17 @@
     "name": "Jake Allen",
     "player_key": "477.p.4589",
     "nhl_team": "NJ",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Joey Daccord",
+    "player_key": "477.p.6941",
+    "nhl_team": "SEA",
     "position_type": "G",
     "eligible": [
      "G"
