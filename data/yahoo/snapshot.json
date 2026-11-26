@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-26T05:30:16+00:00",
- "fetched_at_central": "2026-11-25T23:30-06:00",
+ "fetched_at_utc": "2026-11-26T06:00:21+00:00",
+ "fetched_at_central": "2026-11-26T00:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,16 +16,16 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "115.35",
-   "projected": "237.52"
+   "projected": "237.02"
   },
   "opponent": {
    "name": "Dude where’s Makar",
    "points": "60.95",
-   "projected": "220.97"
+   "projected": "221.27"
   }
  },
  "lineup": {
-  "2026-11-25": [
+  "2026-11-26": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -40,9 +40,9 @@
     "injury_note": null
    },
    {
-    "name": "Adam Fantilli",
-    "player_key": "477.p.30546",
-    "nhl_team": "CBJ",
+    "name": "Joel Eriksson Ek",
+    "player_key": "477.p.6762",
+    "nhl_team": "MIN",
     "position_type": "P",
     "eligible": [
      "C",
@@ -66,9 +66,9 @@
     "injury_note": null
    },
    {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -93,9 +93,9 @@
     "injury_note": null
    },
    {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
+    "name": "Timo Meier",
+    "player_key": "477.p.6751",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -159,43 +159,15 @@
     "injury_note": null
    },
    {
-    "name": "Joel Eriksson Ek",
-    "player_key": "477.p.6762",
-    "nhl_team": "MIN",
+    "name": "Adam Fantilli",
+    "player_key": "477.p.30546",
+    "nhl_team": "CBJ",
     "position_type": "P",
     "eligible": [
      "C",
      "Util"
     ],
     "slot": "Util",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Timo Meier",
-    "player_key": "477.p.6751",
-    "nhl_team": "NJ",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
     "status": null,
     "injury_note": null
    },
@@ -214,6 +186,34 @@
     "slot": "BN",
     "status": "IR",
     "injury_note": "Upper Body"
+   },
+   {
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "BN",
+    "status": null,
+    "injury_note": null
    },
    {
     "name": "Ivan Demidov",
@@ -283,7 +283,7 @@
     "injury_note": null
    }
   ],
-  "2026-11-26": [
+  "2026-11-27": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -549,12 +549,12 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "0.00",
-   "projected": "191.00"
+   "projected": "191.57"
   },
   "opponent": {
    "name": "Adrian's Astounding Team",
    "points": "0.00",
-   "projected": "204.43"
+   "projected": "204.12"
   }
  },
  "free_agents": {
@@ -1011,7 +1011,7 @@
   ]
  },
  "goalie_appearances": {
-  "count": 0,
+  "count": 2,
   "minimum": 3,
   "by_day": [
    {
@@ -1021,6 +1021,13 @@
    {
     "date": "2026-11-24",
     "goalies": []
+   },
+   {
+    "date": "2026-11-25",
+    "goalies": [
+     "Dustin Wolf",
+     "Karel Vejmelka"
+    ]
    }
   ],
   "stats_missing": [],
