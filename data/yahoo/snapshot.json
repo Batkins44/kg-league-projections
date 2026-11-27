@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-27T16:30:18+00:00",
- "fetched_at_central": "2026-11-27T10:30-06:00",
+ "fetched_at_utc": "2026-11-27T17:00:18+00:00",
+ "fetched_at_central": "2026-11-27T11:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -550,7 +550,7 @@
   "opponent": {
    "name": "Adrian's Astounding Team",
    "points": "0.00",
-   "projected": "213.82"
+   "projected": "213.37"
   }
  },
  "free_agents": {
@@ -575,10 +575,11 @@
     "position_type": "P",
     "eligible": [
      "LW",
-     "Util"
+     "Util",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "O",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Blake Coleman",
