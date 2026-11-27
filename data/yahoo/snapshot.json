@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-27T09:00:21+00:00",
- "fetched_at_central": "2026-11-27T03:00-06:00",
+ "fetched_at_utc": "2026-11-27T09:30:16+00:00",
+ "fetched_at_central": "2026-11-27T03:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -606,9 +606,34 @@
     "injury_note": null
    },
    {
+    "name": "Easton Cowan",
+    "player_key": "477.p.30184",
+    "nhl_team": "TOR",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Viktor Arvidsson",
     "player_key": "477.p.6480",
     "nhl_team": "DET",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Arseny Gritsyuk",
+    "player_key": "477.p.30885",
+    "nhl_team": "NJ",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -712,6 +737,19 @@
     "nhl_team": "CGY",
     "position_type": "P",
     "eligible": [
+     "RW",
+     "Util"
+    ],
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Jake DeBrusk",
+    "player_key": "477.p.6756",
+    "nhl_team": "VAN",
+    "position_type": "P",
+    "eligible": [
+     "LW",
      "RW",
      "Util"
     ],
@@ -831,45 +869,6 @@
     ],
     "status": null,
     "injury_note": null
-   },
-   {
-    "name": "Tyson Foerster",
-    "player_key": "477.p.8663",
-    "nhl_team": "PHI",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Dmitry Orlov",
-    "player_key": "477.p.5254",
-    "nhl_team": "SJ",
-    "position_type": "P",
-    "eligible": [
-     "D",
-     "Util"
-    ],
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Martin Pospisil",
-    "player_key": "477.p.8002",
-    "nhl_team": "CGY",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "RW",
-     "Util",
-     "IR+"
-    ],
-    "status": "O",
-    "injury_note": "Upper Body"
    }
   ],
   "goalies": [
