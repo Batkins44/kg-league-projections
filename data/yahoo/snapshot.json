@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-27T05:30:20+00:00",
- "fetched_at_central": "2026-11-26T23:30-06:00",
+ "fetched_at_utc": "2026-11-27T06:00:18+00:00",
+ "fetched_at_central": "2026-11-27T00:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -25,7 +25,7 @@
   }
  },
  "lineup": {
-  "2026-11-26": [
+  "2026-11-27": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -281,7 +281,7 @@
     "injury_note": null
    }
   ],
-  "2026-11-27": [
+  "2026-11-28": [
    {
     "name": "Bo Horvat",
     "player_key": "477.p.5988",
@@ -322,9 +322,9 @@
     "injury_note": null
    },
    {
-    "name": "Brock Boeser",
-    "player_key": "477.p.6765",
-    "nhl_team": "VAN",
+    "name": "Seth Jarvis",
+    "player_key": "477.p.8653",
+    "nhl_team": "CAR",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -415,19 +415,6 @@
     "injury_note": null
    },
    {
-    "name": "Adam Fantilli",
-    "player_key": "477.p.30546",
-    "nhl_team": "CBJ",
-    "position_type": "P",
-    "eligible": [
-     "C",
-     "Util"
-    ],
-    "slot": "Util",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Beckett Sennecke",
     "player_key": "477.p.32779",
     "nhl_team": "ANA",
@@ -437,14 +424,27 @@
      "RW",
      "Util"
     ],
+    "slot": "Util",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Adam Fantilli",
+    "player_key": "477.p.30546",
+    "nhl_team": "CBJ",
+    "position_type": "P",
+    "eligible": [
+     "C",
+     "Util"
+    ],
     "slot": "BN",
     "status": null,
     "injury_note": null
    },
    {
-    "name": "Seth Jarvis",
-    "player_key": "477.p.8653",
-    "nhl_team": "CAR",
+    "name": "Brock Boeser",
+    "player_key": "477.p.6765",
+    "nhl_team": "VAN",
     "position_type": "P",
     "eligible": [
      "LW",
@@ -1025,6 +1025,10 @@
      "Dustin Wolf",
      "Karel Vejmelka"
     ]
+   },
+   {
+    "date": "2026-11-26",
+    "goalies": []
    }
   ],
   "stats_missing": [],
