@@ -1,6 +1,6 @@
 # Projections summary
 
-Built Thu Nov 26, 2026 01:27 PM Central (data fetched 2026-11-26T19:27:39+00:00 UTC). Team games played: 22 to 27 of 84. Goalie GA scored at -1.
+Built Fri Nov 27, 2026 01:23 PM Central (data fetched 2026-11-27T19:23:53+00:00 UTC). Team games played: 22 to 27 of 84. Goalie GA scored at -1.
 Players: 875 (521 without a preseason projection). Prior matches: {'exact': 346, 'unmatched': 7, 'alias': 1}.
 
 ## Top 30 skaters, blended points per game
@@ -19,7 +19,7 @@ Players: 875 (521 without a preseason projection). Prior matches: {'exact': 346,
 | Jack Hughes | NJD | C,LW | 25 | 6.52 | 6.70 | 6.29 | 3.10 | 326 | 21 |
 | Matt Boldy | MIN | LW,RW | 27 | 6.50 | 6.16 | 6.84 | 8.08 | 337 | 14 |
 | Brady Tkachuk | FLA | C,LW | 25 | 6.35 | 6.38 | 6.30 | 3.20 | 324 | 26 |
-| Jack Eichel | VGK | C | 26 | 6.30 | 6.45 | 6.30 | 5.83 | 328 | 20 |
+| Jack Eichel | VGK | C | 26 | 6.30 | 6.45 | 6.30 | 6.40 | 328 | 20 |
 | Cutter Gauthier | ANA | C,LW,RW | 25 | 6.27 | 5.18 | 7.74 | 7.21 | 325 | 22 |
 | Tage Thompson | BUF | C,RW | 25 | 6.26 | 5.76 | 6.96 | 7.58 | 335 | 16 |
 | Brandon Hagel | TBL | LW,RW | 21 | 6.24 | 5.73 | 6.85 | 1.75 | 320 | 28 |
@@ -103,8 +103,8 @@ Players: 875 (521 without a preseason projection). Prior matches: {'exact': 346,
 | Cam Talbot | CBJ | G | 14 | 6.33 | 6.24 | 6.35 | 6.38 | 170 | 149 |
 | Devon Levi | EDM | G | 14 | 6.28 | 6.24 | 6.52 | 5.08 | 151 | 203 |
 | Laurent Brossoit | ANA | G | 6 | 6.20 | 6.24 | 6.87 | 12.90 | 85 | 512 |
-| Dylan Garand | NYR | G | 16 | 6.00 | 6.24 | 6.00 | 8.45 | 164 | 164 |
-| Leevi Merilainen | VAN | G | 19 | 5.47 | 6.24 | 4.96 | 5.66 | 154 | 190 |
+| Dylan Garand | NYR | G | 16 | 6.00 | 6.24 | 6.00 | 6.80 | 164 | 164 |
+| Leevi Merilainen | VAN | G | 19 | 5.47 | 6.24 | 4.96 | 6.45 | 154 | 190 |
 | Sebastian Cossa | UTA | G | 11 | 5.28 | 6.24 | 4.94 | 7.00 | 103 | 411 |
 | Clay Stevenson | WPG | G | 5 | 5.24 | 6.24 | 3.82 |  | 57 | 665 |
 | Colten Ellis | BUF | G | 8 | 5.12 | 6.24 | 4.55 |  | 81 | 541 |
@@ -116,7 +116,7 @@ Players: 875 (521 without a preseason projection). Prior matches: {'exact': 346,
 | Kent Johnson | CBJ | C | 23 | 4.28 | 3.17 | 5.12 | 4.58 | 225 | 154 |
 | Cole Perfetti | WPG | C | 26 | 4.10 | 3.17 | 4.62 | 2.17 | 207 | 206 |
 | Frank Nazar | CHI | C | 23 | 3.95 | 3.17 | 4.54 | 6.08 | 192 | 271 |
-| Victor Olofsson | VGK | LW | 13 | 3.92 | 3.17 | 5.17 | 3.50 | 134 | 562 |
+| Victor Olofsson | VGK | LW | 13 | 3.92 | 3.17 | 5.17 | 2.90 | 134 | 562 |
 | Arseny Gritsyuk | NJD | RW | 25 | 3.85 | 3.17 | 4.26 | 2.20 | 197 | 244 |
 | Charlie Coyle | CBJ | C | 23 | 3.84 | 3.17 | 4.12 | 2.75 | 201 | 225 |
 
