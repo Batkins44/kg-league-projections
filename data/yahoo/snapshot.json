@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-28T03:00:19+00:00",
- "fetched_at_central": "2026-11-27T21:00-06:00",
+ "fetched_at_utc": "2026-11-28T03:30:17+00:00",
+ "fetched_at_central": "2026-11-27T21:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -15,7 +15,7 @@
   "status": "midevent",
   "me": {
    "name": "Ben's Slutty Team",
-   "points": "179.40",
+   "points": "180.90",
    "projected": "241.93"
   },
   "opponent": {
@@ -934,10 +934,11 @@
     "nhl_team": "SEA",
     "position_type": "G",
     "eligible": [
-     "G"
+     "G",
+     "IR+"
     ],
-    "status": null,
-    "injury_note": null
+    "status": "DTD",
+    "injury_note": "Upper Body"
    },
    {
     "name": "Devin Cooley",
