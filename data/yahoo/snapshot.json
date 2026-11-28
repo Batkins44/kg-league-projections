@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-28T18:00:20+00:00",
- "fetched_at_central": "2026-11-28T12:00-06:00",
+ "fetched_at_utc": "2026-11-28T18:30:17+00:00",
+ "fetched_at_central": "2026-11-28T12:30-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "180.90",
-   "projected": "242.77"
+   "projected": "242.12"
   },
   "opponent": {
    "name": "Dude where’s Makar",
@@ -245,18 +245,6 @@
     "injury_note": "Shoulder"
    },
    {
-    "name": "Dustin Wolf",
-    "player_key": "477.p.8489",
-    "nhl_team": "CGY",
-    "position_type": "G",
-    "eligible": [
-     "G"
-    ],
-    "slot": "G",
-    "status": null,
-    "injury_note": null
-   },
-   {
     "name": "Karel Vejmelka",
     "player_key": "477.p.6887",
     "nhl_team": "UTA",
@@ -272,6 +260,18 @@
     "name": "Pyotr Kochetkov",
     "player_key": "477.p.8314",
     "nhl_team": "CAR",
+    "position_type": "G",
+    "eligible": [
+     "G"
+    ],
+    "slot": "G",
+    "status": null,
+    "injury_note": null
+   },
+   {
+    "name": "Dustin Wolf",
+    "player_key": "477.p.8489",
+    "nhl_team": "CGY",
     "position_type": "G",
     "eligible": [
      "G"
