@@ -1,6 +1,6 @@
 {
- "fetched_at_utc": "2026-11-28T09:30:16+00:00",
- "fetched_at_central": "2026-11-28T03:30-06:00",
+ "fetched_at_utc": "2026-11-28T10:00:17+00:00",
+ "fetched_at_central": "2026-11-28T04:00-06:00",
  "league_key": "477.l.145812",
  "team": {
   "name": "Ben's Slutty Team",
@@ -16,7 +16,7 @@
   "me": {
    "name": "Ben's Slutty Team",
    "points": "180.90",
-   "projected": "241.52"
+   "projected": "242.77"
   },
   "opponent": {
    "name": "Dude where’s Makar",
@@ -159,6 +159,20 @@
     "injury_note": null
    },
    {
+    "name": "Brandon Hagel",
+    "player_key": "477.p.7264",
+    "nhl_team": "TB",
+    "position_type": "P",
+    "eligible": [
+     "LW",
+     "RW",
+     "Util"
+    ],
+    "slot": "Util",
+    "status": null,
+    "injury_note": null
+   },
+   {
     "name": "Beckett Sennecke",
     "player_key": "477.p.32779",
     "nhl_team": "ANA",
@@ -168,7 +182,7 @@
      "RW",
      "Util"
     ],
-    "slot": "Util",
+    "slot": "BN",
     "status": null,
     "injury_note": null
    },
@@ -189,20 +203,6 @@
     "name": "Brock Boeser",
     "player_key": "477.p.6765",
     "nhl_team": "VAN",
-    "position_type": "P",
-    "eligible": [
-     "LW",
-     "RW",
-     "Util"
-    ],
-    "slot": "BN",
-    "status": null,
-    "injury_note": null
-   },
-   {
-    "name": "Brandon Hagel",
-    "player_key": "477.p.7264",
-    "nhl_team": "TB",
     "position_type": "P",
     "eligible": [
      "LW",
